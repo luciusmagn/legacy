@@ -1,0 +1,19 @@
+2019-07-11 23:54:24,053 - root - DEBUG - Starting Suplemon...
+2019-07-11 23:54:24,054 - suplemon.config - DEBUG - Configuration file '/root/.config/suplemon/suplemon-config.json' doesn't exist.
+2019-07-11 23:54:24,054 - suplemon.config - INFO - Failed to load config file '/root/.config/suplemon/suplemon-config.json'.
+2019-07-11 23:54:24,054 - suplemon.config - DEBUG - Keymap file '/root/.config/suplemon/suplemon-keymap.json' doesn't exist.
+2019-07-11 23:54:24,055 - root - DEBUG - Setting debug_level to 20.
+2019-07-11 23:54:24,119 - module.system_clipboard - WARNING - Can't use system clipboard. Install 'xsel' or 'pbcopy' or 'xclip' for system clipboard support.
+2019-07-11 23:54:24,129 - suplemon.module_loader - ERROR - Failed loading module: crypt
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/suplemon/module_loader.py", line 66, in load_single
+    mod = imp.load_source(name, path)
+  File "/usr/lib/python3.7/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 696, in _load
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/usr/lib/python3.7/site-packages/suplemon/modules/crypt.py", line 5, in <module>
+    from Crypto import Random
+ModuleNotFoundError: No module named 'Crypto'

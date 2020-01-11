@@ -1,0 +1,11 @@
+{
+	"auto_match_enabled": false,
+	"ensure_newline_at_eof_on_save": false,
+	"extensions":
+	[
+		"tmac"
+	],
+	"indent_subsequent_lines": false,
+	"tab_size": 2,
+	"word_wrap": true
+}

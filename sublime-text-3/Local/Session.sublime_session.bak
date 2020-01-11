@@ -1,0 +1,3865 @@
+{
+	"folder_history":
+	[
+		"/root/remedias/anomie",
+		"/root/anomie",
+		"/root/admin",
+		"/root/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust",
+		"/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_contrib-0.3.13",
+		"/root/rhai",
+		"/root/remedias",
+		"/root/dfsdfsdf",
+		"/root/Medias-old",
+		"/root/potato",
+		"/root/ambivalence",
+		"/root/Meedias-new",
+		"/root/ratpoint",
+		"/root/ambivalence/ascii_czech",
+		"/root/ambivalence/watcher",
+		"/root/ansi_czech",
+		"/root/c2parser",
+		"/root/pebble-server",
+		"/root/pebble",
+		"/llvm-c2/c2compiler",
+		"/root/magnusi.tech",
+		"/root/awesome-rust",
+		"/root/ChatApp",
+		"/root/wily",
+		"/root/keen",
+		"/root/pirates",
+		"/root/memedias",
+		"/root/Pico",
+		"/root/Downloads/Medias",
+		"/root/clang",
+		"/root/Meedias",
+		"/usr/share/themes",
+		"/root/rim",
+		"/root/fitness",
+		"/root/prg_bin",
+		"/home/base62",
+		"/home/permutation",
+		"/home/simple_io",
+		"/home/rhai",
+		"/root/potatotest",
+		"/home/calc",
+		"/home/magnusi.tech",
+		"/home/nil",
+		"/home/c2parser",
+		"/home/markovr",
+		"/home/red",
+		"/home/actress",
+		"/root/nim",
+		"/home/mlstuff",
+		"/home/gru",
+		"/home/functor",
+		"/home/wellness",
+		"/home/mysite",
+		"/home/rustworld",
+		"/home/minilinuxfs",
+		"/home/hawser",
+		"/home/mltutils",
+		"/home/not_asscancer",
+		"/home/boo",
+		"/home/neuralmath",
+		"/home/rusic",
+		"/home/sic",
+		"/home/async_command",
+		"/home/rusting",
+		"/home/mpc-rs",
+		"/home/pen",
+		"/root/rust-gjk",
+		"/root/gjkbot",
+		"/home/gjkbot",
+		"/home/dwm",
+		"/home/materials",
+		"/home/rustgrade",
+		"/home/light_pencil",
+		"/home/recipe-reader",
+		"/home/nary",
+		"/home/minilinuxfs/src",
+		"/home/minilinuxfs/rsrc",
+		"/home/calc1",
+		"/home/pebble-server",
+		"/home/pebble",
+		"/home/rpcalc",
+		"/home/llparser",
+		"/home/platmgr",
+		"/home/nanopass",
+		"/home/general_concepts",
+		"/home/rustkr",
+		"/home/rusty",
+		"/home/sandy",
+		"/home/llvm-c2/c2compiler/c2c",
+		"/home/c2tc",
+		"/home/rustix",
+		"/home/cargo/src/bin",
+		"/home/tc2c",
+		"/home/Byte-World-Alpha",
+		"/home/micro-error",
+		"/home/pi/magnusi.tech",
+		"/home/zany",
+		"/home/tcp_rust",
+		"/home/micro",
+		"/home/rustlang1/src"
+	],
+	"last_version": 3143,
+	"last_window_id": 269,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1065.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mui-btn",
+						"mui-btn--raised"
+					],
+					[
+						"fetc",
+						"fetch_content"
+					],
+					[
+						"fetch",
+						"fetch_categories"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"owner",
+						"owner_strings"
+					],
+					[
+						"get",
+						"get_owners"
+					],
+					[
+						"text",
+						"text-align\tstyl"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"glo",
+						"global_perms"
+					],
+					[
+						"overf",
+						"overflow-x"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"mui-col",
+						"mui-col-md-10"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"mui-bt",
+						"mui-btn--accent"
+					],
+					[
+						"overflow",
+						"overflow-x"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"font",
+						"font-size\tstyl"
+					],
+					[
+						"trans",
+						"transition\tstyl"
+					],
+					[
+						"mui",
+						"mui-panel"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"head",
+						"header\tTag"
+					],
+					[
+						"reg",
+						"register_pass_confirm"
+					],
+					[
+						"register",
+						"register_pass"
+					],
+					[
+						"regi",
+						"register_pass"
+					],
+					[
+						"regis",
+						"register_name"
+					],
+					[
+						"log",
+						"login_name"
+					],
+					[
+						"login",
+						"login_name"
+					],
+					[
+						"lo",
+						"login_pass"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"to",
+						"to_string         Function (string.rs) : fn to_string(&self) -> String                                                               "
+					],
+					[
+						"read",
+						"read_to_string Function (fs.rs) : pub fn read_to_string<P: AsRef<Path>>(path: P) -> io::Result<String>"
+					],
+					[
+						"fr",
+						"from_str          Function (de.rs) : pub fn from_str<'de, T>(s: &'de str) -> Result<T, Error> where T: de::Deserialize<'de>,        "
+					],
+					[
+						"m",
+						"mtext  StructField (lib.rs) : [u8]                                                                  "
+					],
+					[
+						"set",
+						"set_mtext"
+					],
+					[
+						"de",
+						"de            Module (de.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.6.0/src/de.rs   "
+					],
+					[
+						"sered",
+						"serde_cbor  Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.6.0/src/lib.rs               "
+					],
+					[
+						"Conte",
+						"Content         Type (lib.rs) : type Content\\             "
+					],
+					[
+						"No",
+						"NotFound"
+					],
+					[
+						"patc",
+						"patch_perms   Function (lib.rs) : pub fn patch_perms(instanceid: String, userid: String, input: Json<AuthList>) -> Response"
+					],
+					[
+						"AuthL",
+						"AuthLogin    Struct (lib.rs) : pub struct AuthLogin   "
+					],
+					[
+						"rocke",
+						"rocket_contrib      Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_contrib-0.3.13/src/lib.rs"
+					],
+					[
+						"Auth",
+						"AuthInfo     Struct (lib.rs) : pub struct AuthInfo    "
+					],
+					[
+						"AuthIn",
+						"AuthInstance Struct (lib.rs) : pub struct AuthInstance"
+					],
+					[
+						"Auh",
+						"AuthInfo      Struct (lib.rs) : pub struct AuthInfo                             "
+					],
+					[
+						"Aut",
+						"AuthCategory  Struct (lib.rs) : pub struct AuthCategory                         "
+					],
+					[
+						"red",
+						"redb                     Module (lib.rs) : /root/remedias/api/page/../../crate/redb/src/lib.rs                                   "
+					],
+					[
+						"Std",
+						"Stdio                  Struct (process.rs) : pub struct Stdio(imp::Stdio)\\                                 "
+					],
+					[
+						"aut",
+						"auto_kill       Function (lib.rs) : pub fn auto_kill(mut self, kill: bool) -> Self                                    "
+					],
+					[
+						"ap",
+						"append_path"
+					],
+					[
+						"ini",
+						"init            Function (lib.rs) : pub fn init(mut self) -> Result<Self, IpcError>                                   "
+					],
+					[
+						"Mess",
+						"MessageQueue  Struct (lib.rs) : pub struct MessageQueue<T>                                                       "
+					],
+					[
+						"thr",
+						"thread            Module (mod.rs) : /root/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/thread/mod.rs                              "
+					],
+					[
+						"None",
+						"NoneError Struct (option.rs) : pub struct NoneError\\"
+					],
+					[
+						"Respon",
+						"Response         Enum (lib.rs) : pub enum Response {    "
+					],
+					[
+						"Respo",
+						"Response         Enum (lib.rs) : pub enum Response {    "
+					],
+					[
+						"Res",
+						"Request         Struct (request.rs) : pub struct Request<'r>                                                                 "
+					],
+					[
+						"ser",
+						"serde_json   Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-1.0.21/src/lib.rs              "
+					],
+					[
+						"while",
+						"while-let\twhile let … = … { … }"
+					],
+					[
+						"in",
+						"init            Function (lib.rs) : pub fn init(mut self) -> Result<Self, IpcError>                                   "
+					],
+					[
+						"write",
+						"writeStyled"
+					],
+					[
+						"pa",
+						"page"
+					],
+					[
+						"msqid",
+						"msqid_ds"
+					],
+					[
+						"Q",
+						"QueueDoesntExist     EnumVariant (lib.rs) : QueueDoesntExist,       "
+					],
+					[
+						"Un",
+						"UnknownErrorValue    EnumVariant (lib.rs) : UnknownErrorValue(i32), "
+					],
+					[
+						"from",
+						"from_i32"
+					],
+					[
+						"Err",
+						"Errno               Enum (errno.rs) : pub enum Errno {                                     "
+					],
+					[
+						"auto",
+						"auto_kill"
+					],
+					[
+						"Message",
+						"MessageQueue"
+					],
+					[
+						"Que",
+						"QueueFull"
+					],
+					[
+						"Queue",
+						"QueueIsUninitialized EnumVariant (lib.rs) : QueueIsUninitialized,   "
+					],
+					[
+						"Ipc",
+						"IpcError         Enum (lib.rs) : pub enum IpcError {     "
+					],
+					[
+						"IPC_S",
+						"IPC_SET"
+					],
+					[
+						"Ms",
+						"MsgCopy    EnumVariant (lib.rs) : MsgCopy = MSG_COPY,      "
+					],
+					[
+						"messa",
+						"message_mask"
+					],
+					[
+						"MSG",
+						"MSG_COPY"
+					],
+					[
+						"Mes",
+						"MessageQueue Struct (lib.rs) : pub struct MessageQueue<T>"
+					],
+					[
+						"M",
+						"MessageQueue Struct (lib.rs) : pub struct MessageQueue<T>"
+					],
+					[
+						"borr",
+						"borrow_mut                Function (boxed.rs) : fn borrow_mut(&mut self) -> &mut T                                                                                                                     "
+					],
+					[
+						"Boo",
+						"BorrowMut Trait (borrow.rs) : pub trait BorrowMut<Borrowed: ?Sized> : Borrow<Borrowed>"
+					],
+					[
+						"is_",
+						"is_ok             Function (result.rs) : pub fn is_ok(&self) -> bool                                                  "
+					],
+					[
+						"serde",
+						"serde_cbor"
+					],
+					[
+						"is",
+						"is_ok             Function (result.rs) : pub fn is_ok(&self) -> bool                                                  "
+					],
+					[
+						"Messa",
+						"MessageQueue          Struct (lib.rs) : pub struct MessageQueue<T>                                                                                    "
+					],
+					[
+						"Unk",
+						"UnknownReturnValue EnumVariant (lib.rs) : UnknownReturnValue(i32),"
+					],
+					[
+						"EIN",
+						"EINTR           EnumVariant (errno.rs) : EINTR = 4,            "
+					],
+					[
+						"EI",
+						"EIDRM           EnumVariant (errno.rs) : EIDRM = 43,           "
+					],
+					[
+						"EF",
+						"EFAULT          EnumVariant (errno.rs) : EFAULT = 14,          "
+					],
+					[
+						"EA",
+						"EAGAIN          EnumVariant (errno.rs) : EAGAIN = 11,          "
+					],
+					[
+						"Int",
+						"Into        Trait (convert.rs) : pub trait Into<T>: Sized"
+					],
+					[
+						"siz",
+						"size_of_val      Function (mem.rs) : pub fn size_of_val<T: ?Sized>(val: &T) -> usize         "
+					],
+					[
+						"c_",
+						"c_ushort    Type (mod.rs) : pub type c_ushort = u16\\   "
+					],
+					[
+						"extern",
+						"extern-mod\textern \"C\" { … }"
+					],
+					[
+						"ex",
+						"extern-fn\textern \"C\" fn …(…) { … }"
+					],
+					[
+						"static",
+						"static_server Module (static_server.rs) : /root/remedias/crate/restatic/src/static_server.rs                                              "
+					],
+					[
+						"un",
+						"unwrap_or         Function (result.rs) : pub fn unwrap_or(self, optb: T) -> T                                         "
+					],
+					[
+						"RC",
+						"RContent  Struct (models.rs) : pub struct RContent    "
+					],
+					[
+						"IC",
+						"IContent    Struct (models.rs) : pub struct IContent     "
+					],
+					[
+						"Rc",
+						"RContent  Struct (models.rs) : pub struct RContent    "
+					],
+					[
+						"tim",
+						"timestamp               Function (datetime.rs) : pub fn timestamp(&self) -> i64                                                                               "
+					],
+					[
+						"global",
+						"global_auth"
+					],
+					[
+						"se",
+						"selected_data"
+					],
+					[
+						"new",
+						"new_layout"
+					],
+					[
+						"instan",
+						"instanceid"
+					],
+					[
+						"intan",
+						"instance"
+					],
+					[
+						"stat",
+						"status            Function (response.rs) : pub fn status(&self) -> Status                                                                                                      "
+					],
+					[
+						"on",
+						"on_attach   Function (mod.rs) : fn on_attach(&self, rocket: Rocket) -> Result<Rocket, Rocket>    "
+					],
+					[
+						"F",
+						"Fairing        Trait (mod.rs) : pub trait Fairing: Send + Sync + 'static"
+					],
+					[
+						"Open",
+						"OpenOptions Struct (fs.rs) : pub struct OpenOptions(fs_imp::OpenOptions)\\        "
+					],
+					[
+						"db",
+						"db-lock"
+					],
+					[
+						"ele",
+						"eliminate_tokens"
+					],
+					[
+						"i",
+						"if"
+					],
+					[
+						"tokens",
+						"tokens_raw"
+					],
+					[
+						"inst",
+						"instance_id     Let (user.rs) : let instance_id = Uuid::parse_str(&instanceid).ok()?\\                                 "
+					],
+					[
+						"User",
+						"UserDeleteLocal  EnumVariant (user.rs) : UserDeleteLocal,    "
+					],
+					[
+						"ins",
+						"instance_id     Let (user.rs) : let instance_id = Uuid::parse_str(&instanceid).ok()?\\                                 "
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"Instance",
+						"InstanceCreate  EnumVariant (user.rs) : InstanceCreate,                 "
+					],
+					[
+						"Edi",
+						"EditArticle"
+					],
+					[
+						"get_",
+						"get_display Function (user.rs) : pub fn get_display(userid: String) -> JResponse"
+					],
+					[
+						"Bas",
+						"Basic"
+					],
+					[
+						"sed",
+						"send_message        Function (email.rs) : pub fn send_message(msg: &str, subject: &str, destination: (&str, &str)) -> SmtpResult          "
+					],
+					[
+						"send",
+						"send_message Function (email.rs) : pub fn send_message(msg: &str, subject: &str, destination: (&str, &str)) -> SmtpResult"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"paddin",
+						"padding-right"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"border-col",
+						"border-color"
+					],
+					[
+						"rpass",
+						"rpassword_confirm"
+					],
+					[
+						"rpsa",
+						"rpassword_confirm"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 391.0,
+				"last_filter": "settings",
+				"selected_items":
+				[
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"sele",
+						"UI: Select Skin"
+					],
+					[
+						"save s",
+						"UI: Save Skin"
+					],
+					[
+						"select color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"select clo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"des",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"split",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"selec",
+						"UI: Select Theme"
+					],
+					[
+						"togle ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"togle t",
+						"View: Toggle Tabs"
+					],
+					[
+						"SELEC",
+						"UI: Select Theme"
+					],
+					[
+						"TOGGLE TA",
+						"View: Toggle Tabs"
+					],
+					[
+						"select",
+						"UI: Select Theme"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"preferences",
+						"Preferences: Settings"
+					],
+					[
+						"instap",
+						"Package Control: Install Package"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"destr",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"skin",
+						"UI: Save Skin"
+					],
+					[
+						"select c",
+						"UI: Select Color Scheme"
+					],
+					[
+						"spl",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"sideb",
+						"View: Toggle Side Bar"
+					],
+					[
+						"stylus",
+						"Set Syntax: Stylus"
+					],
+					[
+						"spli",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"unfo",
+						"Unfold Comments"
+					],
+					[
+						"fold",
+						"Fold Comments"
+					],
+					[
+						"con",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"cove",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"warp",
+						"Wrap Plus: Wrap Lines"
+					],
+					[
+						"nim",
+						"Nim: List Nimble Package"
+					],
+					[
+						"prefere",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"save skin",
+						"UI: Save Skin"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"co nve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"de",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"split hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"destroy",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"destro",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle s",
+						"View: Toggle Side Bar"
+					],
+					[
+						"tog side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togg",
+						"View: Toggle Menu"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"toggle side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"select ",
+						"UI: Select Skin"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"t",
+						"View: Toggle Menu"
+					],
+					[
+						"sml",
+						"SublimeREPL: SML"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					],
+					[
+						"to",
+						"View: Toggle Menu"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"covert to ",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"SKIN",
+						"UI: Save Skin"
+					],
+					[
+						"SELECT",
+						"UI: Select Skin"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"unf",
+						"Unfold Comments"
+					],
+					[
+						"fold co",
+						"Fold Comments"
+					],
+					[
+						"shell",
+						"Shell Exec: Open"
+					],
+					[
+						"split curr",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"layout",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"repl sml",
+						"SublimeREPL: SML"
+					],
+					[
+						"repl",
+						"SublimeREPL: SML"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"convert to",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"instal",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"convert ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"set color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colorsc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"select theme",
+						"UI: Select Theme"
+					],
+					[
+						"conver t",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"git a",
+						"Git: Add All"
+					],
+					[
+						"toggle ",
+						"View: Toggle Menu"
+					],
+					[
+						"tg",
+						"Toggle Comment"
+					],
+					[
+						"e",
+						"Shell Exec: Open"
+					],
+					[
+						"exec",
+						"Shell Exec: Open"
+					],
+					[
+						"lay",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"carg",
+						"Build With: Cargo - Run"
+					],
+					[
+						"cargo run",
+						"Build With: Cargo - Run"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"open res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packare",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"set the",
+						"UI: Select Theme"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"select the",
+						"UI: Select Theme"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"toggl",
+						"View: Toggle Menu"
+					],
+					[
+						"colorsch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"toggle",
+						"View: Toggle Menu"
+					],
+					[
+						"colors",
+						"UI: Select Color Scheme"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commi",
+						"Git: Quick Commit (repo)"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit (repo)"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"git commit all",
+						"Git: Quick Commit (repo, only already added files)"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"format",
+						"RustFormat: Format File"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"RustFormat: Format File"
+					],
+					[
+						"convert t",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"Rus",
+						"Set Syntax: Rust Enhanced"
+					],
+					[
+						"",
+						"Build With: Cargo - Test"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"unfold",
+						"Fold Python : unfold content"
+					],
+					[
+						"fold com",
+						"Fold Comments"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Add All"
+					],
+					[
+						"ta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"Rust",
+						"Set Syntax: Rust"
+					],
+					[
+						"syntax spec",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"toggle men",
+						"View: Toggle Menu"
+					],
+					[
+						"enha",
+						"Set Syntax: Rust Enhanced"
+					],
+					[
+						"rust",
+						"Set Syntax: Rust Enhanced"
+					]
+				],
+				"width": 596.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/root/remedias/anomie/src/pages/index.js",
+				"/root/remedias/anomie/src/pages/index.html",
+				"/root/remedias/api/query/src/lib.rs",
+				"/root/remedias/anomie/src/pages/dashboard.js",
+				"/root/remedias/crate/reapi/src/response.rs",
+				"/root/remedias/api/category/src/bin/category_get.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_name.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_slug.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_owner.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_parent.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_domain.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_name.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_owner.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_tag.rs",
+				"/root/remedias/anomie/src/pages/index.styl",
+				"/root/remedias/api/query/src/bin/query_all.rs",
+				"/root/remedias/api/query/src/bin/query_random.rs",
+				"/root/remedias/api/query/src/bin/query_category_children.rs",
+				"/root/remedias/api/query/src/bin/query_category.rs",
+				"/root/remedias/api/query/src/bin/query_tag.rs",
+				"/root/remedias/src/lib.rs",
+				"/root/remedias/anomie/src/main.js",
+				"/root/remedias/anomie/src/app.js",
+				"/root/remedias/anomie/src/pages/dashboard.html",
+				"/root/remedias/anomie/src/pages/login.js",
+				"/root/remedias/anomie/aurelia_project/aurelia.json",
+				"/root/remedias/anomie/package.json",
+				"/root/remedias/api/user/src/bin/user_login.rs",
+				"/root/remedias/anomie/index.html",
+				"/root/remedias/api/query/src/bin/query_date_offset.rs",
+				"/root/remedias/api/query/src/bin/query_date.rs",
+				"/root/remedias/anomie/src/pages/login.html",
+				"/root/remedias/api/category/src/bin/category_patch_parent.rs",
+				"/root/remedias/api/category/src/bin/category_post_perms.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_name.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_domain.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete.rs",
+				"/root/remedias/api/category/src/bin/categories_delete.rs",
+				"/root/remedias/api/category/src/bin/categories_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_delete.rs",
+				"/root/remedias/api/category/src/bin/category_delete.rs",
+				"/root/remedias/api/category/src/bin/category_delete_perms.rs",
+				"/root/remedias/api/category/src/bin/category_patch_slug.rs",
+				"/root/remedias/api/category/src/bin/category_patch_perms.rs",
+				"/root/remedias/api/content/src/bin/content_patch_date.rs",
+				"/root/remedias/api/content/src/bin/content_patch_text.rs",
+				"/root/remedias/api/content/src/bin/content_patch_location.rs",
+				"/root/remedias/api/content/src/bin/content_patch_name.rs",
+				"/root/remedias/api/tags/src/bin/tags_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_patch.rs",
+				"/root/remedias/api/user/Cargo.toml",
+				"/root/remedias/Cargo.toml",
+				"/root/remedias/api/tags/src/bin/tags_g_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_patch.rs",
+				"/root/remedias/api/user/src/bin/user_patch_email.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_delete.rs",
+				"/root/remedias/api/user/src/bin/user_delete_perms.rs",
+				"/root/remedias/api/content/src/bin/content_delete.rs",
+				"/root/remedias/api/content/src/bin/content_post.rs",
+				"/root/remedias/crate/reapi/src/macros.rs",
+				"/root/remedias/misc/emails/changed.rs",
+				"/root/remedias/api/page/src/bin/page_patch.rs",
+				"/root/remedias/api/page/src/bin/page_delete.rs",
+				"/root/remedias/api/page/src/bin/page_post.rs",
+				"/root/remedias/api/user/src/bin/user_patch_nick.rs",
+				"/root/remedias/api/user/src/bin/user_delete.rs",
+				"/root/remedias/api/user/src/bin/user_patch_display.rs",
+				"/root/remedias/misc/emails/confirmation.rs",
+				"/root/remedias/api/user/src/bin/user_i_delete.rs",
+				"/root/remedias/api/user/src/bin/user_patch_perms.rs",
+				"/root/remedias/api/user/src/bin/user_i_login.rs",
+				"/root/remedias/api/content/src/bin/content_delete_location.rs",
+				"/root/remedias/api/category/src/bin/category_post.rs",
+				"/root/remedias/api/category/src/bin/category_patch_name.rs",
+				"/root/remedias/api/category/src/bin/categories_patch.rs",
+				"/root/remedias/crate/reutils/src/lib.rs",
+				"/root/remedias/crate/reutils/src/auth.rs",
+				"/root/remedias/crate/redb/src/models.rs",
+				"/root/remedias/crate/restatic/src/static_server.rs",
+				"/root/remedias/crate/relog/src/lib.rs",
+				"/root/remedias/anomie/.eslintrc.json",
+				"/root/remedias/crate/remail/src/lib.rs",
+				"/root/remedias/src/api/query.rs",
+				"/root/remedias/misc/emails",
+				"/root/remedias/anomie/src/pages/not-found.js",
+				"/root/remedias/anomie/src/pages/not-found.html",
+				"/root/remedias/anomie/src/app.html",
+				"/root/remedias/anomie/src/http.js",
+				"/root/remedias/anomie/src/pages",
+				"/root/remedias/api/category/src/bin/categories_get.rs",
+				"/root/remedias/api/category/src/bin/category_children.rs",
+				"/root/remedias/api/content/src/bin/content_get.rs",
+				"/root/remedias/api/content/src/bin/content_get_date.rs",
+				"/root/remedias/api/content/src/bin/content_get_history.rs",
+				"/root/remedias/api/content/src/bin/content_get_location.rs",
+				"/root/remedias/api/content/src/bin/content_get_name.rs",
+				"/root/remedias/api/content/src/bin/content_get_text.rs",
+				"/root/remedias/api/instance/src/bin/instance_get.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_domain.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_name.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_post.rs",
+				"/root/remedias/api/page/src/bin/page_get.rs",
+				"/root/remedias/api/page/src/bin/page_get_ids.rs",
+				"/root/remedias/api/page/src/bin/page_get_layouts.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_get.rs",
+				"/root/remedias/api/tags/src/bin/tags_get.rs",
+				"/root/remedias/api/user/src/bin/user_confirm.rs",
+				"/root/remedias/api/user/src/bin/user_get_display.rs",
+				"/root/remedias/api/user/src/bin/user_get_email.rs",
+				"/root/remedias/api/user/src/bin/user_get_me.rs",
+				"/root/remedias/api/user/src/bin/user_get_nick.rs",
+				"/root/remedias/api/user/src/bin/user_i_register.rs",
+				"/root/remedias/api/user/src/bin/user_post_perms.rs",
+				"/root/remedias/api/user/src/bin/user_register.rs",
+				"/root/remedias/src-front/src/components/Content/Article.vue",
+				"/root/remedias/src-front/src/components/Admin/EditArticle.vue",
+				"/root/remedias/crate/redb/src/lib.rs",
+				"/root/remedias/Rocket.toml",
+				"/root/remedias/crate/redb/Cargo.toml",
+				"/root/remedias/Cargo.lock",
+				"/root/remedias/misc/endpoints",
+				"/root/remedias/api/content/src/lib.rs",
+				"/root/remedias/README.md",
+				"/root/remedias/crate/ipc-rs/src/lib.rs",
+				"/root/remedias/crate/remail/Cargo.toml"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 280.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"query_category_by_name",
+					"qqq",
+					"\">",
+					"tags",
+					"console.log",
+					"query_category_by_name",
+					"query_category_by_parent",
+					"query_instance_by_domain",
+					"qqq",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_all",
+					"qqq",
+					"Response {}",
+					"{}",
+					"make_hash",
+					"h3",
+					"()]",
+					"Požadavky",
+					"Priorita",
+					"Zbývá",
+					"Stav:",
+					"toml",
+					"ring",
+					"redb::schema::content::",
+					"update_statement::changeset::",
+					"::changeset::",
+					"diesel::",
+					"diesel::expression::bound::",
+					"diesel::expression::operators::",
+					"where_clause::",
+					"diesel::query_builder::",
+					"kontroller",
+					"Kontroller",
+					"tags_controller",
+					"tags_g_get",
+					"content_get",
+					"user_patch_nick",
+					"content_get",
+					"category_controller",
+					"instance_get",
+					"category_controller",
+					"instance_get",
+					"content_get",
+					"instance_get",
+					"categories_get",
+					"category_get",
+					"instance_patch_owners",
+					"category_get",
+					"i_delete",
+					"category_get",
+					"rustc-demangle",
+					"query_controller",
+					"query_all",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"category_post",
+					"category_get",
+					"categories_get",
+					"categories_patch",
+					"categories_post",
+					"categories_get",
+					"page_get",
+					"use db",
+					"query_controller",
+					"page_get_ids",
+					"page_patch",
+					"page_post",
+					"page_get_ids",
+					"page_get",
+					"tags_get",
+					"use db",
+					"query controller",
+					"tags_patch",
+					"tags_post",
+					"tags_g_post",
+					"query controller",
+					"query_controller",
+					"tags_g_post",
+					"tags_g_patch",
+					"tags_g_post",
+					"tags_g_get",
+					"tags_g_post",
+					"target_g_get",
+					"query_all",
+					"query_random",
+					"query_all",
+					"println",
+					"rand",
+					"lazy",
+					"Json",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"RResponse",
+					"serde_json",
+					"Í",
+					"_log",
+					"rand",
+					"exists",
+					"exii",
+					"exists",
+					"escape",
+					"update",
+					"layoutUpdatedEvent",
+					"warnings",
+					"lazy_static",
+					"dropdown",
+					"this.\\$param",
+					"inProgress",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, String::new\\(\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some(status::Custom(Status::Ok, Json(v)))",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, String::new\\(\\)\\)\\)",
+					"text",
+					"name",
+					"perms"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"query_user_by_instance",
+					"query_user_by_nick",
+					"query_user_by_email",
+					"query_user_by_display",
+					"query_user_by_instance",
+					"query_category_by_slug",
+					"query_category_by_name",
+					"query_category_by_owner",
+					"query_category_by_parent",
+					"query_category_by_slug",
+					"query_category_by_name",
+					"query_category_by_owner",
+					"query_instance_by_tag",
+					"tag",
+					"query_instance_by_owner",
+					"ownerid",
+					"query_instance_by_name",
+					"namestr",
+					"query_instance_by_domain",
+					"query_instance_by_tag",
+					"query_instance_by_name",
+					"query_instance_by_owner",
+					"query_instance_by_domain",
+					"query_category_by_parent",
+					"Response { unimplemented!() }",
+					"h2",
+					"**Požadavky:**",
+					"**Priorita:**",
+					"**Zbývá:**",
+					"**Stav:**",
+					"",
+					"user_controller",
+					"user_delete_perms",
+					"user_patch_perms",
+					"user_post_perms",
+					"user_patch_email",
+					"user_patch_display",
+					"user_patch_nick",
+					"user_get_email",
+					"user_get_display",
+					"user_get_nick",
+					"user_get_me",
+					"user_i_delete",
+					"user_i_login",
+					"user_delete",
+					"user_login",
+					"user_confirm",
+					"user_register",
+					"user_delete_perms",
+					"user_patch_perms",
+					"user_post_perms",
+					"user_patch_email",
+					"user_patch_display",
+					"user_patch_nick",
+					"user_get_email",
+					"user_get_nick",
+					"user_get_display",
+					"user_get_me",
+					"user_i_delete",
+					"user_i_login",
+					"user_i_register",
+					"user_delete",
+					"user_login",
+					"user_confirm",
+					"user_register",
+					"content_controller",
+					"content_get_history",
+					"content_patch_text",
+					"content_get_text",
+					"content_patch_date",
+					"content_get_date",
+					"content_delete_location",
+					"content_patch_location",
+					"content_get_location",
+					"content_patch_name",
+					"content_get_name",
+					"content_delete",
+					"content_post",
+					"content_get",
+					"instance_controller",
+					"content_get_history",
+					"content_patch_text",
+					"content_get_text",
+					"content_get_date",
+					"content_delete_location",
+					"content_patch_location",
+					"content_get_location",
+					"content_get_name",
+					"content_patch_name",
+					"content_delete",
+					"content_post",
+					"content_get",
+					"instance_patch_domain",
+					"instance_get_domain",
+					"instance_patch_name",
+					"instance_get_name",
+					"instance_delete_owners",
+					"instance_patch_owners",
+					"instance_get_owners",
+					"instance_delete",
+					"instance_post",
+					"instance_get",
+					"instance_patch_domain",
+					"instance_get_domain",
+					"instance_patch_name",
+					"instance_get_name",
+					"instance_delete_owners",
+					"instance_patch_owners",
+					"instance_get_owners",
+					"instance_delete",
+					"instance_post",
+					"instance_get",
+					"category_controller",
+					"category_delete_perms",
+					"category_patch_perms",
+					"category_post_perms",
+					"category_patch_parent",
+					"category_patch_name",
+					"category_patch_slug",
+					"category_delete",
+					"category_post",
+					"category_get",
+					"category_children",
+					"categories_delete",
+					"categories_patch",
+					"categories_post",
+					"categories_get",
+					"category_delete_perms"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 96.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 222.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+			"replace":
+			{
+				"height": 73.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 495.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 376.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 209.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mui-btn",
+						"mui-btn--raised"
+					],
+					[
+						"fetc",
+						"fetch_content"
+					],
+					[
+						"fetch",
+						"fetch_categories"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"owner",
+						"owner_strings"
+					],
+					[
+						"get",
+						"get_owners"
+					],
+					[
+						"text",
+						"text-align\tstyl"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"glo",
+						"global_perms"
+					],
+					[
+						"overf",
+						"overflow-x"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"mui-col",
+						"mui-col-md-10"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"mui-bt",
+						"mui-btn--accent"
+					],
+					[
+						"overflow",
+						"overflow-x"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"font",
+						"font-size\tstyl"
+					],
+					[
+						"trans",
+						"transition\tstyl"
+					],
+					[
+						"mui",
+						"mui-panel"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"head",
+						"header\tTag"
+					],
+					[
+						"reg",
+						"register_pass_confirm"
+					],
+					[
+						"register",
+						"register_pass"
+					],
+					[
+						"regi",
+						"register_pass"
+					],
+					[
+						"regis",
+						"register_name"
+					],
+					[
+						"log",
+						"login_name"
+					],
+					[
+						"login",
+						"login_name"
+					],
+					[
+						"lo",
+						"login_pass"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"to",
+						"to_string         Function (string.rs) : fn to_string(&self) -> String                                                               "
+					],
+					[
+						"read",
+						"read_to_string Function (fs.rs) : pub fn read_to_string<P: AsRef<Path>>(path: P) -> io::Result<String>"
+					],
+					[
+						"fr",
+						"from_str          Function (de.rs) : pub fn from_str<'de, T>(s: &'de str) -> Result<T, Error> where T: de::Deserialize<'de>,        "
+					],
+					[
+						"m",
+						"mtext  StructField (lib.rs) : [u8]                                                                  "
+					],
+					[
+						"set",
+						"set_mtext"
+					],
+					[
+						"de",
+						"de            Module (de.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.6.0/src/de.rs   "
+					],
+					[
+						"sered",
+						"serde_cbor  Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.6.0/src/lib.rs               "
+					],
+					[
+						"Conte",
+						"Content         Type (lib.rs) : type Content\\             "
+					],
+					[
+						"No",
+						"NotFound"
+					],
+					[
+						"patc",
+						"patch_perms   Function (lib.rs) : pub fn patch_perms(instanceid: String, userid: String, input: Json<AuthList>) -> Response"
+					],
+					[
+						"AuthL",
+						"AuthLogin    Struct (lib.rs) : pub struct AuthLogin   "
+					],
+					[
+						"rocke",
+						"rocket_contrib      Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_contrib-0.3.13/src/lib.rs"
+					],
+					[
+						"Auth",
+						"AuthInfo     Struct (lib.rs) : pub struct AuthInfo    "
+					],
+					[
+						"AuthIn",
+						"AuthInstance Struct (lib.rs) : pub struct AuthInstance"
+					],
+					[
+						"Auh",
+						"AuthInfo      Struct (lib.rs) : pub struct AuthInfo                             "
+					],
+					[
+						"Aut",
+						"AuthCategory  Struct (lib.rs) : pub struct AuthCategory                         "
+					],
+					[
+						"red",
+						"redb                     Module (lib.rs) : /root/remedias/api/page/../../crate/redb/src/lib.rs                                   "
+					],
+					[
+						"Std",
+						"Stdio                  Struct (process.rs) : pub struct Stdio(imp::Stdio)\\                                 "
+					],
+					[
+						"aut",
+						"auto_kill       Function (lib.rs) : pub fn auto_kill(mut self, kill: bool) -> Self                                    "
+					],
+					[
+						"ap",
+						"append_path"
+					],
+					[
+						"ini",
+						"init            Function (lib.rs) : pub fn init(mut self) -> Result<Self, IpcError>                                   "
+					],
+					[
+						"Mess",
+						"MessageQueue  Struct (lib.rs) : pub struct MessageQueue<T>                                                       "
+					],
+					[
+						"thr",
+						"thread            Module (mod.rs) : /root/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/thread/mod.rs                              "
+					],
+					[
+						"None",
+						"NoneError Struct (option.rs) : pub struct NoneError\\"
+					],
+					[
+						"Respon",
+						"Response         Enum (lib.rs) : pub enum Response {    "
+					],
+					[
+						"Respo",
+						"Response         Enum (lib.rs) : pub enum Response {    "
+					],
+					[
+						"Res",
+						"Request         Struct (request.rs) : pub struct Request<'r>                                                                 "
+					],
+					[
+						"ser",
+						"serde_json   Module (lib.rs) : /root/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-1.0.21/src/lib.rs              "
+					],
+					[
+						"while",
+						"while-let\twhile let … = … { … }"
+					],
+					[
+						"in",
+						"init            Function (lib.rs) : pub fn init(mut self) -> Result<Self, IpcError>                                   "
+					],
+					[
+						"write",
+						"writeStyled"
+					],
+					[
+						"pa",
+						"page"
+					],
+					[
+						"msqid",
+						"msqid_ds"
+					],
+					[
+						"Q",
+						"QueueDoesntExist     EnumVariant (lib.rs) : QueueDoesntExist,       "
+					],
+					[
+						"Un",
+						"UnknownErrorValue    EnumVariant (lib.rs) : UnknownErrorValue(i32), "
+					],
+					[
+						"from",
+						"from_i32"
+					],
+					[
+						"Err",
+						"Errno               Enum (errno.rs) : pub enum Errno {                                     "
+					],
+					[
+						"auto",
+						"auto_kill"
+					],
+					[
+						"Message",
+						"MessageQueue"
+					],
+					[
+						"Que",
+						"QueueFull"
+					],
+					[
+						"Queue",
+						"QueueIsUninitialized EnumVariant (lib.rs) : QueueIsUninitialized,   "
+					],
+					[
+						"Ipc",
+						"IpcError         Enum (lib.rs) : pub enum IpcError {     "
+					],
+					[
+						"IPC_S",
+						"IPC_SET"
+					],
+					[
+						"Ms",
+						"MsgCopy    EnumVariant (lib.rs) : MsgCopy = MSG_COPY,      "
+					],
+					[
+						"messa",
+						"message_mask"
+					],
+					[
+						"MSG",
+						"MSG_COPY"
+					],
+					[
+						"Mes",
+						"MessageQueue Struct (lib.rs) : pub struct MessageQueue<T>"
+					],
+					[
+						"M",
+						"MessageQueue Struct (lib.rs) : pub struct MessageQueue<T>"
+					],
+					[
+						"borr",
+						"borrow_mut                Function (boxed.rs) : fn borrow_mut(&mut self) -> &mut T                                                                                                                     "
+					],
+					[
+						"Boo",
+						"BorrowMut Trait (borrow.rs) : pub trait BorrowMut<Borrowed: ?Sized> : Borrow<Borrowed>"
+					],
+					[
+						"is_",
+						"is_ok             Function (result.rs) : pub fn is_ok(&self) -> bool                                                  "
+					],
+					[
+						"serde",
+						"serde_cbor"
+					],
+					[
+						"is",
+						"is_ok             Function (result.rs) : pub fn is_ok(&self) -> bool                                                  "
+					],
+					[
+						"Messa",
+						"MessageQueue          Struct (lib.rs) : pub struct MessageQueue<T>                                                                                    "
+					],
+					[
+						"Unk",
+						"UnknownReturnValue EnumVariant (lib.rs) : UnknownReturnValue(i32),"
+					],
+					[
+						"EIN",
+						"EINTR           EnumVariant (errno.rs) : EINTR = 4,            "
+					],
+					[
+						"EI",
+						"EIDRM           EnumVariant (errno.rs) : EIDRM = 43,           "
+					],
+					[
+						"EF",
+						"EFAULT          EnumVariant (errno.rs) : EFAULT = 14,          "
+					],
+					[
+						"EA",
+						"EAGAIN          EnumVariant (errno.rs) : EAGAIN = 11,          "
+					],
+					[
+						"Int",
+						"Into        Trait (convert.rs) : pub trait Into<T>: Sized"
+					],
+					[
+						"siz",
+						"size_of_val      Function (mem.rs) : pub fn size_of_val<T: ?Sized>(val: &T) -> usize         "
+					],
+					[
+						"c_",
+						"c_ushort    Type (mod.rs) : pub type c_ushort = u16\\   "
+					],
+					[
+						"extern",
+						"extern-mod\textern \"C\" { … }"
+					],
+					[
+						"ex",
+						"extern-fn\textern \"C\" fn …(…) { … }"
+					],
+					[
+						"static",
+						"static_server Module (static_server.rs) : /root/remedias/crate/restatic/src/static_server.rs                                              "
+					],
+					[
+						"un",
+						"unwrap_or         Function (result.rs) : pub fn unwrap_or(self, optb: T) -> T                                         "
+					],
+					[
+						"RC",
+						"RContent  Struct (models.rs) : pub struct RContent    "
+					],
+					[
+						"IC",
+						"IContent    Struct (models.rs) : pub struct IContent     "
+					],
+					[
+						"Rc",
+						"RContent  Struct (models.rs) : pub struct RContent    "
+					],
+					[
+						"tim",
+						"timestamp               Function (datetime.rs) : pub fn timestamp(&self) -> i64                                                                               "
+					],
+					[
+						"global",
+						"global_auth"
+					],
+					[
+						"se",
+						"selected_data"
+					],
+					[
+						"new",
+						"new_layout"
+					],
+					[
+						"instan",
+						"instanceid"
+					],
+					[
+						"intan",
+						"instance"
+					],
+					[
+						"stat",
+						"status            Function (response.rs) : pub fn status(&self) -> Status                                                                                                      "
+					],
+					[
+						"on",
+						"on_attach   Function (mod.rs) : fn on_attach(&self, rocket: Rocket) -> Result<Rocket, Rocket>    "
+					],
+					[
+						"F",
+						"Fairing        Trait (mod.rs) : pub trait Fairing: Send + Sync + 'static"
+					],
+					[
+						"Open",
+						"OpenOptions Struct (fs.rs) : pub struct OpenOptions(fs_imp::OpenOptions)\\        "
+					],
+					[
+						"db",
+						"db-lock"
+					],
+					[
+						"ele",
+						"eliminate_tokens"
+					],
+					[
+						"i",
+						"if"
+					],
+					[
+						"tokens",
+						"tokens_raw"
+					],
+					[
+						"inst",
+						"instance_id     Let (user.rs) : let instance_id = Uuid::parse_str(&instanceid).ok()?\\                                 "
+					],
+					[
+						"User",
+						"UserDeleteLocal  EnumVariant (user.rs) : UserDeleteLocal,    "
+					],
+					[
+						"ins",
+						"instance_id     Let (user.rs) : let instance_id = Uuid::parse_str(&instanceid).ok()?\\                                 "
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"Instance",
+						"InstanceCreate  EnumVariant (user.rs) : InstanceCreate,                 "
+					],
+					[
+						"Edi",
+						"EditArticle"
+					],
+					[
+						"get_",
+						"get_display Function (user.rs) : pub fn get_display(userid: String) -> JResponse"
+					],
+					[
+						"Bas",
+						"Basic"
+					],
+					[
+						"sed",
+						"send_message        Function (email.rs) : pub fn send_message(msg: &str, subject: &str, destination: (&str, &str)) -> SmtpResult          "
+					],
+					[
+						"send",
+						"send_message Function (email.rs) : pub fn send_message(msg: &str, subject: &str, destination: (&str, &str)) -> SmtpResult"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"paddin",
+						"padding-right"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"border-col",
+						"border-color"
+					],
+					[
+						"rpass",
+						"rpassword_confirm"
+					],
+					[
+						"rpsa",
+						"rpassword_confirm"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/root/remedias/anomie/src/pages/dashboard.html",
+					"settings":
+					{
+						"buffer_size": 21456,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/api/query/src/bin/query_user_by_instance.rs",
+					"settings":
+					{
+						"buffer_size": 2043,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/api/query/src/bin/query_user_by_nick.rs",
+					"settings":
+					{
+						"buffer_size": 1947,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/api/query/src/bin/query_user_by_display.rs",
+					"settings":
+					{
+						"buffer_size": 1989,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/.config/sublime-text-3/Packages/User/Default.sublime-theme",
+					"settings":
+					{
+						"buffer_size": 233,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/crate/redb/src/models.rs",
+					"settings":
+					{
+						"buffer_size": 11668,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "extern crate rocket_contrib;\nextern crate reutils;\nextern crate ipc_rs;\nextern crate rocket;\nextern crate diesel;\nextern crate redb;\nextern crate uuid;\n\n#[macro_use] extern crate reapi;\n#[macro_use] extern crate relog as log;\n\nuse reapi::Response;\nuse ipc_rs::MessageQueue;\nuse reutils::{get_connection, adler32};\n\nuse uuid::Uuid;\nuse diesel::prelude::*;\n\nuse std::thread;\n\n/// Tato funkce je to, co ve výsledku odpovídá na požadavky\n/// `GET /<instanceid>/content`\npub fn responder(emailstr: String) -> Response {\n\tuse redb::schema::users::dsl::*;\n\n\tlet con = get_connection();\n\n\tmatch users\n\t\t.filter(email.ilike(format!(\"%{}%\", &emailstr)))\n\t\t.select(id)\n\t\t.load::<Uuid>(&con)\n\t{\n\t\tOk(v) => ok!(v),\n\t\tErr(e) => {\n\t\t\tlet msg = e.to_string();\n\t\t\tlog!(error, low, format!(\"query_user_by_email: encountered an error -> {}\", msg));\n\t\t\tbad_request!(format!(\"couldn't load content from database: {}\", e))\n\t\t}\n\t}\n}\n\nfn main() {\n\tredb::read_cfg();\n\n\tlet queue = match MessageQueue::<(String, i32)>::new(adler32(b\"query_user_by_email\"))\n\t\t.create()\n\t\t.init()\n\t{\n\t\tOk(q) => q,\n\t\tErr(e) => return log!(fatal, high, format!(\"query_user_by_email: couldn't create a queue -> {:?}\", e)),\n\t};\n\n\tlog!(info, low, \"query_user_by_email: entering main loop\");\n\tloop {\n\t\tmatch queue.recv() {\n\t\t\tOk((email, back_key)) => {\n\t\t\t\tthread::spawn(move || {\n\t\t\t\t\tlog!(info, low, \"query_user_by_email: received a message\");\n\t\t\t\t\tlet res = match MessageQueue::<Response>::new(back_key)\n\t\t\t\t\t\t.create()\n\t\t\t\t\t\t.init()\n\t\t\t\t\t{\n\t\t\t\t\t\tOk(q) => q,\n\t\t\t\t\t\tErr(e) => return log!(fatal, high, format!(\"query_user_by_email: couldn't create a queue -> {:?}\", e)),\n\t\t\t\t\t};\n\n\t\t\t\t\tlog!(info, low, \"query_user_by_email: responding\");\n\t\t\t\t\tif let Err(e) = res.send(responder(email), 1) {\n\t\t\t\t\t\tlog!(error, medium, format!(\"query_user_by_email: couldn't respond - {:?}\", e));\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t},\n\t\t\tErr(e) => log!(error, medium, format!(\"query_user_by_email: a queue error has occured -> {:?}\", e)),\n\t\t}\n\t}\n}\n\n\n\n\n\n\n\n\n\n",
+					"file": "/root/remedias/api/query/src/bin/query_user_by_email.rs",
+					"file_size": 1965,
+					"file_write_time": 131788298793292439,
+					"settings":
+					{
+						"buffer_size": 1970,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/.config/sublime-text-3/Packages/theme-greybeard/greybeard.sublime-theme",
+					"settings":
+					{
+						"buffer_size": 32261,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/api/query/src/bin/query_instance_by_name.rs",
+					"settings":
+					{
+						"buffer_size": 1997,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Rust/Cargo.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 289.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"selec",
+						"UI: Select Theme"
+					],
+					[
+						"togle men",
+						"View: Toggle Menu"
+					],
+					[
+						"sele",
+						"UI: Select Theme"
+					],
+					[
+						"select",
+						"UI: Select Theme"
+					],
+					[
+						"togle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"togle side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"save s",
+						"UI: Save Skin"
+					],
+					[
+						"select color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"select clo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"des",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"split",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"togle ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"togle t",
+						"View: Toggle Tabs"
+					],
+					[
+						"SELEC",
+						"UI: Select Theme"
+					],
+					[
+						"TOGGLE TA",
+						"View: Toggle Tabs"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"preferences",
+						"Preferences: Settings"
+					],
+					[
+						"instap",
+						"Package Control: Install Package"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"destr",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"skin",
+						"UI: Save Skin"
+					],
+					[
+						"select c",
+						"UI: Select Color Scheme"
+					],
+					[
+						"spl",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"sideb",
+						"View: Toggle Side Bar"
+					],
+					[
+						"stylus",
+						"Set Syntax: Stylus"
+					],
+					[
+						"spli",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"unfo",
+						"Unfold Comments"
+					],
+					[
+						"fold",
+						"Fold Comments"
+					],
+					[
+						"con",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"cove",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"warp",
+						"Wrap Plus: Wrap Lines"
+					],
+					[
+						"nim",
+						"Nim: List Nimble Package"
+					],
+					[
+						"prefere",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"save skin",
+						"UI: Save Skin"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"co nve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"de",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"split hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"destroy",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"destro",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle s",
+						"View: Toggle Side Bar"
+					],
+					[
+						"tog side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togg",
+						"View: Toggle Menu"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"toggle side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"select ",
+						"UI: Select Skin"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"t",
+						"View: Toggle Menu"
+					],
+					[
+						"sml",
+						"SublimeREPL: SML"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					],
+					[
+						"to",
+						"View: Toggle Menu"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"covert to ",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"SKIN",
+						"UI: Save Skin"
+					],
+					[
+						"SELECT",
+						"UI: Select Skin"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"unf",
+						"Unfold Comments"
+					],
+					[
+						"fold co",
+						"Fold Comments"
+					],
+					[
+						"shell",
+						"Shell Exec: Open"
+					],
+					[
+						"split curr",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"layout",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"repl sml",
+						"SublimeREPL: SML"
+					],
+					[
+						"repl",
+						"SublimeREPL: SML"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"convert to",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"convert ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"set color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colorsc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"select theme",
+						"UI: Select Theme"
+					],
+					[
+						"conver t",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"git a",
+						"Git: Add All"
+					],
+					[
+						"toggle ",
+						"View: Toggle Menu"
+					],
+					[
+						"tg",
+						"Toggle Comment"
+					],
+					[
+						"e",
+						"Shell Exec: Open"
+					],
+					[
+						"exec",
+						"Shell Exec: Open"
+					],
+					[
+						"lay",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"carg",
+						"Build With: Cargo - Run"
+					],
+					[
+						"cargo run",
+						"Build With: Cargo - Run"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"open res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packare",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"set the",
+						"UI: Select Theme"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"select the",
+						"UI: Select Theme"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"toggl",
+						"View: Toggle Menu"
+					],
+					[
+						"colorsch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"toggle",
+						"View: Toggle Menu"
+					],
+					[
+						"colors",
+						"UI: Select Color Scheme"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commi",
+						"Git: Quick Commit (repo)"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit (repo)"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"git commit all",
+						"Git: Quick Commit (repo, only already added files)"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"format",
+						"RustFormat: Format File"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"RustFormat: Format File"
+					],
+					[
+						"convert t",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"Rus",
+						"Set Syntax: Rust Enhanced"
+					],
+					[
+						"",
+						"Build With: Cargo - Test"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"unfold",
+						"Fold Python : unfold content"
+					],
+					[
+						"fold com",
+						"Fold Comments"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Add All"
+					],
+					[
+						"ta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"Rust",
+						"Set Syntax: Rust"
+					]
+				],
+				"width": 596.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/root/remedias",
+				"/root/remedias/src"
+			],
+			"file_history":
+			[
+				"/root/remedias/anomie/src/pages/index.js",
+				"/root/remedias/anomie/src/pages/index.html",
+				"/root/remedias/api/query/src/lib.rs",
+				"/root/remedias/anomie/src/pages/dashboard.js",
+				"/root/remedias/crate/reapi/src/response.rs",
+				"/root/remedias/api/category/src/bin/category_get.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_name.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_slug.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_owner.rs",
+				"/root/remedias/api/query/src/bin/query_category_by_parent.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_domain.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_name.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_owner.rs",
+				"/root/remedias/api/query/src/bin/query_instance_by_tag.rs",
+				"/root/remedias/anomie/src/pages/index.styl",
+				"/root/remedias/api/query/src/bin/query_all.rs",
+				"/root/remedias/api/query/src/bin/query_random.rs",
+				"/root/remedias/api/query/src/bin/query_category_children.rs",
+				"/root/remedias/api/query/src/bin/query_category.rs",
+				"/root/remedias/api/query/src/bin/query_tag.rs",
+				"/root/remedias/src/lib.rs",
+				"/root/remedias/anomie/src/main.js",
+				"/root/remedias/anomie/src/app.js",
+				"/root/remedias/anomie/src/pages/dashboard.html",
+				"/root/remedias/anomie/src/pages/login.js",
+				"/root/remedias/anomie/aurelia_project/aurelia.json",
+				"/root/remedias/anomie/package.json",
+				"/root/remedias/api/user/src/bin/user_login.rs",
+				"/root/remedias/anomie/index.html",
+				"/root/remedias/api/query/src/bin/query_date_offset.rs",
+				"/root/remedias/api/query/src/bin/query_date.rs",
+				"/root/remedias/anomie/src/pages/login.html",
+				"/root/remedias/api/category/src/bin/category_patch_parent.rs",
+				"/root/remedias/api/category/src/bin/category_post_perms.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_name.rs",
+				"/root/remedias/api/instance/src/bin/instance_patch_domain.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete.rs",
+				"/root/remedias/api/category/src/bin/categories_delete.rs",
+				"/root/remedias/api/category/src/bin/categories_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_delete.rs",
+				"/root/remedias/api/category/src/bin/category_delete.rs",
+				"/root/remedias/api/category/src/bin/category_delete_perms.rs",
+				"/root/remedias/api/category/src/bin/category_patch_slug.rs",
+				"/root/remedias/api/category/src/bin/category_patch_perms.rs",
+				"/root/remedias/api/content/src/bin/content_patch_date.rs",
+				"/root/remedias/api/content/src/bin/content_patch_text.rs",
+				"/root/remedias/api/content/src/bin/content_patch_location.rs",
+				"/root/remedias/api/content/src/bin/content_patch_name.rs",
+				"/root/remedias/api/tags/src/bin/tags_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_patch.rs",
+				"/root/remedias/api/user/Cargo.toml",
+				"/root/remedias/Cargo.toml",
+				"/root/remedias/api/tags/src/bin/tags_g_post.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_patch.rs",
+				"/root/remedias/api/user/src/bin/user_patch_email.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_delete.rs",
+				"/root/remedias/api/user/src/bin/user_delete_perms.rs",
+				"/root/remedias/api/content/src/bin/content_delete.rs",
+				"/root/remedias/api/content/src/bin/content_post.rs",
+				"/root/remedias/crate/reapi/src/macros.rs",
+				"/root/remedias/misc/emails/changed.rs",
+				"/root/remedias/api/page/src/bin/page_patch.rs",
+				"/root/remedias/api/page/src/bin/page_delete.rs",
+				"/root/remedias/api/page/src/bin/page_post.rs",
+				"/root/remedias/api/user/src/bin/user_patch_nick.rs",
+				"/root/remedias/api/user/src/bin/user_delete.rs",
+				"/root/remedias/api/user/src/bin/user_patch_display.rs",
+				"/root/remedias/misc/emails/confirmation.rs",
+				"/root/remedias/api/user/src/bin/user_i_delete.rs",
+				"/root/remedias/api/user/src/bin/user_patch_perms.rs",
+				"/root/remedias/api/user/src/bin/user_i_login.rs",
+				"/root/remedias/api/content/src/bin/content_delete_location.rs",
+				"/root/remedias/api/category/src/bin/category_post.rs",
+				"/root/remedias/api/category/src/bin/category_patch_name.rs",
+				"/root/remedias/api/category/src/bin/categories_patch.rs",
+				"/root/remedias/crate/reutils/src/lib.rs",
+				"/root/remedias/crate/reutils/src/auth.rs",
+				"/root/remedias/crate/redb/src/models.rs",
+				"/root/remedias/crate/restatic/src/static_server.rs",
+				"/root/remedias/crate/relog/src/lib.rs",
+				"/root/remedias/anomie/.eslintrc.json",
+				"/root/remedias/crate/remail/src/lib.rs",
+				"/root/remedias/src/api/query.rs",
+				"/root/remedias/misc/emails",
+				"/root/remedias/anomie/src/pages/not-found.js",
+				"/root/remedias/anomie/src/pages/not-found.html",
+				"/root/remedias/anomie/src/app.html",
+				"/root/remedias/anomie/src/http.js",
+				"/root/remedias/anomie/src/pages",
+				"/root/remedias/api/category/src/bin/categories_get.rs",
+				"/root/remedias/api/category/src/bin/category_children.rs",
+				"/root/remedias/api/content/src/bin/content_get.rs",
+				"/root/remedias/api/content/src/bin/content_get_date.rs",
+				"/root/remedias/api/content/src/bin/content_get_history.rs",
+				"/root/remedias/api/content/src/bin/content_get_location.rs",
+				"/root/remedias/api/content/src/bin/content_get_name.rs",
+				"/root/remedias/api/content/src/bin/content_get_text.rs",
+				"/root/remedias/api/instance/src/bin/instance_get.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_domain.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_name.rs",
+				"/root/remedias/api/instance/src/bin/instance_get_owners.rs",
+				"/root/remedias/api/instance/src/bin/instance_post.rs",
+				"/root/remedias/api/page/src/bin/page_get.rs",
+				"/root/remedias/api/page/src/bin/page_get_ids.rs",
+				"/root/remedias/api/page/src/bin/page_get_layouts.rs",
+				"/root/remedias/api/tags/src/bin/tags_g_get.rs",
+				"/root/remedias/api/tags/src/bin/tags_get.rs",
+				"/root/remedias/api/user/src/bin/user_confirm.rs",
+				"/root/remedias/api/user/src/bin/user_get_display.rs",
+				"/root/remedias/api/user/src/bin/user_get_email.rs",
+				"/root/remedias/api/user/src/bin/user_get_me.rs",
+				"/root/remedias/api/user/src/bin/user_get_nick.rs",
+				"/root/remedias/api/user/src/bin/user_i_register.rs",
+				"/root/remedias/api/user/src/bin/user_post_perms.rs",
+				"/root/remedias/api/user/src/bin/user_register.rs",
+				"/root/remedias/src-front/src/components/Content/Article.vue",
+				"/root/remedias/src-front/src/components/Admin/EditArticle.vue",
+				"/root/remedias/crate/redb/src/lib.rs",
+				"/root/remedias/Rocket.toml",
+				"/root/remedias/crate/redb/Cargo.toml",
+				"/root/remedias/Cargo.lock",
+				"/root/remedias/misc/endpoints",
+				"/root/remedias/api/content/src/lib.rs",
+				"/root/remedias/README.md",
+				"/root/remedias/crate/ipc-rs/src/lib.rs",
+				"/root/remedias/crate/remail/Cargo.toml"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 280.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"icon_",
+					"query_user_by_instance",
+					"query_category_by_name",
+					"qqq",
+					"\">",
+					"tags",
+					"console.log",
+					"query_category_by_name",
+					"query_category_by_parent",
+					"query_instance_by_domain",
+					"qqq",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_instance_by_domain",
+					"domainstr",
+					"query_all",
+					"qqq",
+					"Response {}",
+					"{}",
+					"make_hash",
+					"h3",
+					"()]",
+					"Požadavky",
+					"Priorita",
+					"Zbývá",
+					"Stav:",
+					"toml",
+					"ring",
+					"redb::schema::content::",
+					"update_statement::changeset::",
+					"::changeset::",
+					"diesel::",
+					"diesel::expression::bound::",
+					"diesel::expression::operators::",
+					"where_clause::",
+					"diesel::query_builder::",
+					"kontroller",
+					"Kontroller",
+					"tags_controller",
+					"tags_g_get",
+					"content_get",
+					"user_patch_nick",
+					"content_get",
+					"category_controller",
+					"instance_get",
+					"category_controller",
+					"instance_get",
+					"content_get",
+					"instance_get",
+					"categories_get",
+					"category_get",
+					"instance_patch_owners",
+					"category_get",
+					"i_delete",
+					"category_get",
+					"rustc-demangle",
+					"query_controller",
+					"query_all",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"AuthString",
+					"category_patch_slug",
+					"category_post",
+					"category_get",
+					"categories_get",
+					"categories_patch",
+					"categories_post",
+					"categories_get",
+					"page_get",
+					"use db",
+					"query_controller",
+					"page_get_ids",
+					"page_patch",
+					"page_post",
+					"page_get_ids",
+					"page_get",
+					"tags_get",
+					"use db",
+					"query controller",
+					"tags_patch",
+					"tags_post",
+					"tags_g_post",
+					"query controller",
+					"query_controller",
+					"tags_g_post",
+					"tags_g_patch",
+					"tags_g_post",
+					"tags_g_get",
+					"tags_g_post",
+					"target_g_get",
+					"query_all",
+					"query_random",
+					"query_all",
+					"println",
+					"rand",
+					"lazy",
+					"Json",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"RResponse",
+					"serde_json",
+					"Í",
+					"_log",
+					"rand",
+					"exists",
+					"exii",
+					"exists",
+					"escape",
+					"update",
+					"layoutUpdatedEvent",
+					"warnings",
+					"lazy_static",
+					"dropdown",
+					"this.\\$param",
+					"inProgress",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, String::new\\(\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some(status::Custom(Status::Ok, Json(v)))",
+					"Some\\(status::Custom\\(Status::Ok, Json\\((\\w+)\\)\\)\\)",
+					"Some\\(status::Custom\\(Status::Ok, String::new\\(\\)\\)\\)",
+					"text"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"query_user_by_email",
+					"query_user_by_display",
+					"query_user_by_nick",
+					"query_user_by_instance",
+					"query_user_by_nick",
+					"query_user_by_email",
+					"query_user_by_display",
+					"query_user_by_instance",
+					"query_category_by_slug",
+					"query_category_by_name",
+					"query_category_by_owner",
+					"query_category_by_parent",
+					"query_category_by_slug",
+					"query_category_by_name",
+					"query_category_by_owner",
+					"query_instance_by_tag",
+					"tag",
+					"query_instance_by_owner",
+					"ownerid",
+					"query_instance_by_name",
+					"namestr",
+					"query_instance_by_domain",
+					"query_instance_by_tag",
+					"query_instance_by_name",
+					"query_instance_by_owner",
+					"query_instance_by_domain",
+					"query_category_by_parent",
+					"Response { unimplemented!() }",
+					"h2",
+					"**Požadavky:**",
+					"**Priorita:**",
+					"**Zbývá:**",
+					"**Stav:**",
+					"",
+					"user_controller",
+					"user_delete_perms",
+					"user_patch_perms",
+					"user_post_perms",
+					"user_patch_email",
+					"user_patch_display",
+					"user_patch_nick",
+					"user_get_email",
+					"user_get_display",
+					"user_get_nick",
+					"user_get_me",
+					"user_i_delete",
+					"user_i_login",
+					"user_delete",
+					"user_login",
+					"user_confirm",
+					"user_register",
+					"user_delete_perms",
+					"user_patch_perms",
+					"user_post_perms",
+					"user_patch_email",
+					"user_patch_display",
+					"user_patch_nick",
+					"user_get_email",
+					"user_get_nick",
+					"user_get_display",
+					"user_get_me",
+					"user_i_delete",
+					"user_i_login",
+					"user_i_register",
+					"user_delete",
+					"user_login",
+					"user_confirm",
+					"user_register",
+					"content_controller",
+					"content_get_history",
+					"content_patch_text",
+					"content_get_text",
+					"content_patch_date",
+					"content_get_date",
+					"content_delete_location",
+					"content_patch_location",
+					"content_get_location",
+					"content_patch_name",
+					"content_get_name",
+					"content_delete",
+					"content_post",
+					"content_get",
+					"instance_controller",
+					"content_get_history",
+					"content_patch_text",
+					"content_get_text",
+					"content_get_date",
+					"content_delete_location",
+					"content_patch_location",
+					"content_get_location",
+					"content_get_name",
+					"content_patch_name",
+					"content_delete",
+					"content_post",
+					"content_get",
+					"instance_patch_domain",
+					"instance_get_domain",
+					"instance_patch_name",
+					"instance_get_name",
+					"instance_delete_owners",
+					"instance_patch_owners",
+					"instance_get_owners",
+					"instance_delete",
+					"instance_post",
+					"instance_get",
+					"instance_patch_domain",
+					"instance_get_domain",
+					"instance_patch_name",
+					"instance_get_name",
+					"instance_delete_owners",
+					"instance_patch_owners",
+					"instance_get_owners",
+					"instance_delete",
+					"instance_post",
+					"instance_get",
+					"category_controller",
+					"category_delete_perms",
+					"category_patch_perms",
+					"category_post_perms",
+					"category_patch_parent",
+					"category_patch_name",
+					"category_patch_slug",
+					"category_delete",
+					"category_post",
+					"category_get",
+					"category_children",
+					"categories_delete",
+					"categories_patch"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/root/remedias"
+				},
+				{
+					"path": "/root/remedias/anomie"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/root/remedias/anomie/src/pages/dashboard.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21456,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20310,
+										20310
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Polymer Syntax/polymer.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 12564.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/root/remedias/api/query/src/bin/query_user_by_instance.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2043,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										354,
+										354
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/root/remedias/api/query/src/bin/query_user_by_nick.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1947,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										577,
+										577
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/root/remedias/api/query/src/bin/query_user_by_display.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1989,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										688,
+										688
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/root/.config/sublime-text-3/Packages/User/Default.sublime-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										71,
+										71
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/root/remedias/crate/redb/src/models.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2393,
+										2393
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/root/remedias/api/query/src/bin/query_user_by_email.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1970,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1970,
+										1970
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 128,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/root/.config/sublime-text-3/Packages/theme-greybeard/greybeard.sublime-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32261,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18529,
+										18529
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 156625.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/root/remedias/api/query/src/bin/query_instance_by_name.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1997,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										621,
+										646
+									]
+								],
+								"settings":
+								{
+									"doccontinue.autostop": true,
+									"doccontinue.enabled": true,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 96.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 222.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+			"position": "0,0,0,0,0,0,15,1920,1080,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 495.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 376.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 180.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 254,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

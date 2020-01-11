@@ -1,0 +1,3196 @@
+{
+	"folder_history":
+	[
+		"/root/remedias",
+		"/root/magnusi.tech",
+		"/root/git.sr.ht",
+		"/root/ipc-channel",
+		"/root/kavarna_template",
+		"/root/soutez_prg",
+		"/root/seznam",
+		"/root/remedias/src",
+		"/root/remedias/misc",
+		"/root/remedias/migrations",
+		"/root/remedias/crate",
+		"/root/remedias/api",
+		"/root/remedias/meedias_frontend",
+		"/root/zkouseni",
+		"/root/tv",
+		"/root/pravopis",
+		"/root/ambivalence",
+		"/root/remedias/api/page",
+		"/root/suave",
+		"/root/provizorium",
+		"/root/tmp/src/frontend",
+		"/root/backend",
+		"/root/ocr",
+		"/root/bitcoin",
+		"/root/odmocniny",
+		"/root/msgdb",
+		"/root/snakeml",
+		"/root/bow",
+		"/root/backend/frontend",
+		"/root/remedias/skelington",
+		"/root/paranomie",
+		"/",
+		"/root/remedias/anomie",
+		"/root/symposion",
+		"/root/reasonml-minimal-config",
+		"/root/dwm",
+		"/root/symposion/src",
+		"/root/ratpoint",
+		"/root/rstd",
+		"/root",
+		"/root/anomie",
+		"/root/admin",
+		"/root/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust",
+		"/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_contrib-0.3.13",
+		"/root/rhai",
+		"/root/dfsdfsdf",
+		"/root/Medias-old",
+		"/root/potato",
+		"/root/Meedias-new",
+		"/root/ambivalence/ascii_czech",
+		"/root/ambivalence/watcher",
+		"/root/ansi_czech",
+		"/root/c2parser",
+		"/root/pebble-server",
+		"/root/pebble",
+		"/llvm-c2/c2compiler",
+		"/root/awesome-rust",
+		"/root/ChatApp",
+		"/root/wily",
+		"/root/keen",
+		"/root/pirates",
+		"/root/memedias",
+		"/root/Pico",
+		"/root/Downloads/Medias",
+		"/root/clang",
+		"/root/Meedias",
+		"/usr/share/themes",
+		"/root/rim",
+		"/root/fitness",
+		"/root/prg_bin",
+		"/home/base62",
+		"/home/permutation",
+		"/home/simple_io",
+		"/home/rhai",
+		"/root/potatotest",
+		"/home/calc",
+		"/home/magnusi.tech",
+		"/home/nil",
+		"/home/c2parser",
+		"/home/markovr",
+		"/home/red",
+		"/home/actress",
+		"/root/nim",
+		"/home/mlstuff",
+		"/home/gru",
+		"/home/functor",
+		"/home/wellness",
+		"/home/mysite",
+		"/home/rustworld",
+		"/home/minilinuxfs",
+		"/home/hawser",
+		"/home/mltutils",
+		"/home/not_asscancer",
+		"/home/boo",
+		"/home/neuralmath",
+		"/home/rusic",
+		"/home/sic",
+		"/home/async_command",
+		"/home/rusting",
+		"/home/mpc-rs",
+		"/home/pen",
+		"/root/rust-gjk",
+		"/root/gjkbot",
+		"/home/gjkbot",
+		"/home/dwm",
+		"/home/materials",
+		"/home/rustgrade",
+		"/home/light_pencil",
+		"/home/recipe-reader",
+		"/home/nary",
+		"/home/minilinuxfs/src",
+		"/home/minilinuxfs/rsrc",
+		"/home/calc1",
+		"/home/pebble-server",
+		"/home/pebble",
+		"/home/rpcalc",
+		"/home/llparser",
+		"/home/platmgr",
+		"/home/nanopass",
+		"/home/general_concepts",
+		"/home/rustkr",
+		"/home/rusty",
+		"/home/sandy",
+		"/home/llvm-c2/c2compiler/c2c",
+		"/home/c2tc",
+		"/home/rustix",
+		"/home/cargo/src/bin",
+		"/home/tc2c"
+	],
+	"last_version": 3211,
+	"last_window_id": 388,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1424.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"upda",
+						"update_users_with_role\t  pub fn update_users_with_role(role_id: Uuid, info: &AuthToken<reason::Roles>)"
+					],
+					[
+						"get",
+						"get_connection\t  pub fn get_connection() -> PgConnection"
+					],
+					[
+						"None",
+						"NoneError\t  pub struct NoneError;"
+					],
+					[
+						"inst",
+						"instance_id\t  let instance_id = Uuid::parse_str(&instanceid).ok()?;"
+					],
+					[
+						"print",
+						"println\tprintln!(…)"
+					],
+					[
+						"Path",
+						"PathBuf\t  pub struct PathBuf"
+					],
+					[
+						"filter",
+						"filter_map"
+					],
+					[
+						"query",
+						"query_category"
+					],
+					[
+						"del",
+						"DeleteBy         EnumVariant (lib.rs) : DeleteBy(F),                                                          "
+					],
+					[
+						"Up",
+						"Update           EnumVariant (lib.rs) : Update(Uuid, F),                                                      "
+					],
+					[
+						"Dele",
+						"DeleteByMultiple EnumVariant (lib.rs) : DeleteByMultiple(Vec<F>),                                             "
+					],
+					[
+						"Delet",
+						"Delete   Struct (lib.rs) : pub struct Delete\\  "
+					],
+					[
+						"Fil",
+						"filter_mutliple"
+					],
+					[
+						"delete",
+						"delete_by_multiple   Function (lib.rs) : fn delete_by_multiple(fs: Vec<F>) -> DbResponse<Self>                                                            "
+					],
+					[
+						"Ins",
+						"insert_multiple      Function (lib.rs) : fn insert_multiple(src: Vec<Self>) -> DbResponse<Model>                                                          "
+					],
+					[
+						"inser",
+						"InsertMultiple"
+					],
+					[
+						"Filter",
+						"FilterMultiple"
+					],
+					[
+						"Upda",
+						"UpdateMultiple"
+					],
+					[
+						"DeleteBy",
+						"DeleteByMultiple"
+					],
+					[
+						"Delete",
+						"DeleteBy"
+					],
+					[
+						"De",
+						"Delete   Struct (lib.rs) : pub struct Delete\\  "
+					],
+					[
+						"insert",
+						"insert_name                 Let (lib.rs) : let insert_name\\                                                                                           "
+					],
+					[
+						"project",
+						"project_metadata"
+					],
+					[
+						"projec",
+						"project_metadata"
+					],
+					[
+						"to_s",
+						"to_string"
+					],
+					[
+						"IN",
+						"InstanceOwners"
+					],
+					[
+						"In",
+						"InstanceOwners"
+					],
+					[
+						"instanc",
+						"instance_id"
+					],
+					[
+						"Auth",
+						"AuthToken"
+					],
+					[
+						"Userde",
+						"UserDeleteLocal"
+					],
+					[
+						"Insta",
+						"InstanceDelete"
+					],
+					[
+						"Con",
+						"ContentCategories"
+					],
+					[
+						"Tags",
+						"TagsGlobal"
+					],
+					[
+						"to_",
+						"to_reason"
+					],
+					[
+						"impl_",
+						"impl_from_data"
+					],
+					[
+						"Ipc",
+						"IpcSender"
+					],
+					[
+						"deser",
+						"deserialize"
+					],
+					[
+						"server",
+						"server_name"
+					],
+					[
+						"in",
+						"into_variant"
+					],
+					[
+						"Res",
+						"ResponseVariants"
+					],
+					[
+						"Not",
+						"NotFound"
+					],
+					[
+						"as",
+						"as_ref"
+					],
+					[
+						"Response",
+						"ResponseVariants"
+					],
+					[
+						"safe",
+						"safe_mode"
+					],
+					[
+						"new",
+						"new_coords"
+					],
+					[
+						"Respon",
+						"ResponseBuilder"
+					],
+					[
+						"Raw",
+						"MapRaw"
+					],
+					[
+						"read",
+						"read_to_string"
+					],
+					[
+						"Inf",
+						"InfBomb"
+					],
+					[
+						"priv",
+						"privkey"
+					],
+					[
+						"Atu",
+						"AuthToken"
+					],
+					[
+						"file",
+						"file_exists"
+					],
+					[
+						"Aut",
+						"AuthToken"
+					],
+					[
+						"unw",
+						"unwrap"
+					],
+					[
+						"serde",
+						"serde_json"
+					],
+					[
+						"Au",
+						"AuthToken"
+					],
+					[
+						"unwra",
+						"unwrap_or_else"
+					],
+					[
+						"pub",
+						"pub_key"
+					],
+					[
+						"backgr",
+						"background-size\tstyl"
+					],
+					[
+						"konta",
+						"kontakt_renderers"
+					],
+					[
+						"font",
+						"font-family\tstyl"
+					],
+					[
+						"za",
+						"zakaznik"
+					],
+					[
+						"Entry",
+						"EntryFujTime"
+					],
+					[
+						"text",
+						"text_name"
+					],
+					[
+						"paddin",
+						"padding-top\tstyl"
+					],
+					[
+						"flex-",
+						"flex-grow\tstyl"
+					],
+					[
+						"grid",
+						"grid-row-end\tstyl"
+					],
+					[
+						"grid-r",
+						"grid-row-start\tstyl"
+					],
+					[
+						"grid-templ",
+						"grid-template-rows\tstyl"
+					],
+					[
+						"min",
+						"min-height\tstyl"
+					],
+					[
+						"ba",
+						"background\tstyl"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"tran",
+						"transform\tstyl"
+					],
+					[
+						"arti",
+						"article_renderers\t  unit => <  >"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"set",
+						"setInvalid"
+					],
+					[
+						"mar",
+						"margin-bottom\tstyl"
+					],
+					[
+						"use",
+						"useState"
+					],
+					[
+						"back",
+						"background-color\tstyl"
+					],
+					[
+						"Quill",
+						"QuillCompat"
+					],
+					[
+						"defa",
+						"defaultValue"
+					],
+					[
+						"dea",
+						"defaultValue"
+					],
+					[
+						"outpu",
+						"outputDir\tconst"
+					],
+					[
+						"ins",
+						"instance"
+					],
+					[
+						"se",
+						"setAsString"
+					],
+					[
+						"pa",
+						"pageService\tproperty"
+					],
+					[
+						"mocni",
+						"mocninca"
+					],
+					[
+						"im",
+						"image_url"
+					],
+					[
+						"lettre",
+						"lettre_email"
+					],
+					[
+						"owners",
+						"owners_loaded"
+					],
+					[
+						"Profiel",
+						"ProfileDisplay"
+					],
+					[
+						"Static",
+						"StaticText"
+					],
+					[
+						"Login",
+						"LoginButton"
+					],
+					[
+						"Profile",
+						"ProfileButton"
+					],
+					[
+						"Profi",
+						"ProfileButton"
+					],
+					[
+						"button",
+						"button-white"
+					],
+					[
+						"ta",
+						"tab_val"
+					],
+					[
+						"document",
+						"document_map"
+					],
+					[
+						"deco",
+						"decorations"
+					],
+					[
+						"Ath",
+						"AuthorID"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"force-",
+						"force-column"
+					],
+					[
+						"re",
+						"renderToElementWithId"
+					],
+					[
+						"Interna",
+						"InternalServerError"
+					],
+					[
+						"Hash",
+						"HashMap             Struct (map.rs) : pub struct HashMap<K, V, S = RandomState>                                                                                       "
+					],
+					[
+						"input",
+						"input-group"
+					],
+					[
+						"inp",
+						"input-group"
+					],
+					[
+						"but",
+						"button_accent"
+					],
+					[
+						"C",
+						"Command     Struct (process.rs) : pub struct Command                     "
+					],
+					[
+						"from",
+						"from_utf8                 Function (mod.rs) : pub fn from_utf8(v: &[u8]) -> Result<&str, Utf8Error>                                                                          "
+					],
+					[
+						"peek",
+						"peekable"
+					],
+					[
+						"get_",
+						"get_cursor_rc           Function (lib.rs) : pub fn get_cursor_rc(&self) -> (i32, i32)                                                 "
+					],
+					[
+						"send",
+						"send_mail    Function (lib.rs) : pub fn send_mail(link: &str, destination: (&str, &str)) -> Result<!,!> /*-> SmtpResult*/                 "
+					],
+					[
+						"AuthIn",
+						"AuthInfo     Struct (lib.rs) : pub struct AuthInfo    "
+					],
+					[
+						"macro_r",
+						"macro_export"
+					],
+					[
+						"macro",
+						"macro_rules\tmacro_rules! … { … }"
+					],
+					[
+						"implement",
+						"implement_inner_raw! Macro (macros.rs) : macro_rules! implement_inner_raw {"
+					],
+					[
+						"macr",
+						"macro_rules\tmacro_rules! … { … }"
+					],
+					[
+						"macro_",
+						"macro_export"
+					],
+					[
+						"dat",
+						"databázi"
+					],
+					[
+						"route",
+						"route_imports! Macro (macros.rs) : macro_rules! route_imports {                                                          "
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"overf",
+						"overflow\tstyl"
+					],
+					[
+						"max-",
+						"max-height\tstyl"
+					],
+					[
+						"add",
+						"add_article"
+					],
+					[
+						"margin",
+						"marginTop"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prefere\t",
+						"Preferences: Settings"
+					],
+					[
+						"bar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"selec\tt sski",
+						"UI: Select Skin"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"comme",
+						"Toggle Comment"
+					],
+					[
+						"split",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"des",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rustfmt",
+						"RustFmt: Format Buffer"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"select sk",
+						"UI: Select Skin"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"ta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"con",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"togl",
+						"View: Toggle Menu"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"split ver",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sk",
+						"UI: Select Skin"
+					],
+					[
+						"skin",
+						"UI: Select Skin"
+					],
+					[
+						"bash",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"preferences",
+						"Preferences: Settings"
+					],
+					[
+						"colorsc",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"spli",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"tab",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"cove",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"convert to tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"split ",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"add f",
+						"Project: Add Folder"
+					],
+					[
+						"selec",
+						"UI: Select Skin"
+					],
+					[
+						"cov",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tr",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"tra",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"prettif",
+						"HTMLPrettify"
+					],
+					[
+						"reason",
+						"Set Syntax: Reason"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOVE PACKA",
+						"Package Control: Remove Package"
+					],
+					[
+						"res",
+						"LSP: Restart Servers"
+					],
+					[
+						"resta",
+						"LSP: Restart Servers"
+					],
+					[
+						"preferences lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"togle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"spl",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"m",
+						"View: Toggle Menu"
+					],
+					[
+						"toggl",
+						"View: Toggle Menu"
+					],
+					[
+						"select ",
+						"UI: Select Skin"
+					],
+					[
+						"hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"select theme",
+						"UI: Select Theme"
+					],
+					[
+						"select color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"repl pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"togle",
+						"View: Toggle Menu"
+					],
+					[
+						"destr",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"pane",
+						"Layout: Move File to Pane on the Right"
+					],
+					[
+						"split pa",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"toglg em",
+						"View: Toggle Menu"
+					],
+					[
+						"togg",
+						"View: Toggle Side Bar"
+					],
+					[
+						"CONVERT",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"CONVE",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"select colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"select",
+						"UI: Select Skin"
+					],
+					[
+						"sele",
+						"UI: Select Skin"
+					],
+					[
+						"split curr",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"toggle",
+						"View: Toggle Menu"
+					],
+					[
+						"destro",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"destroy",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"sidebra",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"select ski",
+						"UI: Select Skin"
+					],
+					[
+						"togle side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"save",
+						"UI: Save Skin"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal View: Color Scheme"
+					],
+					[
+						"terminalview",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"edit",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"select co",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"restart",
+						"LSP: Restart Servers"
+					],
+					[
+						"LSP",
+						"LSP: Show Diagnostics"
+					],
+					[
+						"togle s",
+						"View: Toggle Side Bar"
+					],
+					[
+						"a",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"t",
+						"View: Toggle Menu"
+					],
+					[
+						"save all",
+						"File: Save All"
+					],
+					[
+						"unfold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"comments",
+						"Fold Comments"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"ed",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colore",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colorsch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"split hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"commen",
+						"Toggle Comment"
+					],
+					[
+						"CONVERT TO TAB",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"togle ",
+						"View: Toggle Tabs"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"togle men",
+						"View: Toggle Menu"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"save s",
+						"UI: Save Skin"
+					],
+					[
+						"select clo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"togle ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"togle t",
+						"View: Toggle Tabs"
+					],
+					[
+						"SELEC",
+						"UI: Select Theme"
+					],
+					[
+						"TOGGLE TA",
+						"View: Toggle Tabs"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"instap",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/root/remedias/crate/redb/src/models/content.rs",
+				"/root/remedias/api/query/Cargo.toml",
+				"/root/remedias/src/api/roles.rs",
+				"/root/remedias/src/api/mod.rs",
+				"/root/remedias/api/content/Cargo.toml",
+				"/root/remedias/src/lib.rs",
+				"/root/remedias/api/tasks/src/lib.rs",
+				"/root/remedias/api/roles/src/lib.rs",
+				"/root/remedias/api/content/src/lib.rs",
+				"/root/remedias/crate/reutils/src/auth.rs",
+				"/root/remedias/api/tasks/src/bin/task_post.rs",
+				"/root/sympozion_2019/src/main.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_post_perms.rs",
+				"/root/remedias/crate/redb/src/models/role.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_get_perms.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_patch_perms.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_delete_perms.rs",
+				"/root/remedias/api/user/src/lib.rs",
+				"/root/remedias/crate/reutils/src/lib.rs",
+				"/root/remedias/crate/reutils/Cargo.toml",
+				"/root/remedias/crate/sentinel/src/main.rs",
+				"/root/remedias/sentinel",
+				"/root/remedias/Cargo.toml",
+				"/root/remedias/api/query/src/bin/query_identify.rs",
+				"/root/remedias/crate/redb/src/models/mod.rs",
+				"/root/remedias/api/query/src/lib.rs",
+				"/root/remedias/crate/reremote/src/main.rs",
+				"/root/remedias/crate/sentinel/Cargo.toml",
+				"/root/remedias/api/category/Cargo.toml",
+				"/root/remedias/api/page/Cargo.toml",
+				"/root/remedias/api/tags/Cargo.toml",
+				"/root/remedias/api/statistics/Cargo.toml",
+				"/root/remedias/api/roles/Cargo.toml",
+				"/root/remedias/api/user/Cargo.toml",
+				"/root/remedias/api/tasks/Cargo.toml",
+				"/root/remedias/migrations/2019-08-19-065905_content_task/down.sql",
+				"/root/remedias/migrations/2019-08-19-065905_content_task/up.sql",
+				"/root/remedias/api/roles/src/bin/role_delete.rs",
+				"/root/remedias/api/roles/src/bin/role_post.rs",
+				"/root/remedias/api/roles/src/bin/role_patch.rs",
+				"/root/remedias/api/roles/src/bin/role_get.rs",
+				"/root/remedias/api/roles/src/bin/role_patch_perms.rs",
+				"/root/remedias/api/roles/src/bin/role_get_perms.rs",
+				"/root/remedias/api/roles/src/bin/role_post_perms.rs",
+				"/root/remedias/api/query/src/bin/query_content_unpublished.rs",
+				"/root/remedias/api/query/src/bin/query_content_task.rs",
+				"/root/remedias/crate/reapi/macros/src/lib.rs",
+				"/root/remedias/api/content/src/bin/content_delete_location.rs",
+				"/root/remedias/api/content/src/bin/content_delete_task_id.rs",
+				"/root/remedias/api/content/src/bin/content_patch_task_id.rs",
+				"/root/remedias/api/content/src/bin/content_get_task_id.rs",
+				"/root/magnusi.tech/web/contacts.md",
+				"/root/remedias/crate/redb/src/models/map.rs",
+				"/root/remedias/crate/redb/src/models/user.rs",
+				"/root/remedias/crate/redb/src/models/ad.rs",
+				"/root/remedias/crate/reapi/src/lib.rs",
+				"/root/remedias/crate/redb/src/lib.rs",
+				"/root/remedias/crate/redb/Cargo.toml",
+				"/root/remedias/migrations/2019-08-13-164121_task_state/down.sql",
+				"/root/remedias/migrations/2019-08-13-164121_task_state/up.sql",
+				"/root/remedias/crate/redb/src/models/task.rs",
+				"/root/remedias/crate/redb/src/models/grid.rs",
+				"/root/remedias/crate/redb/src/models/instance.rs",
+				"/root/remedias/crate/redb/src/models/page.rs",
+				"/root/remedias/crate/redb/src/models/category.rs",
+				"/root/remedias/.gitlab-ci.yml",
+				"/root/remedias/crate/redb/src/models.rs",
+				"/root/remedias/api/user/src/bin/user_delete.rs",
+				"/root/remedias/api/user/src/bin/user_login.rs",
+				"/root/remedias/api/tasks/src/bin/task_query.rs",
+				"/root/remedias/api/tasks/src/bin/task_patch.rs",
+				"/root/remedias/api/tasks/src/bin/task_get.rs",
+				"/root/desktop/tasks-endpoints.txt",
+				"/root/remedias/crate/remodel/src/lib.rs",
+				"/root/remedias/api/tasks/src/bin/task_delete.rs",
+				"/root/remedias/src/api/tasks.rs",
+				"/root/remedias/crate/restatic/src/static_server.rs",
+				"/root/remedias/crate/remodel/types/src/lib.rs",
+				"/root/remedias/crate/remodel/Cargo.toml",
+				"/root/remedias/migrations/2019-08-04-101603_tasks/down.sql",
+				"/root/remedias/migrations/2019-08-04-101603_tasks/up.sql",
+				"/root/remedias/crate/redb/src/schema.rs",
+				"/root/remedias/crate/reremote/Cargo.toml",
+				"/root/remedias/crate/remodel/types/Cargo.toml",
+				"/root/remedias/crate/remodel/tests/debug.rs",
+				"/root/remedias/crate/remodel/src/types.rs",
+				"/root/remedias/api/instance/src/lib.rs",
+				"/root/changelog",
+				"/root/remedias/api/category/src/lib.rs",
+				"/root/remedias/api/instance/Cargo.toml",
+				"/root/remedias/crate/sentinel/src/util.rs",
+				"/root/remedias/api/category/src/bin/category_post_perms.rs",
+				"/root/remedias/api/query/src/bin/query_content_date_offset.rs",
+				"/root/remedias/api/query/src/bin/query_content_date.rs",
+				"/root/remedias/api/query/src/bin/query_content_random.rs",
+				"/root/remedias/api/query/src/bin/query_instance_random.rs",
+				"/root/remedias/api/content/src/bin/content_get_ads_by_tag.rs",
+				"/root/remedias/api/user/src/bin/user_invalidate.rs",
+				"/root/remedias/api/user/src/bin/user_register.rs",
+				"/root/remedias/api/user/src/bin/user_patch_perms.rs",
+				"/root/remedias/api/category/src/bin/category_patch_perms.rs",
+				"/root/remedias/api/category/src/bin/category_categories_patch.rs",
+				"/root/remedias/api/category/src/bin/category_categories_delete.rs",
+				"/root/remedias/api/category/src/bin/category_categories_post.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete_owners.rs",
+				"/root/remedias/crate/reapi/src/response.rs",
+				"/root/remedias/api/content/src/bin/content_patch_text.rs",
+				"/root/remedias/api/page/src/lib.rs",
+				"/root/remedias/api/statistics/src/lib.rs",
+				"/root/remedias/api/tags/src/lib.rs",
+				"/root/remedias/crate/restatic/src/lib.rs",
+				"/root/remedias/crate/rejwt/src/lib.rs",
+				"/root/remedias/crate/relog/src/lib.rs",
+				"/root/remedias/crate/rejwt/Cargo.toml",
+				"/root/remedias/api/user/src/bin/user_patch_email.rs",
+				"/root/remedias/crate/reapi/Cargo.toml",
+				"/root/remedias/api/content/src/bin/content_delete.rs",
+				"/root/remedias/api/content/src/bin/content_post_ad.rs",
+				"/root/remedias/api/content/src/bin/content_delete_ad.rs",
+				"/root/remedias/api/content/src/bin/content_delete_map.rs",
+				"/root/remedias/api/content/src/bin/content_patch_date.rs",
+				"/root/remedias/api/content/src/bin/content_patch_description.rs",
+				"/root/remedias/api/content/src/bin/content_patch_image_url.rs",
+				"/root/remedias/api/content/src/bin/content_patch_location.rs",
+				"/root/remedias/api/content/src/bin/content_patch_name.rs",
+				"/root/remedias/api/content/src/bin/content_post.rs",
+				"/root/remedias/api/content/src/bin/content_post_map.rs"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 436.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"=> (\\w+)",
+					"(\\w+) => write!\\(f, (.+)\\),",
+					"(\\w)+ => write!\\(f, (\"\\w+\")\\),",
+					"(\\w)+ => write!\\(f, (.+)\\),",
+					"(\\w+) => write!\\(f, (.+)\\),",
+					"(\\w)+ => write!\\(f, (.+)\\),",
+					"user",
+					"json!",
+					"is_some",
+					"Task",
+					"task",
+					"Task",
+					"task",
+					"Task",
+					"task(_?)id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"=> Ok(\\1)",
+					"\\2 => \\1,",
+					"\\1 => \\2,",
+					"role",
+					"ok!",
+					"is_ok",
+					"Role",
+					"role",
+					"Role",
+					"role",
+					"Role",
+					"role\\1id"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 148.0
+			},
+			"menu_visible": false,
+			"output.diagnostics":
+			{
+				"height": 80.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 222.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 495.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 376.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": false,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1534.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"upda",
+						"update_users_with_role\t  pub fn update_users_with_role(role_id: Uuid, info: &AuthToken<reason::Roles>)"
+					],
+					[
+						"get",
+						"get_connection\t  pub fn get_connection() -> PgConnection"
+					],
+					[
+						"None",
+						"NoneError\t  pub struct NoneError;"
+					],
+					[
+						"inst",
+						"instance_id\t  let instance_id = Uuid::parse_str(&instanceid).ok()?;"
+					],
+					[
+						"print",
+						"println\tprintln!(…)"
+					],
+					[
+						"Path",
+						"PathBuf\t  pub struct PathBuf"
+					],
+					[
+						"filter",
+						"filter_map"
+					],
+					[
+						"query",
+						"query_category"
+					],
+					[
+						"del",
+						"DeleteBy         EnumVariant (lib.rs) : DeleteBy(F),                                                          "
+					],
+					[
+						"Up",
+						"Update           EnumVariant (lib.rs) : Update(Uuid, F),                                                      "
+					],
+					[
+						"Dele",
+						"DeleteByMultiple EnumVariant (lib.rs) : DeleteByMultiple(Vec<F>),                                             "
+					],
+					[
+						"Delet",
+						"Delete   Struct (lib.rs) : pub struct Delete\\  "
+					],
+					[
+						"Fil",
+						"filter_mutliple"
+					],
+					[
+						"delete",
+						"delete_by_multiple   Function (lib.rs) : fn delete_by_multiple(fs: Vec<F>) -> DbResponse<Self>                                                            "
+					],
+					[
+						"Ins",
+						"insert_multiple      Function (lib.rs) : fn insert_multiple(src: Vec<Self>) -> DbResponse<Model>                                                          "
+					],
+					[
+						"inser",
+						"InsertMultiple"
+					],
+					[
+						"Filter",
+						"FilterMultiple"
+					],
+					[
+						"Upda",
+						"UpdateMultiple"
+					],
+					[
+						"DeleteBy",
+						"DeleteByMultiple"
+					],
+					[
+						"Delete",
+						"DeleteBy"
+					],
+					[
+						"De",
+						"Delete   Struct (lib.rs) : pub struct Delete\\  "
+					],
+					[
+						"insert",
+						"insert_name                 Let (lib.rs) : let insert_name\\                                                                                           "
+					],
+					[
+						"project",
+						"project_metadata"
+					],
+					[
+						"projec",
+						"project_metadata"
+					],
+					[
+						"to_s",
+						"to_string"
+					],
+					[
+						"IN",
+						"InstanceOwners"
+					],
+					[
+						"In",
+						"InstanceOwners"
+					],
+					[
+						"instanc",
+						"instance_id"
+					],
+					[
+						"Auth",
+						"AuthToken"
+					],
+					[
+						"Userde",
+						"UserDeleteLocal"
+					],
+					[
+						"Insta",
+						"InstanceDelete"
+					],
+					[
+						"Con",
+						"ContentCategories"
+					],
+					[
+						"Tags",
+						"TagsGlobal"
+					],
+					[
+						"to_",
+						"to_reason"
+					],
+					[
+						"impl_",
+						"impl_from_data"
+					],
+					[
+						"Ipc",
+						"IpcSender"
+					],
+					[
+						"deser",
+						"deserialize"
+					],
+					[
+						"server",
+						"server_name"
+					],
+					[
+						"in",
+						"into_variant"
+					],
+					[
+						"Res",
+						"ResponseVariants"
+					],
+					[
+						"Not",
+						"NotFound"
+					],
+					[
+						"as",
+						"as_ref"
+					],
+					[
+						"Response",
+						"ResponseVariants"
+					],
+					[
+						"safe",
+						"safe_mode"
+					],
+					[
+						"new",
+						"new_coords"
+					],
+					[
+						"Respon",
+						"ResponseBuilder"
+					],
+					[
+						"Raw",
+						"MapRaw"
+					],
+					[
+						"read",
+						"read_to_string"
+					],
+					[
+						"Inf",
+						"InfBomb"
+					],
+					[
+						"priv",
+						"privkey"
+					],
+					[
+						"Atu",
+						"AuthToken"
+					],
+					[
+						"file",
+						"file_exists"
+					],
+					[
+						"Aut",
+						"AuthToken"
+					],
+					[
+						"unw",
+						"unwrap"
+					],
+					[
+						"serde",
+						"serde_json"
+					],
+					[
+						"Au",
+						"AuthToken"
+					],
+					[
+						"unwra",
+						"unwrap_or_else"
+					],
+					[
+						"pub",
+						"pub_key"
+					],
+					[
+						"backgr",
+						"background-size\tstyl"
+					],
+					[
+						"konta",
+						"kontakt_renderers"
+					],
+					[
+						"font",
+						"font-family\tstyl"
+					],
+					[
+						"za",
+						"zakaznik"
+					],
+					[
+						"Entry",
+						"EntryFujTime"
+					],
+					[
+						"text",
+						"text_name"
+					],
+					[
+						"paddin",
+						"padding-top\tstyl"
+					],
+					[
+						"flex-",
+						"flex-grow\tstyl"
+					],
+					[
+						"grid",
+						"grid-row-end\tstyl"
+					],
+					[
+						"grid-r",
+						"grid-row-start\tstyl"
+					],
+					[
+						"grid-templ",
+						"grid-template-rows\tstyl"
+					],
+					[
+						"min",
+						"min-height\tstyl"
+					],
+					[
+						"ba",
+						"background\tstyl"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"tran",
+						"transform\tstyl"
+					],
+					[
+						"arti",
+						"article_renderers\t  unit => <  >"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"set",
+						"setInvalid"
+					],
+					[
+						"mar",
+						"margin-bottom\tstyl"
+					],
+					[
+						"use",
+						"useState"
+					],
+					[
+						"back",
+						"background-color\tstyl"
+					],
+					[
+						"Quill",
+						"QuillCompat"
+					],
+					[
+						"defa",
+						"defaultValue"
+					],
+					[
+						"dea",
+						"defaultValue"
+					],
+					[
+						"outpu",
+						"outputDir\tconst"
+					],
+					[
+						"ins",
+						"instance"
+					],
+					[
+						"se",
+						"setAsString"
+					],
+					[
+						"pa",
+						"pageService\tproperty"
+					],
+					[
+						"mocni",
+						"mocninca"
+					],
+					[
+						"im",
+						"image_url"
+					],
+					[
+						"lettre",
+						"lettre_email"
+					],
+					[
+						"owners",
+						"owners_loaded"
+					],
+					[
+						"Profiel",
+						"ProfileDisplay"
+					],
+					[
+						"Static",
+						"StaticText"
+					],
+					[
+						"Login",
+						"LoginButton"
+					],
+					[
+						"Profile",
+						"ProfileButton"
+					],
+					[
+						"Profi",
+						"ProfileButton"
+					],
+					[
+						"button",
+						"button-white"
+					],
+					[
+						"ta",
+						"tab_val"
+					],
+					[
+						"document",
+						"document_map"
+					],
+					[
+						"deco",
+						"decorations"
+					],
+					[
+						"Ath",
+						"AuthorID"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"force-",
+						"force-column"
+					],
+					[
+						"re",
+						"renderToElementWithId"
+					],
+					[
+						"Interna",
+						"InternalServerError"
+					],
+					[
+						"Hash",
+						"HashMap             Struct (map.rs) : pub struct HashMap<K, V, S = RandomState>                                                                                       "
+					],
+					[
+						"input",
+						"input-group"
+					],
+					[
+						"inp",
+						"input-group"
+					],
+					[
+						"but",
+						"button_accent"
+					],
+					[
+						"C",
+						"Command     Struct (process.rs) : pub struct Command                     "
+					],
+					[
+						"from",
+						"from_utf8                 Function (mod.rs) : pub fn from_utf8(v: &[u8]) -> Result<&str, Utf8Error>                                                                          "
+					],
+					[
+						"peek",
+						"peekable"
+					],
+					[
+						"get_",
+						"get_cursor_rc           Function (lib.rs) : pub fn get_cursor_rc(&self) -> (i32, i32)                                                 "
+					],
+					[
+						"send",
+						"send_mail    Function (lib.rs) : pub fn send_mail(link: &str, destination: (&str, &str)) -> Result<!,!> /*-> SmtpResult*/                 "
+					],
+					[
+						"AuthIn",
+						"AuthInfo     Struct (lib.rs) : pub struct AuthInfo    "
+					],
+					[
+						"macro_r",
+						"macro_export"
+					],
+					[
+						"macro",
+						"macro_rules\tmacro_rules! … { … }"
+					],
+					[
+						"implement",
+						"implement_inner_raw! Macro (macros.rs) : macro_rules! implement_inner_raw {"
+					],
+					[
+						"macr",
+						"macro_rules\tmacro_rules! … { … }"
+					],
+					[
+						"macro_",
+						"macro_export"
+					],
+					[
+						"dat",
+						"databázi"
+					],
+					[
+						"route",
+						"route_imports! Macro (macros.rs) : macro_rules! route_imports {                                                          "
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"overf",
+						"overflow\tstyl"
+					],
+					[
+						"max-",
+						"max-height\tstyl"
+					],
+					[
+						"add",
+						"add_article"
+					],
+					[
+						"margin",
+						"marginTop"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": ".so tmac/cz.tmac\n.so tmac/settings.tmac\n\n.he `2019-2020`Pád českého jazyka`Lukáš Hozda`\n\n.ls 0\n\n.(c\n.sz +4\n.b \"Zkáza českého jazyka\"\n.sz\n.)c\n.(c\n.i \"Čeština a já\"\n.)c\n\n.pp\nŘíká se, že pro knihu, práci nebo jakékoliv jiné dílo je jeho název klíčový.\nNemohu více nesouhlasit.\nVětšina pojmenování vytváří čtenářům předsudky, ovlivňuje jejich pohled na text a snižuje nebo zužuje jeho potenciální sdělení.\nAť se člověk snaží, jak se snaží, vždy alespoň trochu soudí knihu podle obalu.\nKdybych mohl, nenazýval bych svoje texty vůbec a využil bych buď čísel nebo systematických nazývacích systémů,\nale, jak nepochybně ještě mnohokrát zmíním v této práci, jsem pouhým zrnkem písku v Sahaře světa a chci-li mít dobrý život,\nnezbývá mi nic jiného, než se světu přizpůsobit a věci, které se mi nelíbí, pouze tiše sledovat z povzdálí.\n.pp\nMůj poslední výrok je definující pro můj pohled a vztah k českému jazyku.\nRád se označuji za vlastence, pocházím z rodiny, která měla k české zemi, jazyku a kultuře vždy dobrý vztah.\nPřed více než stoletím byli moji předci postaveni před těžkou volbu - stanou se obyvateli českých zemí a budou žít tady, nebo se prohlásí za rakušany a budou žít ve Vídni?\nNa základě vlasteneckých pocitů se rozhodli pro moji vlast, i když si byli vědomi, že v Rakousku by měla naše rodina lepší ekonomickou situaci a více možností.\nV další generaci byla nositelkou vlasteneckého ducha moje babička - navzdory všem úskalím se odpoutala z okovů venkovské života a rozhodla se mířit \\fIpřes překážky ke hvězdám\\fR a stát se profesorkou češtiny, která byla její celoživotní láskou.\n.pp\nNaneštěstí, tehdejší režim nebyl vlídný k našemu rodu a mojí babičce bylo studium bohemistiky zamítnuto, seč bojovala, jak jen to bylo možné.\nSvůj sen si nakonec splnila alespoň částečně a stala se legendárním pedagogem nad-národní úrovně v oblasti ekomických předmětů.\nPřání o výuce češtiny se babičce nakonec zrealizovalo skrze její dceru, moji matku.\n.pp\nO generaci později se zdá, že tíhnu k jazyku a vlastenectví já.\nMoje zaměření ovšem není jasné a dá se o mně říci, že jsem konfliktní postavou, ve které se střetávají dva světy.\nNa jednu stranu jsem výsledkem babiččina rodu, s afinitou k humanitním oborům, na druhé straně je dědictví ze strany mého otce, kde vládnou přírodní vědy.\nTak jsem se stal člověkem, který je pevně zakořeněný ve světě informatiky, kde je tuze málo místa na můj rodný jazyk a kulturu (jak později vysvětlím),\nale který je kontaminován amatérským zájmem o humanitní odvětví, zejména lingvistiku, literaturu, filozofii a psychologii (přiznávám, ta stojí spíše na pomezí obou větví).\n.pp\nOd malička jsem vždy rád chodil na procházky naší přírodou, nejdříve s rodiči, později sám.\nPro ty, kteří mě znají, toto může znít poněkud bizarně vzhledem k mým zdravotním problémům, které mojí vycházkovou kapacitu značně omezují a znepříjemňují konstantní bolestí.\nAno, asi každý chodec by shledal moje procházky jako poměrně krátké a moji rychlost by přirovnal k ne více než polovině závodní rychlosti postaršího šneka, ale jsem rád i za tuto možnost ocenit českou krajinu.\nJsem si vědom toho, že české lesy se zdaleka nedají srovnat s bázeň a mír vzbuzujícími kanadskými hvozdy, že Krkonoše jsou jen roztomilé kopečky ve srovnání s momenumentalitou Himalájí a \\[Bq]Mácháč\\[lq] je sotva plivátko oproti podivně magickému a zdánlivě nekonečnému moři, ale přesto, dívám-li se na ní jako na celek, není pro mě na světě krásnější krajiny než té české.\nNa češtinu nahlížím podobně, jsou sice jazyky, které nemají tolik zvláštnosti, výjimek a nepravidelnosti a mají jasnější strukturu a libozvučnější lexis, ale jako celek, není jazyk, který bych měl radši.\n.pp\nAle běda, každý, kdo má rád češtinu, musí mít na paměti hrozící stín angličtiny.\nVskutku, je to právě tento stín a moje přirozená přitažlivost k němu, která je základním stavebním kamenem mnoha mých pocitů a obav ohledně češtiny a jejího současného vývoje.\nA tyto obavy jsou zase základem mého současného vztahu k češtině.\nBohužel, moje pocity nejsou moc pozitivní a můj vztah s češtinou je plný vnitřního nesváru a myšlenek na úpadek.\n.pp\nByl jsem totiž otráven, nebo spíše kontaminován, anglickým jazykem.\nNepostrádajíc předvídavost, moje rodina vytvořila výborné podmínky pro to, abych se dobře naučil anglicky, a za to jí budu navždy vděčný.\nOd věku pouhých čtyř let, byl, díky mojí babičce, jejíž záměry měly za cíl vždy jen to nejlepší pro její potomky, zasazen do mojí mysli klíček tohoto cizího jazyka a jeho kořeny s časem jen prorůstaly hloub a hloub.\nV dnešní době používám angličtinu více než češtinu, můj \\[Bq]online\\[lq] život je z drtivé většiny anglický, podobně jako můj pracovní a zájmový.\nMnoho mých přátel mluví pouze anglicky - zdá se, že zejména s kanaďany si dobře rozumím.\nJe také mnoho slohových útvarů, které je pro mě přirozenější psát v angličtině (i některé myšlenky v této eseji má svou anglickou verzi, ač se to nerad přiznávám).\nA, co je možná nejvíce rouhavé, přistihnu se občas, že přemýšlím v angličtině, zejména ve chvílích, kdy jsem používal hodiny v kuse jenom ji.\n.pp\nV tom tkví moje první obava ohledně českého jazyka.\nAngličtina je všude kolem nás, vsadil bych se, že snad každý je s ní konfrontován alespoň jednou denně, ne-li vícekrát.\nZnalost angličtiny je pro nás bránou k zdánlivě neomezenému repozitáři vědomostí, které by jinak byli před námi zůstaly utajeny.\nDává tedy rozum, že mnoho představitelů generacích starších než ta moje pociťuje neznalost angličtiny jako handikep.\n.pp\nBohužel, vědomosti nejsou to jediné, co si vyžaduje znalost anglického jazyka - významný podíl má také zábava a rekreace, nebo-li příjemné plýtvání času.\nPlatí to zejména pro naší generaci.\nKdyž si jednou za uherský rok pustím televizi, shledávám, že většina pořadů se se svou kvalitou nachází hluboko pod minimální snesitelnou úrovní.\nZdá se, že kvantita je tím nejdůležitějším aspektem pro většinu televizí a tudíž máme tucty nemocníčních dramat, krimi seriálů a telenovel (nebo jakákoliv kombinace zmíněných), které lze sotva odlišit jedno od druhého.\nDialogy jsou umělé a zápletky se zpravidla zakládají na naprosto bizarních situací, neschopností kontrolovat zřídkakdy opodstatněné pocity a jako příčinu zápletek také nesmíme opomenout zcela nepochopitelné komunikační problémy.\nPřestože se tváří realisticky, zobrazují tyto seriály/filmy naprosto pokřivený obraz světa,\nkterý udává hrozné příklady, jak by se měl člověk chovat,\njak by měli lidé komunikovat mezi sebou a jak se vypořádávat s těžkými životními situacemi.\n.pp\nJedním aspektem, který mi obzvláště \\[Bq]leze na nervy\\[lq], je vyobrazení mých vrstevníků.\nJe nutno přiznat, že ano, vzhledem k tomu, že moje generace jako ta nejmladší postrádá zkušenosti, je její chování nejvíce nevyspělé a patří zpravidla k tomu nejpokleslejšímu, co může společnost nabídnout, ale televize jí představuje v podobě uměle vyhrocené, zcela nesmyslné a naprosto neodpovídající skutečnosti a řadovému představiteli této generace, a tvrdí, že to je norma.\nTo dává falešné domněnky starším generacím, kteří jsou patrně hlavní cílovou skupinou těchto seriálů, a bezpochyby přispívá napjatým mezi-generačním vztahům.\nProtože proč bychom neměli mít předsudky, když máme zdánlivě empirický důkaz o jejich pravdivosti?\nDomnívám se, že v západním světě je toto vyobrazení jednou z příčin tzv. \\fIválky mezi \\[Bq]boomery\\[lq] a \\[Bq]zoomery\\[lq]\\fR,\nkde se generace Z rozhodla ukončit snahy o \\[Bq]vyjednávání\\[lq] s generací baby-boomu a na veškerou (mnohdy neospravedlněnou kritiku) lakonicky reagovat slovy \\[Bq]Ok, boomer.\\[lq], která jsou vyjádřením únavy a ztráty motivace o mezi-generačních nedorozuměních diskutovat.\n.pp\nA tak se stalo, že já i mnoho mých vrstevníku přešlo ke sledování anglicky-mluvících pořadů.\nSamozřejmě, mnoho může sledovat český dabing, který je jednou z chloub našeho národa v porovnání s našimi evropskými sousedy, ale naše značně zrychlená doba nám vštípila potřebu \\fImít všechno hned\\fR.\nTo znamená, že titulky s originálním zvukem jsou u nových seriálů povětšinou preferovány před českým dabingem.\nTaké jsem se dříve díval na anglické pořady s titulkami, ale jak se prohlubovala moje znalost angličtiny,\nzačal jsem si všímat chyb a nepřesností v překladu, což mělo eventuálně vedlo k tomu, že jsem začal titulky vypínat, nebo vůbec nestahovat.\n.pp\nExistuje ale další ještě další významný důvod, proč by člověk mohl preferovat anglický originál, má-li možnost mu porozumět. Tím je \\fIto, co překlad nemůže sdělit\\fR.\nPokaždé, když je nějaké dílo přeloženo, část jeho sdělení se ztratí.\nČistě faktologická věrnost nestačí, je zapotřebí sdělit nejen zřejmý a prvoplánový význam, ale také to, co je skryto \\fImezi řádky\\fR\na aspekty tónu a zvukomalby.\nToto je však tím složitější, čím více se zdrojový jazyk liší od cílového.\n.pp\n\\fI\\[Bq]Angličtina a čeština jsou jako jablka a hrušky.\\[lq]\\fR\nNaše mateřština je jazyk slovanský a, z hlediska lingvistického zařazení, syntetický jazyk, kdežto západo-germánský jazyk angličtina je převážně analytický.\nTo znamená, že se liší nejen naše lexis, ale také jádrová podstata jazyka.\nČeština jako syntetický jazyk vyjadřuje syntaktické vztahy skrze skloňování a aglutinaci, kdežto angličtina, jako představitel rodiny analytických jazyků, využívá spíše specifických gramatických slov, částic a pevně určené větné struktury.\nTudíž, narazíme-li v syntetickém jazyce na případ, kdy autor využil laxního slovosledu jako uměleckého prostředku, tak je prakticky nemožné toto přeložit do jazyka analytického.\nPřeklady přestávají být pouhým dílem autora, ale spíše jakousi anachronickou kolaborací mezi původním autorem a překladatelem.\nVýsledky této kolaborace mohou být jak obdivuhodné, tak tragické, jedno je ale jisté - část původního díla je navždy ztracena.\n.pp\nV rukou amatéra neznalého v ani jednom z jazyků toto mívá (ve spojení s jakýmsi pocitem prestiže a \\[Bq]\\[Bq]\\fIcool-factoru\\fR\\[lq]\\[lq] angličtiny) za následek vznik nevkusných anglicismů a konstrukcí, které s českou lexis imitují anglický originál.\nTyto anglicismy jsou často zaváděny zbytečně - pro daný význam již čeština disponuje jedním nebo více termíny, které se narozdíl od novotvaru do češtiny hodí.\nProč potřebujeme \\[Bq]dress code\\[lq], když máme etiketu, \\[Bq]image\\[iq] (který se patrně v češtině může vyskytovat ve všech gramatických rodech), když máme visáž/vzhled a \\[Bq]fresh\\[lq], když máme čerstvý nebo živý/energický?\nAdopce anglicismů pro koncepty, pro které čeština nemá slovo je samozřejmě v pořádků a prakticky nevyhnutelné, vzhledem k rychlému vědeckému i sociálnímu pokroku, ale zavádění zbytečných slov kvůli \\[Bq]prestiži\\[lq] angličtiny nemá za následek nic jiného, než kontaminaci jazyka.\n.pp\nMluvíme-li o anglicismech obecně, tak je naneštěstí naše mateřština pramálo uzpůsobená na jejich zavádění.\nAnglická slovní zásoba má diametrálně odlišnou konstrukci: preferuje shluky samohlásek a měkké zvuky, kdežto čeština je proslulá hromaděním souhlásek, slabikotvornými souhláskami a tvrdšími zvuky.\nKvůli dlouhé historii německého vlivo je čeština vstřícná germánským slovům, ale ne všechna slova v angličtině jsou germánská, nebo odpovídají jejich germánským předkům, což je povětšinou činí nekompatibilními s českým skloňováním.\nTato slova posléze v českém kontextu znějí přinejmenším zvláštně a mnoho pokusů na anglickém kořenu hromadit české morfémy selže a vytváří poněkud bizarně znějící slova.\nBohužel, zdá se, že lákadlo anglické prestiže je pro mnohé moc silné, zejména, pokud nemají o jazyky žádný hlubší zájem.\n.pp\nImportování anglických slov do češtiny mě velmi trápí a připadám si zde bezmocný.\nKdyž jsem obklopen vrstevníky, kteří tyto novotvary konstantně používají, mohu si dovolit je nepoužívat a znít jako nudný purista?\nNechce se mi poškodit si svoje dobré jméno mezi přáteli tím, že jim budu protivný svým jazykem.\nA proto, v posledních letech čím dál více, také využívám neologismů, které z hloubi duše nesnáším a jejichž každé vyřčení drásá mého vlasteneckého ducha.\nTeskním po ideálním světě, kde bych mohl na každém kroku poslouchat pouze čistou, ničím nepoškozenou a nádherně květnatou češtinu.\nAle, i když si to nerad přiznávám, vím někde v hloubi svého srdce, že tento svět nikdy nenastane, já na tom nemohu nic měnit, a sám jsem představitelem oboru, který aktivně češtinu poškozuje.\n.pp\nAno, jako informatik přispívám k problému.\nNejen, že podporuji vývoj technologií, které problémy češtiny způsobily, ale zároveň jsem při svojí výuce a jiném sdílení vědomostí nucen češtinu prznit anglickou terminologií.\nTotiž, když se před mnoha lety dostaly počítače do českých zemí, byly odproštěné od anglické terminologie, jelikož tehdejší režim měl vůči západnímu světu dobře známou averzi.\nMoje babička, jako členka prvního programovacího kurzu v Čechách, se učila jen českou terminologii.\nŽádná anglická terminologie do vlasti mnoho let nepronikla a tím vznikl unikát - Česko i Slovensko je z počítačového hlediska velmi vyspělé (sídlí zde mnoho významných firem, které dovážejí programátory z celého světa) a zároveň má vlastní kompletní technickou terminologii.\n.pp\nKdyž ale učím, musím si být vědom toho, že většina současných programátorů zná pouze terminologii anglickou,\ntudíž i většina českých materiálů využívá anglické termíny, a tím,\nže bych učil ty české bych značně omezil schopnost svých programátorů najít si doplňující zdroje\n(které jsou pro můj obor naprosto stěžejní) a komunikovat s jejich vrstevníky.\nS těžkým srdcem jsem tedy učinil kompromis a učím termíny oba, jak český, tak anglický, ale je mi jasné, že ten český rychle upadá v zapomnění.\nProč bych si přeci měl pamatovat termín \\fIrevize\\fR, když všude slýchám \\fIcommit\\fR, nebo \\fInávěstí\\fR, když jsem četl světově proslulou práci, která kritizuje \\fIlabel\\fRy?\nA ne všechno z informatického žargonu jsou komplexní termíny, někdy je zapotřebí \\fIkillnout proces\\fR, který by měl správný čech \\fIzabít\\fR.\nOvšem, předchozí příklad je zapříčiněn tím, že Linuxový příkaz na zabití procesu je \\fIkill\\fR, ale ne všechny patvary jsou zaštítěny podobnou analogií.\n.pp\nChápu, že následující výrok může nejdříve znít bizarně, ale \\fIinformatiky zabíjí českou diakritiku\\fR.\nU nás v informatice jsem unikátem - jako jeden z mála programátorů totiž používám výhradně českou klávesnici.\nTa je považována za nevýhodnou pro programátory z jednoho prostého důvodu - většina speciálních znaků je na české QWERTZ klávesnici těžko dostupná.\nProgramovací jazyky jsou plné různých druhů závorek, zavináčů, ampersandů, hvězdiček, křížků a cirkumflexů, pro které si musím pamatovat zkratky s klávesou Alt Graph, což je pro začátečníky velmi nepraktické.\nNa anglické (resp. americké) klávesnici jsou tyto znaky ale jednoduše dostupné a zvykne-li si budoucí programátor na odlišné pozice kláves pro interpunkční znamenánka a prohozených kláves Y a Z, tak má takříjakíc \\fIvystaráno\\fR.\nOvšem nic není zadarmo a speciální znaky jsou za cenu diakritiky.\nVětšina programátorů tudíž musí neustále přepínat mezi klávesnicemi nebo psát bez diakritiky. Mnoho mých kolegů si vybralo tu snadnější variantu...\n.pp\nTerminologie a klávesnice však nejsou jedinými oblastmi, kde informatika upozaďuje češtinu.\nO pář řádků výše jsem zmínil, že spousta počítačových firem má v Česku a na Slovensku evropská sídla.\nDíky nim, ve spojení se světovým nedostatkem pracovníků v informatických oborech, má čerstvě vystudovaný (nebo ani nedostudovaný nebo dokonce nevystudovaný) informatik mnoho příležitostí a štědrý nástupní plat.\nJe v tom ale jeden zádrhel - samotná znalost počítačů nestačí, firmy totiž mluví anglicky.\n.pp\nKdyž jsem byl poprvé na \\fIcode weeku\\fR ve firmě \\fICA Technologies\\fR, nyní po akvizici \\fIBroadcom\\fR, připadal jsem si jak v Jiříkově vidění.\nVšichni zaměstnanci, kteří mě a moje bratry ve zbrani měli na starosti, mluvili převážně nebo pouze anglicky, plánování probíhalo v angličtině, prezentace byla v angličtině a kam oko dohlédlo, tam byla jen angličtina.\nDůvod pro to je prostý - v důsledku nedostatku pracovníků si jsou firmy ochotny importovat zaměstance z ciziny.\nFirmám se to kvůli obrovskému růstu počítačových oborů vyplatí a náš trh práce nedokáže požadavky firem saturovat, nedá se tedy říci, že bychom přicházeli o práci.\nA když mé pracovní prostředí připomíná Babylonskou věž, nedává smysl učit se a používát něco jiného, než je \\fIlingua franca\\fR, kterým je na našem kontinentě angličtina.\n.pp\nFirmy mi připomínají další pozoruhodný fenomén - české společnosti s anglickými názvy nebo názvy evokujícími angličtinu.\nZdá se, že průměrný čech si spojí anglický název s anglickou prestiží a je více ochoten učinit firmě zisk.\nNe vždy je však anglický název vytvořen člověkem znalým jazyka a občas dochází k poněkud komickým překladům.\nVzpomínám si z jedné hodiny s paní profesorkou Gráfovou o tomto tématu vedli diskuzi na případ, kdy si společnost ve snaze apelovat na mladou generaci dala do názvu slovo \\fIdense\\fR (= hustý), ale vedlejší význam v angličtině je pravým opakem toho českého (= hloupý, pitomý).\n.pp\nRád bych nyní na moment přerušil svojí konstantní kritiku a učinil trochu sebereflexe.\nČtenář může mít dojem, že pociťuji silnou averzi vůči angličtině.\nNení tomu tak, angličtinu mám rád, líbí se mi, jak zní, miluji její bohatou slovní zásobu a užívám si květnaté mluvy a oceňuji možnosti, které mi dosud poskytla.\nPřestože se považuji za vlastence, řekl bych, že ani jeden z mých nejoblíbenějších literátů nemluví česky.\nAno, mám rád Reynka, Halase a Hlaváčka, nadchla mě Kytice a dramatický přednes Máje v podání Báry Hrzánové byl pro mě jeden z nejkrásnějších kulturních zážitků poslední doby, navzdory tomu, obzvlášť v poslední době,\ntíhnu spíše k Poeovi a jeho temné symbolistické poezii, která představuje ideál krásy spojené se smutkem, ztrátou a odcizením;\ndílu jeho následovníka,\nHowarda Phillipse Lovecrafta, jehož horrory a bohatá mytologie mě motivují k přemýšlení nad podstatou lidské existence\na jejím místě v nekonečném kosmu zastřeném rouškou děsivého neznáma,\na tvorbě skotského národního básníka Roberta Burns, který psal skoro nesrozumitelnou, ale okouzlující, skotskou angličtinou a v mnohém by se dal označit za skotského Máchu.\n.pp\nMí oblíbený literáti sice činní moji četbu a vkus chmurnou, neoznačil bych se ale za chmurného člověka.\nPro mě temná literatura uspokuje moji touho po poznání podstaty člověka a proniká do hloubky duše, kterou se možná marně snažím pochopit.\nSouhlasím s Poem, že ve smutné atmosféře, nostalgii a zvlástní potemnělé atmosféře je jistá krása a dokud si o ní mohu pouze přečíst,\nnepociťuji nic jiného než katarzi.\n.pp\nDomnívám se, že člověk, který stráví svůj život v jednoduchém, pozitivním světě není úplným člověkem.\nNechci, aby kdokoliv trpěl a sám nechci trpět, ale myslím si, že kdybych nezažil ani trochu bolesti nebo smutku ve svém životě,\nbyl bych horším člověkem.\nNedokázal bych tolik soucítit s ostatními a brát ve svém jednání ohled na druhé.\nJak bych mohl tolik milovat bližního svého, když bych si nebyl vědom toho, jak křehké je lidské štěstí?\nOcenil bych svůj čas a vážil si toho dobrého, kdybych nezažil i to špatné?\nČíst je prožívat a prožívám-li i to špatné, vidím to dobré mnohem jasněji a krása příjemných momentů,\nkterá mi kdysi zůstavala skryta, ačkoliv byly tehdy moje oči mnohem zdravější, nyní stoupá na povrch a připomíná mi,\nže tam vždy byla, jen já jsem byl slepý.\n.pp\nKdyž jsem byl malý a moje chodidla nebyla v tak dezolátním stavu, bral jsem chození jako samozřejmost.\nNyní, po několika letech, kdy jsem chodit nemohl a měsíce poskakoval o berlích a prodělal mnoho konstantní a týdny intenzivní bolesti,\njsem rád za každý krok.\nSice mě kroky stále bolí a každá procházka, výlet nebo dlouhé stání jsou pro mne trochu utrpením, ale jsem rád, že chodit můžu\na že bolest již nemá vliv na hybnost mých chodidel a tak se navzdory ní mohu pohybovat jako každý jiný.\n.pp\nMyslím si, že stejně jako každý by si měl cenit co má, obzvlášť zdraví, rodinu a přátele, měl by si také cenit svoji vlast, kulturu a jazyk.\nDíky své zemi jsem se narodil, právě v ní vyrostli mí předkové a sešli se mí rodiče, tato země mi poskytla vzdělání a ukázala mi svět, tato země mě naplnila zkušenostmi, které jsou klíčové pro mojí osobnost, a tudíž bych měl být své vlasti vděčný a vážit si jí.\nTo neznamená, že bych měl zavrhovat ostatní národy.\nDíky naší kultuře jsem se naučil být morální, dozvěděl se o svých předcích a historii a naučil se tradicím a tradičním hodnotám, které považuji za důležité. To neznamená, že bych měl zavrhovat ostatní kultury a slepě souhlasit se všemi našemi tradicemi, smyslem je se poučit a být lepším a čestnějším člověkem než ti, kteří byli přede mnou.\nA konečně, díky našemu jazyku moho komunikovat, formulovat myšlenky, sdílet je se světem a poslechnout si jeho odpověď, oceňovat literární umění, poučit se zněj a prožívat hluboké zážitky. To neznamená, že bych měl odmítat ostatní jazyky a omezovat svoje myšlení.\n.pp\nPřipadá mi, že je v poslední době v západním světě populární přirovnávat vlastenectví k xenofobii, nemohu ale souhlasit.\nDomnívám se, že správný typ vlastenectví je ten s otevřenou myslí: cenit si toho, co je mi vlastní, ale nezamítat ostatní.\nKdyž člověk zavrhuje poznání minulosti a tradičních hodnot a nebo odmítá mít otevřenou mysl stává se obětí proslulého citátu George Santayany:\n.(q\n.i\n\\[Bq]Ti, kdo si nepamatují minulost, jsou odsouzeni k tomu, aby si jí zopakovali.\\[lq]\n.r\n.)q\n.pp\nK a priori odmítání tradičních hodnot také patří odmítání náboženství, které mě pomalu vede k posledním bodům,\no kterých bych se chtěl v rámci tohoto textu zmínit.\nV posledních dekádách se šíří ateismus jak plameny vyprahlou stepí a zdá se přirozené na věřící pohlížet s despektem.\nMnoho ateistů se domnívá, že mají na víc než ti, kteří věří v Boha/bohy, \\fI\\[Bq]protože přeci na rozdíl od těch pitomců poznali pravdu.\\[lq]\\fR\nMají však právo věřící odsuzovat a domnívat se, že jsou představiteli absolutní pravdy?\nNemyslím si.\n.pp\nJá sám jsem agnostik, nemyslím si, že je mi souzeno spekulovat o existenci Boha, protože se domnívám,\nže moje poznání nemůže nikdy dosáhnout takové úrovně, kdy bych dokázal s jistotou tvrdit, jaká je podstata našeho světa.\nPro věřící mám ale obrovský respekt, našli totiž smysl života a pronikli do mystického světa, do kterého já nikdy neproniknu.\nKdyž a priori odmítám Boha, proč bych se měl chovat morálně?\nVždyt pokud jsme výsledkem nějaké kosmické náhody, nemá morální chování žádný hlubší smysl, dyť by přece bylo zábavné tu kosmickou náhodu ještě trochu \\[Bq]přisolit\\[lq].\nJako agnostik si tuto otázku nepokládám, mojí životní filozofií je to trochu zbaběle neřešit a zamést pod koberec, vracím se tím však ke svému bodu o snášenlivosti vůči protichůdným názorům.\n.pp\nMůj oblíbený dříve-zmíněný básník Robert Burnsi, proslulý svou kritikou společnosti a egalitariánskými názory, napsal v roce 1786 báseň\n.i \"Address To The Unco Guid, Or The Rigidly Righteous\"\n(= K těm neobyčejně dobrým, neboli ostře spravedlivým).\nObě tato pojmenování jsou pejorativní, \\fIostře spravedlivý\\fR je podle Burnse takový člověk, který se slepě drží svého přesvědčení v oblasti morality a víry, násilně vnucuje svoji ideologii ostatním a ospravedlňují skrze ní činy, které lze považovat za nemorální.\nPřestože Robby Burns ve své době kritizoval zejména ortodoxní křesťany, zůstává fenomén \\fIostře spravedlivých\\fR stále aktuální.\nTrendy posledních let napomáhají vzniku \\fIneobyčejně dobrých\\fR zaměřených na různé toxické ideologie, ať už jde o politickou korektnost, radikální boj o sociální spravedlnost nebo jiné\nradikální názory.\n.pp\nKultura politické korektnosti je kulturou cenzury, která se snaží místo zdravé diskuze eliminovat protinázor, interpretovat humor jako seriózní sdělení a jako lítá saň se vrhá na kohokoliv, kdo vybočuje z řady.\nCenzura, ať už vedená státem nebo vycházející ze společnosti samotné, vede pouze k negativním následkům.\nKromě omezování svobody a zdravé komunikace (jejíž omezování vede k omezení myšlení) dochází také k poškození jazyka jak z hlediska slovní zásoby, tak z hlediska literárního, protože spousta hodnotných děl může zůstat nevydána nebo skryta před většinovou veřejností.\n.pp\nNásilné změny propagované současnou kulturou se pojí i se změnou významu slov\na umělým zavedením slov nových.\nV posledních letech se do velké míry diskutuje o problematice \\fIgenderu\\fR.\nGenderem se myslí pohlaví, které je odlišné od biologického pohlaví.\nPřitom v angličtině slov gender znamená pohlaví a je zapsáno ve slovníku jako synonym pro slovo \\fIsex\\fR, které se nyní užívá jako označení pro biologické pohlaví.\nTento fenomén spočívá záměně identity s pohlavím.\nPokud má člověk rád nějaké zvíře a sžívá se s vlastnostmi, které symbolizuje, tak je člověkem, pro jehož identitu je důležité jeho oblíbené zvíře, ne člověk pohlaví \\fIfoxkin\\fR.\nPokud se člověk nestotožňuje ani s mužskými, ani s ženskými stereotypy,\ntak se jedná o člověka, pro jehož identitu je důležité být nezávislý na sociálních normách, nedá se říci, že jeho pohlaví je \\fIneutrois\\fR.\n.pp\nNástup nových pohlaví má ve spoustě zemí také za následek umělé zavedení nových bizarních zájmen a vynucování jejich užívání (v zemích jako Kanada, Švédsko a VB i ze zákona).\nV Česku nacházíme takové pokusy také, ale zatím v poměrně malé míře.\nČeština, jako jazyk, kde má mluvnický rod výraznou roli podstatně stěžuje násilnou úpravu gramatiky.\nZ budoucího vývoje tohoto fenoménu a jeho vlivu na jazyk bych měl ale obavy.\n.pp\nS tímto jevem také souvisí jev hledání, vytváření a používání genderově-vyváženého jazyka.\nK tomu dochází zejména dvěma způsoby: první z nich je používání lomítek (např. \\fIstudent/ka\\fR) a přechýlených forem v relevantních kontextech (např. Wikipedie uvádí jako příklad \\fIOna je uznávaná psycholožka\\fR X \\fIOna je uznávaný psycholog\\fR),\nkteré považuji za správné a ničím jazyk nepoškozující, druhý způsob je nahrazování původních slov za nově vytvořené alternativy.\nI zde jsou moje obavy mířené spíše směrem do budoucna, podobně jako předchozí jev se tento tak silně v češtině neprojevuje, protože většinou stačí využívat např. přídavná jména slovesná a slova označující skupiny (např. žactvo),\nv jiných jazycích, jako například angličtina nebo švédština je situace horší.\n.pp\nRád bych zmínil z angličtiny případ morfému \\fIman\\fR, který se může vyskytovat jako kořen slova, předpona i přípona.\nCesty, kterými se jazyk vyvíjí jsou občas podivuhodné, tento morfém má totiž dvě etymologie, obě pocházející z němčiny.\nPrvní z nich je od slova \\fIMann\\fR (= muž) a určuje první význam, tj. \\fImuž\\fR, \\fImužský\\fR\natd; druhý je od slova \\fIMensch\\fR (= člověk) a udává druhý význam, tj. \\fIčlověk\\fR, \\fIlidský\\fR atd.\nPoliticky korektní kultura se v rámci \\fIgenderové vyváženosti\\fR rozhodla druhý význam opommenout a označit termíny jako \\fImankind\\fR (= lidstvo), \\fIman-made\\fR (= umělý) a \\fIman\\fR (použito ve zcela zřejmě obecném kontextu) za genderově-nevyvážené a hledat pro ně alternativy.\nNapříklad alternativa pro \\fImankind\\fR, \\fIhumankind\\fR nebo \\fIspokesperson\\fR jako alternativa pro \\fIspokesman\\fR mi zní poněkud bizarně.\n.pp\nDomnívám se, že jazyk by se měl vyvíjet organicky.\nNárod, světová situace a vnější vlivy by se měly postupně a přirozeně promítat do jazyka a standardní vývojové procesy (jako např. přirozený přechod od syntetické k analytické gramatice) by měly probíhat ničím nenarušené.\nPokud jedna skupina jedinců diktuje, jak by měl jazyk vypadat, jaká slova se smí a nesmí říkat, která slova vymažeme a jaká nová přidáme, potom se pomalu blížíme do teritoria \\fIideálního\\fR státu Orwellova \\fI1984\\fR.\n.pp\nNerad bych zněl v rámci tohoto textu pouze jako skeptik a proto bych rád zmínil některé věci, které oceňuji.\nJak jsem již naznačil, považuji klasickou českou literaturu za kvalitní a jsem hrdý na dědictví, které nám umělci minulosti přenechali.\nZ kinematografické tvorby bych také rád pochválil český dabing, který považuji za velmi kvalitně provedený, jak z hlediska jazyka, překladu i výběru dabérů pro jednotlivé herce.\nVzpomínám si, že jako malý jsem si těžko zvykal na opravdový hlas Johnnyho Deppa potom, co jsem si zvykl na český dabing Saši Rašilova.\n.pp\nDalší oblastí je divadlo, do kterého chodím rád jak s rodinou, tak s přáteli.\nJsem rád za to, že škola má k dispozici zlevněné lístky do divadla, a mohu říci,\nže drtivá většina divadelních představení, která jsem viděl, se mi líbila,\nnejen klasická zpracování, ale také moderní pojetí a nová představení.\n.pp\nSpokojený jsem také s výukou češtiny, která mi během mého studia byla dopřána.\nMezi první třídou a maturitou jsem měl šest vyučujících češtiny a ani na jednoho z nich si nemůžu stěžovat.\nS každým češtinářem byla čeština úplně jiný předmět, každý z nich vedl výuku jiným způsobem a zaměřoval se na jiné aspekty a ani u jednoho jsem se nenudil.\nMrzí mě, že se nemohu v poslední době věnovat češtině tak, jako dříve.\nČasová zátěž mého oboru roste a v posledních měsících se také starám o babičku po tom, co utrpěla úraz.\n.pp\nTímto jsem se pokusil nastínit můj vztah k češtině - mám jí rád jako jazyk, rád čtu, chodím do divadla a sleduji české filmy,\nale mám obavy z jejího současného vývoje, ať už kvůli anglickému vlivu nebo současných trendech západní kultury a mrzí mě, že je v opozici s mým oborem.\nJsem si plně vědom toho, že na této situaci nic nezměním a domnívám se, že žádná další vlna jazykobrusičů nepříjde.\nMožná se mýlím, možná je moje perspektiva moc zkreslená mojí \\fIbublinou\\fR, ale řekl bych, že pro češtinu nastávají temné časy.\n",
+					"file": "/root/ambivalence/cestina.me",
+					"file_size": 32780,
+					"file_write_time": 132229041931182714,
+					"settings":
+					{
+						"buffer_size": 29521,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/remedias/src/lib.rs",
+					"settings":
+					{
+						"buffer_size": 3184,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Check"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Run Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Bench"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Release"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Document"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Clippy"
+						],
+						[
+							"Packages/Rust Enhanced/Cargo.sublime-build",
+							"Script"
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Rust/Cargo.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"select col",
+						"UI: Select Color Scheme"
+					],
+					[
+						"skin",
+						"UI: Select Skin"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"prefere\t",
+						"Preferences: Settings"
+					],
+					[
+						"bar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"selec\tt sski",
+						"UI: Select Skin"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"comme",
+						"Toggle Comment"
+					],
+					[
+						"split",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"des",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rustfmt",
+						"RustFmt: Format Buffer"
+					],
+					[
+						"conve",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"select sk",
+						"UI: Select Skin"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tog",
+						"View: Toggle Menu"
+					],
+					[
+						"ta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"con",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"togl",
+						"View: Toggle Menu"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"split ver",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"sk",
+						"UI: Select Skin"
+					],
+					[
+						"bash",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"preferences",
+						"Preferences: Settings"
+					],
+					[
+						"colorsc",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"spli",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"tab",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"cove",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"convert to tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"split ",
+						"Layout: Split Current Pane Vertical"
+					],
+					[
+						"add f",
+						"Project: Add Folder"
+					],
+					[
+						"selec",
+						"UI: Select Skin"
+					],
+					[
+						"cov",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"conv",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"tr",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"tra",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"prettif",
+						"HTMLPrettify"
+					],
+					[
+						"reason",
+						"Set Syntax: Reason"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOVE PACKA",
+						"Package Control: Remove Package"
+					],
+					[
+						"res",
+						"LSP: Restart Servers"
+					],
+					[
+						"resta",
+						"LSP: Restart Servers"
+					],
+					[
+						"preferences lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"togle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"spl",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"m",
+						"View: Toggle Menu"
+					],
+					[
+						"toggl",
+						"View: Toggle Menu"
+					],
+					[
+						"select ",
+						"UI: Select Skin"
+					],
+					[
+						"hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"select theme",
+						"UI: Select Theme"
+					],
+					[
+						"select color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"repl pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"togle",
+						"View: Toggle Menu"
+					],
+					[
+						"destr",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"pane",
+						"Layout: Move File to Pane on the Right"
+					],
+					[
+						"split pa",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"toglg em",
+						"View: Toggle Menu"
+					],
+					[
+						"togg",
+						"View: Toggle Side Bar"
+					],
+					[
+						"CONVERT",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"CONVE",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"select colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"select",
+						"UI: Select Skin"
+					],
+					[
+						"sele",
+						"UI: Select Skin"
+					],
+					[
+						"split curr",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"toggle",
+						"View: Toggle Menu"
+					],
+					[
+						"destro",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"destroy",
+						"Layout: Destroy Current Pane"
+					],
+					[
+						"sidebra",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"select ski",
+						"UI: Select Skin"
+					],
+					[
+						"togle side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"save",
+						"UI: Save Skin"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal View: Color Scheme"
+					],
+					[
+						"terminalview",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"edit",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"select co",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"restart",
+						"LSP: Restart Servers"
+					],
+					[
+						"LSP",
+						"LSP: Show Diagnostics"
+					],
+					[
+						"togle s",
+						"View: Toggle Side Bar"
+					],
+					[
+						"a",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"t",
+						"View: Toggle Menu"
+					],
+					[
+						"save all",
+						"File: Save All"
+					],
+					[
+						"unfold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"comments",
+						"Fold Comments"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"ed",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colore",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colorsch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"split hor",
+						"Layout: Split Current Pane Horizontal"
+					],
+					[
+						"commen",
+						"Toggle Comment"
+					],
+					[
+						"CONVERT TO TAB",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"togle ",
+						"View: Toggle Tabs"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"togle men",
+						"View: Toggle Menu"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"save s",
+						"UI: Save Skin"
+					],
+					[
+						"select clo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"togle ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"togle t",
+						"View: Toggle Tabs"
+					],
+					[
+						"SELEC",
+						"UI: Select Theme"
+					],
+					[
+						"TOGGLE TA",
+						"View: Toggle Tabs"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/root/remedias",
+				"/root/remedias/misc",
+				"/root/remedias/src"
+			],
+			"file_history":
+			[
+				"/root/remedias/crate/redb/src/models/content.rs",
+				"/root/remedias/api/query/Cargo.toml",
+				"/root/remedias/src/api/roles.rs",
+				"/root/remedias/src/api/mod.rs",
+				"/root/remedias/api/content/Cargo.toml",
+				"/root/remedias/src/lib.rs",
+				"/root/remedias/api/tasks/src/lib.rs",
+				"/root/remedias/api/roles/src/lib.rs",
+				"/root/remedias/api/content/src/lib.rs",
+				"/root/remedias/crate/reutils/src/auth.rs",
+				"/root/remedias/api/tasks/src/bin/task_post.rs",
+				"/root/sympozion_2019/src/main.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_post_perms.rs",
+				"/root/remedias/crate/redb/src/models/role.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_get_perms.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_patch_perms.rs",
+				"/root/remedias/api/roles/src/bin/perms/role_delete_perms.rs",
+				"/root/remedias/api/user/src/lib.rs",
+				"/root/remedias/crate/reutils/src/lib.rs",
+				"/root/remedias/crate/reutils/Cargo.toml",
+				"/root/remedias/crate/sentinel/src/main.rs",
+				"/root/remedias/sentinel",
+				"/root/remedias/Cargo.toml",
+				"/root/remedias/api/query/src/bin/query_identify.rs",
+				"/root/remedias/crate/redb/src/models/mod.rs",
+				"/root/remedias/api/query/src/lib.rs",
+				"/root/remedias/crate/reremote/src/main.rs",
+				"/root/remedias/crate/sentinel/Cargo.toml",
+				"/root/remedias/api/category/Cargo.toml",
+				"/root/remedias/api/page/Cargo.toml",
+				"/root/remedias/api/tags/Cargo.toml",
+				"/root/remedias/api/statistics/Cargo.toml",
+				"/root/remedias/api/roles/Cargo.toml",
+				"/root/remedias/api/user/Cargo.toml",
+				"/root/remedias/api/tasks/Cargo.toml",
+				"/root/remedias/migrations/2019-08-19-065905_content_task/down.sql",
+				"/root/remedias/migrations/2019-08-19-065905_content_task/up.sql",
+				"/root/remedias/api/roles/src/bin/role_delete.rs",
+				"/root/remedias/api/roles/src/bin/role_post.rs",
+				"/root/remedias/api/roles/src/bin/role_patch.rs",
+				"/root/remedias/api/roles/src/bin/role_get.rs",
+				"/root/remedias/api/roles/src/bin/role_patch_perms.rs",
+				"/root/remedias/api/roles/src/bin/role_get_perms.rs",
+				"/root/remedias/api/roles/src/bin/role_post_perms.rs",
+				"/root/remedias/api/query/src/bin/query_content_unpublished.rs",
+				"/root/remedias/api/query/src/bin/query_content_task.rs",
+				"/root/remedias/crate/reapi/macros/src/lib.rs",
+				"/root/remedias/api/content/src/bin/content_delete_location.rs",
+				"/root/remedias/api/content/src/bin/content_delete_task_id.rs",
+				"/root/remedias/api/content/src/bin/content_patch_task_id.rs",
+				"/root/remedias/api/content/src/bin/content_get_task_id.rs",
+				"/root/magnusi.tech/web/contacts.md",
+				"/root/remedias/crate/redb/src/models/map.rs",
+				"/root/remedias/crate/redb/src/models/user.rs",
+				"/root/remedias/crate/redb/src/models/ad.rs",
+				"/root/remedias/crate/reapi/src/lib.rs",
+				"/root/remedias/crate/redb/src/lib.rs",
+				"/root/remedias/crate/redb/Cargo.toml",
+				"/root/remedias/migrations/2019-08-13-164121_task_state/down.sql",
+				"/root/remedias/migrations/2019-08-13-164121_task_state/up.sql",
+				"/root/remedias/crate/redb/src/models/task.rs",
+				"/root/remedias/crate/redb/src/models/grid.rs",
+				"/root/remedias/crate/redb/src/models/instance.rs",
+				"/root/remedias/crate/redb/src/models/page.rs",
+				"/root/remedias/crate/redb/src/models/category.rs",
+				"/root/remedias/.gitlab-ci.yml",
+				"/root/remedias/crate/redb/src/models.rs",
+				"/root/remedias/api/user/src/bin/user_delete.rs",
+				"/root/remedias/api/user/src/bin/user_login.rs",
+				"/root/remedias/api/tasks/src/bin/task_query.rs",
+				"/root/remedias/api/tasks/src/bin/task_patch.rs",
+				"/root/remedias/api/tasks/src/bin/task_get.rs",
+				"/root/desktop/tasks-endpoints.txt",
+				"/root/remedias/crate/remodel/src/lib.rs",
+				"/root/remedias/api/tasks/src/bin/task_delete.rs",
+				"/root/remedias/src/api/tasks.rs",
+				"/root/remedias/crate/restatic/src/static_server.rs",
+				"/root/remedias/crate/remodel/types/src/lib.rs",
+				"/root/remedias/crate/remodel/Cargo.toml",
+				"/root/remedias/migrations/2019-08-04-101603_tasks/down.sql",
+				"/root/remedias/migrations/2019-08-04-101603_tasks/up.sql",
+				"/root/remedias/crate/redb/src/schema.rs",
+				"/root/remedias/crate/reremote/Cargo.toml",
+				"/root/remedias/crate/remodel/types/Cargo.toml",
+				"/root/remedias/crate/remodel/tests/debug.rs",
+				"/root/remedias/crate/remodel/src/types.rs",
+				"/root/remedias/api/instance/src/lib.rs",
+				"/root/changelog",
+				"/root/remedias/api/category/src/lib.rs",
+				"/root/remedias/api/instance/Cargo.toml",
+				"/root/remedias/crate/sentinel/src/util.rs",
+				"/root/remedias/api/category/src/bin/category_post_perms.rs",
+				"/root/remedias/api/query/src/bin/query_content_date_offset.rs",
+				"/root/remedias/api/query/src/bin/query_content_date.rs",
+				"/root/remedias/api/query/src/bin/query_content_random.rs",
+				"/root/remedias/api/query/src/bin/query_instance_random.rs",
+				"/root/remedias/api/content/src/bin/content_get_ads_by_tag.rs",
+				"/root/remedias/api/user/src/bin/user_invalidate.rs",
+				"/root/remedias/api/user/src/bin/user_register.rs",
+				"/root/remedias/api/user/src/bin/user_patch_perms.rs",
+				"/root/remedias/api/category/src/bin/category_patch_perms.rs",
+				"/root/remedias/api/category/src/bin/category_categories_patch.rs",
+				"/root/remedias/api/category/src/bin/category_categories_delete.rs",
+				"/root/remedias/api/category/src/bin/category_categories_post.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete.rs",
+				"/root/remedias/api/instance/src/bin/instance_delete_owners.rs",
+				"/root/remedias/crate/reapi/src/response.rs",
+				"/root/remedias/api/content/src/bin/content_patch_text.rs",
+				"/root/remedias/api/page/src/lib.rs",
+				"/root/remedias/api/statistics/src/lib.rs",
+				"/root/remedias/api/tags/src/lib.rs",
+				"/root/remedias/crate/restatic/src/lib.rs",
+				"/root/remedias/crate/rejwt/src/lib.rs",
+				"/root/remedias/crate/relog/src/lib.rs",
+				"/root/remedias/crate/rejwt/Cargo.toml",
+				"/root/remedias/api/user/src/bin/user_patch_email.rs",
+				"/root/remedias/crate/reapi/Cargo.toml",
+				"/root/remedias/api/content/src/bin/content_delete.rs",
+				"/root/remedias/api/content/src/bin/content_post_ad.rs",
+				"/root/remedias/api/content/src/bin/content_delete_ad.rs",
+				"/root/remedias/api/content/src/bin/content_delete_map.rs",
+				"/root/remedias/api/content/src/bin/content_patch_date.rs",
+				"/root/remedias/api/content/src/bin/content_patch_description.rs",
+				"/root/remedias/api/content/src/bin/content_patch_image_url.rs",
+				"/root/remedias/api/content/src/bin/content_patch_location.rs",
+				"/root/remedias/api/content/src/bin/content_patch_name.rs",
+				"/root/remedias/api/content/src/bin/content_post.rs",
+				"/root/remedias/api/content/src/bin/content_post_map.rs"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 436.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"=> (\\w+)",
+					"(\\w+) => write!\\(f, (.+)\\),",
+					"(\\w)+ => write!\\(f, (\"\\w+\")\\),",
+					"(\\w)+ => write!\\(f, (.+)\\),",
+					"(\\w+) => write!\\(f, (.+)\\),",
+					"(\\w)+ => write!\\(f, (.+)\\),",
+					"user",
+					"json!",
+					"is_some",
+					"Task",
+					"task",
+					"Task",
+					"task",
+					"Task",
+					"task(_?)id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"=> Ok(\\1)",
+					"\\2 => \\1,",
+					"\\1 => \\2,",
+					"role",
+					"ok!",
+					"is_ok",
+					"Role",
+					"role",
+					"Role",
+					"role",
+					"Role",
+					"role\\1id"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/root/remedias"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/root/ambivalence/cestina.me",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29521,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21411,
+										21411
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 4,
+										"count": 4450,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"syntax": "Packages/theme-tinybeard/groff.sublime-syntax",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1911.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/root/remedias/src/lib.rs",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 3184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										955,
+										955
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 272,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"lsp_active": true,
+									"lsp_language":
+									{
+										"rls": "rust"
+									},
+									"show_definitions": false,
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 123.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 148.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.diagnostics":
+			{
+				"height": 80.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 222.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 80.0
+			},
+			"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+			"position": "0,0,0,0,0,0,14,2558,1438,2560,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 495.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 376.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 177.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 387,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

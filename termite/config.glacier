@@ -1,0 +1,46 @@
+[options]
+font = ProFontWindowsCzech 9
+cursor_shape = ibeam
+mouse_autohide = true
+icon_name = angrysearch
+
+[colors]
+
+# special
+foreground      = #efefef
+foreground_bold = #efefef
+cursor          = #efefef
+background      = #0e151b
+
+# black
+color0  = #000000
+color8  = #323232
+
+# red
+color1  = #d02000
+color9  = #ff5232
+
+# green
+color2  = #43ae88
+color10 = #75e0ba
+
+# yellow
+color3  = #ddb700
+color11 = #ffe932
+
+# blue
+color4  = #266b85
+color12 = #589db7
+
+# magenta
+color5  = #f8f8f8
+color13 = #ffffff
+
+# cyan
+color6  = #76ffcd
+color14 = #a8ffff
+
+# white
+color7  = #ffffff
+color15 = #ffffff
+

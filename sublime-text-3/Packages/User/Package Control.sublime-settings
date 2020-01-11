@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFoldCode",
+		"Base16 Color Schemes",
+		"Color Highlighter",
+		"DocBlockr",
+		"Fold Comments",
+		"FoldFunctions",
+		"Git",
+		"Layout",
+		"LSP",
+		"Man Page Support",
+		"NimLime",
+		"Package Control",
+		"PgSQL",
+		"Python 3",
+		"Reason",
+		"Rust Enhanced",
+		"RustFmt",
+		"Skins",
+		"SML (Standard ML)",
+		"Status Bar Time",
+		"Stylus",
+		"TerminalView",
+		"TOML",
+		"TrailingSpaces",
+		"WordCount"
+	]
+}

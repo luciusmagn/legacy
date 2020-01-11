@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the vue syntax
+{
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true,
+}

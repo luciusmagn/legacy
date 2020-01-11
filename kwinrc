@@ -1,0 +1,10 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=497661b9-8165-4a4e-9d03-796962a80301
+Number=1
+Rows=1

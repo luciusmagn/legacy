@@ -1,0 +1,13 @@
+{
+	"char_ignore_whitespace": true,
+
+	"enable_line_word_count": false,
+	"enable_line_char_count": false,
+
+	"enable_count_chars": true,
+	"enable_count_lines": false,
+
+	"enable_count_pages": true,
+	"words_per_page": 300,
+	"page_count_mode_count_words": true,
+}

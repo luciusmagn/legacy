@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"rs",
+		"nr"
+	],
+	"rust_syntax_checking": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"rust_syntax_hide_warnings": true,
+	"trim_trailing_white_space_on_save": true,
+}

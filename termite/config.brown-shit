@@ -1,0 +1,43 @@
+[options]
+font = ProFontWindowsCzech 9
+
+[colors]
+
+# special
+foreground      = #d8d0ca
+foreground_bold = #d8d0ca
+cursor          = #d8d0ca
+background      = #0c0b09
+
+# black
+color0  = #151311
+color8  = #db8ca7
+
+# red
+color1  = #1f1c1a
+color9  = #d29f5f
+
+# green
+color2  = #312d2a
+color10 = #81bee0
+
+# yellow
+color3  = #4a4541
+color11 = #47a290
+
+# blue
+color4  = #6a635d
+color12 = #dc90aa
+
+# magenta
+color5  = #90877f
+color13 = #cb9651
+
+# cyan
+color6  = #bcb0a7
+color14 = #d79e4d
+
+# white
+color7  = #e6e2de
+color15 = #83c4e7
+

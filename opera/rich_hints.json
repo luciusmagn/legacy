@@ -1,0 +1,921 @@
+// DyYopssAJsR+AF6lsuou1faozXBMGi8bzzhwU+ek9xlK/hzzmZyRsG4a/HYVRxgfYge+8cB0R2uJzqQYbtD95PG4aHzQeIkKm8aDlTPaKWKDc9dRjOVWiIt2YatcRmT84rJnKmLrFXtCDG1/Nc+OVo8bUHmIgerJMs/FTe0s0imTVsw/uYyi/Nd31tDiZZX12nz+O06jnnWfZx7gglACAgsQAM0NrM2H263OAvemdRwzVizcwf+guGS1renrikem0TF6t7a8qlhTf8pkUgBPmrYmjbC1I2EvRU+KTPwOiE+8SHHhXCCnT/oupHm3d5qtCOrHJyP5kzXJy1AGZw9eWg==
+{
+  "hints": [
+    {
+      "id": "0001_v7_6_RU",
+      "params": {
+        "default": {
+          "integrity": "sha256-xFXhK04twJFH9h6DbtSBWC2UiXlKIxoYV5jFrUSpbYs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0001_v18_2_fix/search_popup_RU_yandex.html"
+        }
+      },
+      "priority": 50,
+      "target": "language = 'ru' AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 2375",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND default_search_engine = 'yandex' AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "yandex_organic_search"
+      }
+    },
+    {
+      "id": "0001_v7_ref_RU",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "language = 'ru' AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 2375 AND ab_test_group_allegiance < 2500",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND default_search_engine = 'yandex' AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "yandex_organic_search"
+      }
+    },
+    {
+      "id": "0001_v18_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-jCXlGkUneUQgnyoXKPHc6TNSwnxMRTUOstKLx61iJgY=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0001_v18_2_fix/search_popup.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 9500",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND default_search_engine = 'google' AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "google_organic_search"
+      }
+    },
+    {
+      "id": "0001_v18_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 9500 AND ab_test_group_allegiance < 10000",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND default_search_engine = 'google' AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "google_organic_search"
+      }
+    },
+    {
+      "id": "0001_v23_3",
+      "params": {
+        "default": {
+          "integrity": "sha256-AGP6ruDxSWaxv1CEGzbVWeHT3heOm7kO5qldHCfkfuc=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0001_v24/R4C2.html"
+        }
+      },
+      "target": "language = 'ru' AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 4750",
+      "trigger": {
+        "condition": "default_search_engine = 'google' AND number_of_skips < 3 AND ((time_since_last_shown >= 7 * 24 AND last_close_type = 1) OR (last_close_type = 0)) AND number_of_times_already_shown < 5",
+        "event": "navigation_to_yandex_service"
+      },
+      "variables": {
+        "last_close_type": {
+          "default": 0,
+          "type": "int"
+        },
+        "number_of_skips": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0001_v23_10",
+      "params": {
+        "default": {
+          "integrity": "sha256-AGP6ruDxSWaxv1CEGzbVWeHT3heOm7kO5qldHCfkfuc=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0001_v24/R4C2.html"
+        }
+      },
+      "target": "language = 'ru' AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 4750 AND ab_test_group_allegiance < 9500",
+      "trigger": {
+        "condition": "default_search_engine = 'google' AND number_of_skips < 3 AND ((time_since_last_shown >= 1 * 24 AND last_close_type = 1) OR (last_close_type = 0)) AND number_of_times_already_shown < 5",
+        "event": "navigation_to_yandex_service"
+      },
+      "variables": {
+        "last_close_type": {
+          "default": 0,
+          "type": "int"
+        },
+        "number_of_skips": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0001_v23_ref",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "target": "language = 'ru' AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 9500 AND ab_test_group_allegiance < 10000",
+      "trigger": {
+        "condition": "default_search_engine = 'google' AND number_of_times_already_shown < 5",
+        "event": "navigation_to_yandex_service"
+      }
+    },
+    {
+      "id": "0001_v25_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-jCXlGkUneUQgnyoXKPHc6TNSwnxMRTUOstKLx61iJgY=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0001_v18_2_fix/search_popup.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 50",
+      "trigger": {
+        "condition": "('04ea5e6749c3db01060291e3dff420fb0bbd2a0c' IN chars OR 'c485ae2488b5b387a545bae58eb12aef317e789e' IN chars) AND number_of_times_already_shown < 3 AND default_search_engine = 'google' AND time_since_last_shown >= 1 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_startpage"
+      }
+    },
+    {
+      "id": "0001_v25_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 50 AND ab_test_group_allegiance < 100",
+      "trigger": {
+        "condition": "('04ea5e6749c3db01060291e3dff420fb0bbd2a0c' IN chars OR 'c485ae2488b5b387a545bae58eb12aef317e789e' IN chars) AND number_of_times_already_shown < 3 AND default_search_engine = 'google' AND time_since_last_shown >= 1 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_startpage"
+      }
+    },
+    {
+      "id": "0002_v1_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 950",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_twitch"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v1_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 950 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_twitch"
+      }
+    },
+    {
+      "id": "0002_v2_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 51,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 333",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND dont_show_again = 0 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_mixer"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v2_2_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 48,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 333 AND ab_test_group_allegiance < 666",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND dont_show_again = 0 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_mixer"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v2_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 51,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 666 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_mixer"
+      }
+    },
+    {
+      "id": "0002_v5_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 950",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_discord"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v5_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 950 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_discord"
+      }
+    },
+    {
+      "id": "0002_v6_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 500",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_gaming_sites"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v6_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 500 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars)) AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_gaming_sites"
+      }
+    },
+    {
+      "id": "0002_v8_1_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-O3XE8cjfaAZ7VbNc3FYJMccPnC1gV8dSs8vOSijdv0U=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0002_v1_fix2/0002_v1_fix2_1.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 500",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars) AND ('723621b996409a16813bc7d47231cfcfc92113e1' IN chars)) AND dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_gaming_sites"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0002_v8_ref_EN",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 49,
+      "target": "os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 500 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "(!('115c50fa8d59f99ea14a4de68b51c1b28a48665f' IN chars) AND !('2b1a6efc318c43df2480e1196cb2782e04a96d55' IN chars) AND !('d444533815c9f26dd1e73c92f935bb627bc37967' IN chars) AND !('28ee13332c922442c10eccf0cc62481c27af9491' IN chars) AND ('723621b996409a16813bc7d47231cfcfc92113e1' IN chars)) AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_gaming_sites"
+      }
+    },
+    {
+      "id": "0003_v1_1",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 333",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_messenger"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v1_2",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 333 AND ab_test_group_allegiance < 666",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_messenger"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v1_ref",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 666 AND ab_test_group_allegiance < 1000",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_messenger"
+      }
+    },
+    {
+      "id": "0003_v2_1_T1",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 1000 AND ab_test_group_allegiance < 1333",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_messenger"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v2_1_T2",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 1333 AND ab_test_group_allegiance < 1666",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 1 AND most_recent.time_since_last_shown >= 1",
+        "event": "navigation_to_messenger"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v2_ref_T2",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 1666 AND ab_test_group_allegiance < 2000",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND time_since_last_shown >= 1 AND most_recent.time_since_last_shown >= 1",
+        "event": "navigation_to_messenger"
+      }
+    },
+    {
+      "id": "0003_v3_1",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "utm.medium = 'pb' AND (language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 0 AND ab_test_group_allegiance < 33",
+      "trigger": {
+        "condition": "time_since_app_installation < 24",
+        "event": "z_navigation_to_any_website"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v3_2",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "utm.medium = 'pb' AND (language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 33 AND ab_test_group_allegiance < 66",
+      "trigger": {
+        "condition": "time_since_app_installation < 24",
+        "event": "z_navigation_to_any_website"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v3_ref",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "utm.medium = 'pb' AND ((app.version.major >= 63 AND app.version.patch >= 43) OR app.version.major >= 64) AND (language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 66 AND ab_test_group_allegiance < 100",
+      "trigger": {
+        "condition": "time_since_app_installation < 24",
+        "event": "z_navigation_to_any_website"
+      }
+    },
+    {
+      "id": "0003_v4_1",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 2000 AND ab_test_group_allegiance < 2033",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_facebook"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v4_2",
+      "params": {
+        "default": {
+          "integrity": "sha256-bo9wEfSMoSM03vtYW5K6qc8tURt2j1gTaeYOP9QtGTs=",
+          "url": "https://get.geo.opera.com/.private/assistserv/0003_v1/index.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 2033 AND ab_test_group_allegiance < 2066",
+      "trigger": {
+        "condition": "dont_show_again = 0 AND number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_facebook"
+      },
+      "variables": {
+        "dont_show_again": {
+          "default": 0,
+          "type": "int"
+        }
+      }
+    },
+    {
+      "id": "0003_v4_ref",
+      "params": {
+        "default": {
+          "integrity": "sha256-BM6zMdjINnlkUMEsSbB1aAFHaAOyEqXdaFnpuYBbcjA=",
+          "url": "https://get.geo.opera.com/.private/assistserv/phony/phony_v2.html"
+        }
+      },
+      "priority": 50,
+      "target": "(language = 'en-us' OR language = 'en-gb') AND os.type = 'win' AND transparency_supported = 1 AND ab_test_group_allegiance >= 2066 AND ab_test_group_allegiance < 2100",
+      "trigger": {
+        "condition": "number_of_times_already_shown < 3 AND time_since_last_shown >= 7 * 24 AND most_recent.time_since_last_shown >= 1 * 24",
+        "event": "navigation_to_facebook"
+      }
+    }
+  ],
+  "url_load_events": {
+    "google_attributed_search": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "ContextMenu",
+        "StartPage",
+        "WebPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "getParamsContain": {
+              "client": [
+                "opera"
+              ]
+            },
+            "urlMatches": "http(s)?:\\/\\/www\\.google\\.(.{2,3}|.{2,3}\\..{2})/search.*"
+          }
+        ]
+      }
+    },
+    "google_organic_search": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "ContextMenu",
+        "StartPage",
+        "WebPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/www\\.google\\.(.{2,3}|.{2,3}\\..{2})/search.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_discord": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?discordapp\\.com.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_facebook": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?facebook\\.com.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_gaming_sites": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?cheapshark\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?isthereanydeal\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:store\\.)?steampowered\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?epicgames\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?nexusmods\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?gog\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?humblebundle\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?itch\\.io.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?gamejolt\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?kongregate\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?fanatical\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?xbox\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?playstation\\.com.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?roblox\\.com.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_messenger": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?messenger\\.com.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_mixer": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?mixer\\.com.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_startpage": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "UICommand"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": false,
+        "matches_any": [
+          {
+            "urlMatches": "chrome:\\/\\/startpage.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_twitch": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?twitch\\.tv.*"
+          }
+        ]
+      }
+    },
+    "navigation_to_yandex_service": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "Bookmark",
+        "StartPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/.*yandex\\.ru.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?auto\\.ru.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?kinopoisk\\.ru.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?edadeal\\.ru.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?beru\\.ru.*"
+          },
+          {
+            "urlMatches": "http(s)?:\\/\\/(?:www\\.)?bringly\\.ru.*"
+          }
+        ]
+      }
+    },
+    "yandex_attributed_search": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "ContextMenu",
+        "Redirect",
+        "StartPage",
+        "WebPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "getParamsContain": {
+              "clid": [
+                "9582",
+                "1669559",
+                "2343200",
+                "2297897"
+              ]
+            },
+            "urlMatches": "http(s)?:\\/\\/yandex\\.(.{2,3}|.{2,3}\\..{2})/search.*"
+          }
+        ]
+      }
+    },
+    "yandex_organic_search": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "AddressBar",
+        "ContextMenu",
+        "Redirect",
+        "StartPage",
+        "WebPage"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": true,
+        "matches_any": [
+          {
+            "urlMatches": "http(s)?:\\/\\/yandex\\.(.{2,3}|.{2,3}\\..{2})/search.*"
+          }
+        ]
+      }
+    },
+    "z_navigation_to_any_website": {
+      "is_error_page": false,
+      "is_same_document": false,
+      "navigation_context": [
+        "WebPage",
+        "AddressBar",
+        "StartPage",
+        "Bookmark"
+      ],
+      "navigation_phase": [
+        "Finish"
+      ],
+      "url": {
+        "match_redirect_chain": false,
+        "matches_any": [
+          {
+            "urlMatches": ".*"
+          }
+        ]
+      }
+    }
+  },
+  "version": 79
+}

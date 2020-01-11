@@ -1,0 +1,7 @@
+{
+	"rustc_binary_path": "/usr/bin/rustc",
+	"racer_binary_path": "/usr/bin/racer",
+	"rustfmt_binary_path": "/usr/bin/rustfmt",
+	"rust_format_on_save": false,
+	"rust_src_path": "/home/rust/src"
+}

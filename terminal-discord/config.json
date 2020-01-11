@@ -1,0 +1,21 @@
+{
+    "token": "MTE4MDE3OTQ4MTY1MDc5MDQ2.DvAuJg.UrzO9h7vwyVccGf1wpX22NzDf0U",
+    "max_name_length": 18,
+    "allign": true,
+    "separator": "",
+    "history_length": null,
+    "default_guild": null,
+    "default_channel": null,
+    "mention_color": "#A52D00",
+    "default_color": "#FFFFFF",
+    "prompt": "",
+    "show_date": false,
+    "show_time": false,
+    "use_nickname": true,
+    "select_count": 8,
+    "color_support": true,
+    "show_embeds": true,
+    "repeat_name": false,
+    "right_bound": true,
+    "block_messages": true
+}

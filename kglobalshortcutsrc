@@ -1,0 +1,204 @@
+[ActivityManager]
+_k_friendly_name=Správce aktivit
+switch-to-activity-30fdc062-bbe3-4b09-8275-f7a84ca4069f=none,none,Přepnout na aktivitu "Výchozí"
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Přepnout na následující rozvržení klávesnice
+_k_friendly_name=KDE Daemon
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Zapnout/vypnout čtení obrazovky
+_k_friendly_name=Zpřístupnění
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Zakázat touchpad
+Enable Touchpad=Touchpad On,Touchpad On,Povolit touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Přepnout touchpad
+_k_friendly_name=KDE Daemon
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Zobrazit aktivitu systému
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Přepnout obrazovku
+
+[khotkeys]
+_k_friendly_name=KDE Daemon
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Hledat
+
+[krunner]
+_k_friendly_name=Spustit příkaz
+run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Spustit příkaz
+run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Spustit příkaz nad obsahem schránky
+
+[ksmserver]
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Vypnout bez potvrzení
+Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Uzamknout sezení
+Log Out=Ctrl+Alt+Del,none,Odhlásit se
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Odhlásit se bez potvrzení
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Restartovat bez potvrzení
+_k_friendly_name=ksmserver
+
+[kwin]
+Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Aktivovat okno vyžadující pozornost
+Decrease Opacity=none,none,Snížit průhlednost aktivního okna o 5 %
+Increase Opacity=none,none,Zvýšit průhlednost aktivního okna o 5 %
+Invert Screen Colors=none,none,Invertovat barvy na obrazovce
+Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Zabít okno
+Remove Window From Group=none,none,Odstranit okno ze skupiny
+Setup Window Shortcut=none,none,Nastavit zkratku okna
+Show Desktop=Meta+D,Meta+D,Zobrazit pracovní plochu
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Zastavit kompozici
+Switch One Desktop Down=none,none,Přepnout se na plochu dolů
+Switch One Desktop Up=none,none,Přepnout se na plochu nahoru
+Switch One Desktop to the Left=none,none,Přepnout se na plochu vlevo
+Switch One Desktop to the Right=none,none,Přepnout se na plochu vpravo
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Přepnout se na okno níž
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Přepnout se na okno doleva
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Přepnout se na okno doprava
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Přepnout se na okno výš
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Přepnout se na plochu 1
+Switch to Desktop 10=none,none,Přepnout se na plochu 10
+Switch to Desktop 11=none,none,Přepnout se na plochu 11
+Switch to Desktop 12=none,none,Přepnout se na plochu 12
+Switch to Desktop 13=none,none,Přepnout se na plochu 13
+Switch to Desktop 14=none,none,Přepnout se na plochu 14
+Switch to Desktop 15=none,none,Přepnout se na plochu 15
+Switch to Desktop 16=none,none,Přepnout se na plochu 16
+Switch to Desktop 17=none,none,Přepnout se na plochu 17
+Switch to Desktop 18=none,none,Přepnout se na plochu 18
+Switch to Desktop 19=none,none,Přepnout se na plochu 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Přepnout se na plochu 2
+Switch to Desktop 20=none,none,Přepnout se na plochu 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Přepnout se na plochu 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Přepnout se na plochu 4
+Switch to Desktop 5=none,none,Přepnout se na plochu 5
+Switch to Desktop 6=none,none,Přepnout se na plochu 6
+Switch to Desktop 7=none,none,Přepnout se na plochu 7
+Switch to Desktop 8=none,none,Přepnout se na plochu 8
+Switch to Desktop 9=none,none,Přepnout se na plochu 9
+Switch to Next Desktop=none,none,Přepnout se na následující plochu
+Switch to Next Screen=none,none,Přepnout se na následující obrazovku
+Switch to Previous Desktop=none,none,Přepnout se na předchozí plochu
+Switch to Previous Screen=none,none,Přepnout se na předchozí obrazovku
+Switch to Screen 0=none,none,Přepnout se na obrazovku 0
+Switch to Screen 1=none,none,Přepnout se na obrazovku 1
+Switch to Screen 2=none,none,Přepnout se na obrazovku 2
+Switch to Screen 3=none,none,Přepnout se na obrazovku 3
+Switch to Screen 4=none,none,Přepnout se na obrazovku 4
+Switch to Screen 5=none,none,Přepnout se na obrazovku 5
+Switch to Screen 6=none,none,Přepnout se na obrazovku 6
+Switch to Screen 7=none,none,Přepnout se na obrazovku 7
+Toggle Window Raise/Lower=none,none,Přepnout okno: popředí/pozadí
+Walk Through Desktop List=none,none,Procházet seznamem ploch
+Walk Through Desktop List (Reverse)=none,none,Procházet seznamem ploch (opačně)
+Walk Through Desktops=none,none,Procházet plochami
+Walk Through Desktops (Reverse)=none,none,Procházet plochami (opačně)
+Walk Through Window Tabs=none,none,Procházet kartami oken
+Walk Through Window Tabs (Reverse)=none,none,Procházet kartami oken (Pozpátku)
+Walk Through Windows=Alt+Tab,none,Procházet okny
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,none,Procházet okny (opačně)
+Walk Through Windows Alternative=none,none,Alternativní procházení okny
+Walk Through Windows Alternative (Reverse)=none,none,Alternativní procházení okny (Pozpátku)
+Walk Through Windows of Current Application=Alt+`,none,Procházení okny aktuální aplikace
+Walk Through Windows of Current Application (Reverse)=Alt+~,none,Procházení okny aktuální aplikace (Pozpátku)
+Walk Through Windows of Current Application Alternative=none,none,Alternativní procházení okny aktuální aplikace
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Alternativní procházení okny aktuální aplikace (Pozpátku)
+Window Above Other Windows=none,none,Podržet okno nad ostatními
+Window Below Other Windows=none,none,Podržet okno pod ostatními
+Window Close=Alt+F4,Alt+F4,Zavřít okno
+Window Fullscreen=none,none,Okno na celou obrazovku
+Window Grow Horizontal=none,none,Posunout okno vodorovně se zvětšením
+Window Grow Vertical=none,none,Posunout okno svisle se zvětšením
+Window Lower=none,none,Dát okno do pozadí
+Window Maximize=Meta+PgUp,Meta+PgUp,Maximalizovat okno
+Window Maximize Horizontal=none,none,Maximalizovat okno vodorovně
+Window Maximize Vertical=none,none,Maximalizovat okno svisle
+Window Minimize=Meta+PgDown,Meta+PgDown,Minimalizovat okno
+Window Move=none,none,Přesunout okno
+Window No Border=none,none,Skrýt okraje okna
+Window On All Desktops=none,none,Podržet okno na všech plochách
+Window One Desktop Down=none,none,Okno o plochu dolů
+Window One Desktop Up=none,none,Okno o plochu nahoru
+Window One Desktop to the Left=none,none,Okno o plochu doleva
+Window One Desktop to the Right=none,none,Okno o plochu doprava
+Window Operations Menu=Alt+F3,Alt+F3,Nabídka činností okna
+Window Pack Down=none,none,Posunout okno dolů
+Window Pack Left=none,none,Posunout okno doleva
+Window Pack Right=none,none,Posunout okno doprava
+Window Pack Up=none,none,Posunout okno nahoru
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Rychlá dlaždice okna dolů
+Window Quick Tile Bottom Left=none,none,Rychlá dlaždice okna doleva dolů
+Window Quick Tile Bottom Right=none,none,Rychlá dlaždice okna doprava dolů
+Window Quick Tile Left=Meta+Left,Meta+Left,Rychlá dlaždice okna doleva
+Window Quick Tile Right=Meta+Right,Meta+Right,Rychlá dlaždice okna doprava
+Window Quick Tile Top=Meta+Up,Meta+Up,Rychlá dlaždice okna nahoru
+Window Quick Tile Top Left=none,none,Rychlá dlaždice okna doleva nahoru
+Window Quick Tile Top Right=none,none,Rychlá dlaždice okna doprava nahoru
+Window Raise=none,none,Zdvihnout okno
+Window Resize=none,none,Změnit velikost okna
+Window Shade=none,none,Sbalit okno
+Window Shrink Horizontal=none,none,Posunout okno vodorovně se zmenšením
+Window Shrink Vertical=none,none,Posunout okno svisle se zmenšením
+Window to Desktop 1=none,none,Okno na plochu 1
+Window to Desktop 10=none,none,Okno na plochu 10
+Window to Desktop 11=none,none,Okno na plochu 11
+Window to Desktop 12=none,none,Okno na plochu 12
+Window to Desktop 13=none,none,Okno na plochu 13
+Window to Desktop 14=none,none,Okno na plochu 14
+Window to Desktop 15=none,none,Okno na plochu 15
+Window to Desktop 16=none,none,Okno na plochu 16
+Window to Desktop 17=none,none,Okno na plochu 17
+Window to Desktop 18=none,none,Okno na plochu 18
+Window to Desktop 19=none,none,Okno na plochu 19
+Window to Desktop 2=none,none,Okno na plochu 2
+Window to Desktop 20=none,none,Okno na plochu 20
+Window to Desktop 3=none,none,Okno na plochu 3
+Window to Desktop 4=none,none,Okno na plochu 4
+Window to Desktop 5=none,none,Okno na plochu 5
+Window to Desktop 6=none,none,Okno na plochu 6
+Window to Desktop 7=none,none,Okno na plochu 7
+Window to Desktop 8=none,none,Okno na plochu 8
+Window to Desktop 9=none,none,Okno na plochu 9
+Window to Next Desktop=none,none,Okno na následující plochu
+Window to Next Screen=none,none,Okno na následující obrazovku
+Window to Previous Desktop=none,none,Okno na předchozí plochu
+Window to Previous Screen=none,none,Okno na předchozí obrazovku
+Window to Screen 0=none,none,Okno na obrazovku 0
+Window to Screen 1=none,none,Okno na obrazovku 1
+Window to Screen 2=none,none,Okno na obrazovku 2
+Window to Screen 3=none,none,Okno na obrazovku 3
+Window to Screen 4=none,none,Okno na obrazovku 4
+Window to Screen 5=none,none,Okno na obrazovku 5
+Window to Screen 6=none,none,Okno na obrazovku 6
+Window to Screen 7=none,none,Okno na obrazovku 7
+_k_friendly_name=KWin
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Snížit jas klávesnice
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Snížit jas obrazovky
+Hibernate=Hibernate,Hibernate,Hibernovat
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Zvýšit jas klávesnice
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Zvýšit jas obrazovky
+PowerOff=Power Off,Power Off,Vypnout
+Sleep=Sleep,Sleep,Uspat
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Přepnout podsvícení klávesnice
+_k_friendly_name=Správa napájení
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Aktivovat záznam Správce úloh 1
+activate task manager entry 10=Meta+0,Meta+0,Aktivovat záznam Správce úloh 10
+activate task manager entry 2=Meta+2,Meta+2,Aktivovat záznam Správce úloh 2
+activate task manager entry 3=Meta+3,Meta+3,Aktivovat záznam Správce úloh 3
+activate task manager entry 4=Meta+4,Meta+4,Aktivovat záznam Správce úloh 4
+activate task manager entry 5=Meta+5,Meta+5,Aktivovat záznam Správce úloh 5
+activate task manager entry 6=Meta+6,Meta+6,Aktivovat záznam Správce úloh 6
+activate task manager entry 7=Meta+7,Meta+7,Aktivovat záznam Správce úloh 7
+activate task manager entry 8=Meta+8,Meta+8,Aktivovat záznam Správce úloh 8
+activate task manager entry 9=Meta+9,Meta+9,Aktivovat záznam Správce úloh 9
+activate widget 3=Alt+F1,none,Aktivovat Spouštěč aplikací widget
+manage activities=Meta+Q,Meta+Q,Aktivity...
+next activity=Meta+Tab,none,Procházet aktivity
+previous activity=Meta+Shift+Tab,none,Procházet aktivity (pozpátku)
+show dashboard=Ctrl+F12,Ctrl+F12,Zobrazit plochu
+stop current activity=Meta+S,Meta+S,Zastavit současnou aktivitu

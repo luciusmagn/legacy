@@ -1,0 +1,27 @@
+{
+	"auto_show_diagnostics_panel": false,
+	"clients":
+	{
+		"reason":
+		{
+			"command":
+			[
+				"/usr/bin/reason-ls"
+			],
+			"enabled": true,
+			"languageId": "reason",
+			"scopes":
+			[
+				"source.reason"
+			],
+			"syntaxes":
+			[
+				"Packages/Reason/Reason.tmLanguage"
+			]
+		},
+		"rls":
+		{
+			"enabled": true
+		}
+	}
+}

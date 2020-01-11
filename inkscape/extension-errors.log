@@ -1,0 +1,51 @@
+Rozšíření "LaTeX" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: latex
+
+Rozšíření "LaTeX" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: dvips
+
+Rozšíření "LaTeX" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: pstoedit
+
+Rozšíření "GIMP XCF" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: gimp
+
+Rozšíření "Sketch Input" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: skconvert
+
+Rozšíření "Win32 Vector Print" se nepodařilo nahrát kvůli toto rozšíření je vytvořeno jen pro Windows.  Toto je způsobeno nesprávným souborem .inx pro toto rozšíření. Nesprávný soubor .inx může být způsoben špatnou instalací Inkscape.
+Rozšíření "Dia Input" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: dia
+  popis: In order to import Dia files, Dia itself must be installed.  You can get Dia at http://live.gnome.org/Dia
+
+Rozšíření "XFIG Input" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: fig2dev
+
+Rozšíření "DXF Output" se nepodařilo nahrát kvůli závislost nebyla splněna.
+Závislost:
+  typ: executable
+  umístění: křivka
+  řetězec: pstoedit
+  popis: je zapotřebí nainstalovat pstoedit, viz. http://www.pstoedit.net/pstoedit
+

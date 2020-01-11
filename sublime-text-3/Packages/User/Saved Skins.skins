@@ -1,0 +1,52 @@
+{
+	"Dev main":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/theme-tinybeard/base16-magnusi-dark.tmTheme",
+			"font_face": "ProFontWindowsCzech",
+			"font_size": 9,
+			"theme": "tinybeard.sublime-theme"
+		}
+	},
+	"edgy":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Acai.tmTheme",
+			"font_face": "ProFontWindowsCzech",
+			"font_size": 9,
+			"theme": "Adaptive.sublime-theme"
+		}
+	},
+	"newdev":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/User/Color Highlighter/themes/DinkDonk.tmTheme",
+			"font_face": "ProFontWindowsCzech",
+			"font_size": 9,
+			"theme": "greybeard.sublime-theme"
+		}
+	},
+	"sunlight":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/User/Color Highlighter/themes/base16-gruvbox-light-medium.tmTheme",
+			"font_face": "ProFontWindowsCzech",
+			"font_size": 9,
+			"theme": "Adaptive.sublime-theme"
+		}
+	},
+	"whitey":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/User/Color Highlighter/themes/base16-google-light.tmTheme",
+			"font_face": "ProFontWindowsCzech",
+			"font_size": 12,
+			"theme": "ayu-light.sublime-theme"
+		}
+	}
+}

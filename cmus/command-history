@@ -1,0 +1,55 @@
+load new.pl
+open new.pl
+save new.pl
+quit
+help
+new
+colorscheme base16
+shuffle
+clear
+save
+add prop-music/
+vol 100%
+57
+player-play
+player-next
+add /root/music/vintage
+add music/ogg/Legion - Behind Blue Eyes.ogg
+load main.pl
+save playlist
+add music/
+player-prev
+colorscheme zenburn
+colorscheme default
+colorscheme xterm-white
+colorscheme solarized-light
+colorscheme solarized-dark
+colorscheme night
+add music/wav/Rocky road to Dublin (Sherlock Holmes soundtrack)-F9nK0vX743Y.wav
+add music/wav/Metal Gear Solid V - The Phantom Pain ''Nuclear'' Lyrics [HD]-RrkzIN2eP0U.wav
+add music/wav/John Williams - Duel of the Fates (Star Wars Soundtrack) [HD]-xlYCxbBZUCY.wav
+add music/wav/Disturbed - Indestructible [Official Music Video]-aWxBrI0g1kE.wav
+add music/wav/Coldplay - Viva La Vida-dvgZkm1xWPE.wav
+add music/wav/Caesars - Jerk It Out-6C1hwXV1exU.wav
+player-next 
+refresh 
+play playlist
+play
+save -p /root/vintage
+fset shuffle=true
+vol +100
+vol 100
+vol 110
+load -p /root/vintage
+add -l {02 - Bonnie Tyler - Holding Out For A Hero (Video)}.wav
+add -l .
+add Quiet Life.wav
+add -l quiet.mp3
+add quiet.mp3
+add
+colorscheme green-mono-88
+colorscheme green
+colorscheme gray-88
+colorscheme cyan
+add .
+a .

@@ -1,0 +1,85 @@
+/* base on https://github.com/mackenza/Brackets-PHP-SmartHints */
+
+.RustIDE-hints {
+    padding-left: 22px;
+    position: relative;
+}
+
+.RustIDE-hints:before {
+    position: absolute;
+    left: 2px;
+    bottom: 2px;
+    border-radius: 50%;
+    font-size: 12px;
+    font-weight: bold;
+    height: 15px;
+    width: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    content: "R";
+    background-color: #000
+}
+
+.RustIDE-hints-Keyword:before {
+    content: "K";
+    background-color: #c800a4;
+}
+
+.RustIDE-hints-Macro:before {
+    content: "m";
+    background-color: #3E999F;
+}
+
+.RustIDE-hints-Module:before {
+    content: "M";
+    background-color: burlywood;
+}
+
+.RustIDE-hints-Trait:before {
+    content: "T";
+    background-color: dodgerblue;
+}
+
+.RustIDE-hints-Struct:before {
+    content: "S";
+    background-color: darkslateblue;
+}
+
+.RustIDE-hints-Function:before {
+    content: "F";
+    background-color: darkgreen;
+}
+
+.RustIDE-hints-Enum:before {
+    content: "E";
+    background-color: darkkhaki;
+}
+
+.RustIDE-hints-Let:before {
+    content: "L";
+    background-color: darkorange;
+}
+
+.RustIDE-hints-EnumVariant:before {
+    content: "EV";
+    background-color: darkslateblue;
+}
+
+.CodeMirror .rust-linter-gutter {
+    width: 20px;
+}
+
+.CodeMirror .rust-linter-gutter-icon {
+    margin-left: 7px;
+    cursor: pointer;
+}
+
+.rust-linter-gutter-error {
+    color: #822;
+}
+
+.rust-linter-gutter-warning {
+    color: #f89406;
+}

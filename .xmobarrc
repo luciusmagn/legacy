@@ -1,0 +1,32 @@
+Config {
+    font = "xft:ProfontWindowsCzech:pixelsize=12",
+    position = Top
+    bgColor = "#181512",
+    fgColor = "#eddcd3",
+    borderColor = "#ffffff",
+    borderWidth = 1,
+    border = NoBorder,
+    pickBroadest = True,
+    iconRoot = "/root/misc/icons"
+    lowerOnStart = True,
+    commands = [
+        Run MultiCpu ["-t","<icon=/root/misc/icons/cpu.xbm/> <total0> <total1> <total2> <total3>"] 10,
+        Run Memory ["-t","<icon=/root/misc/icons/mem.xbm/> <usedbar>","-H","8192","-L","4096","-h","#FFB6B0","-l","#cd546c","-n","#FFFFCC"] 10,
+        Run Network "wlan0" ["-t","<icon=/root/misc/icons/wifi_01.xbm/> <rx> | <tx>","-l","#cd546c","-S", "True"] 10,
+        Run Date "%a %b %_d %l:%M:%S" "date" 10,
+        Run BatteryP ["BAT0"]
+              ["-t", "<acstatus> (<left>%)",
+               "-L", "10", "-H", "80", "-p", "3",
+               "--", "-O", "<fc=green>On</fc> - ", "-i", "",
+               "-L", "-15", "-H", "-5",
+               "-f", "/sys/class/power_supply/BAT0/status",
+               "-l", "red", "-m", "blue", "-h", "green"]
+              600,
+        Run MPD ["-t", "<statei>: <fc=#cd546c><artist></fc> - <title> - <lapsed> <bar>"] 10,
+        Run Kbd [("cs", "cs"), ("en", "en")],
+        Run StdinReader
+    ],
+    sepChar = "%",
+    alignSep = "}{",
+    template = " <icon=/root/misc/icons/arch.xbm/> %StdinReader% } %mpd% { %multicpu%   %memory%  %wlan0%  %date%     %battery%  %kbd% "
+}

@@ -1,0 +1,98 @@
+{
+   "4s87ALBD/0kB8KrrN8ZgsCWprC7pBH6B7xEOFAeaJzU=": {
+      "expiry": 1604351784.562577,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815784.56258
+   },
+   "9jFJneXMVHTXLZTJwwlFuScHMcN/99brFSgqRKTizGw=": {
+      "expiry": 1604351785.564793,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815785.564797
+   },
+   "E10e7Gwg5+phsYD4E8qNYFsQySXnIHPAfo4zloUPESc=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1573420602.847156,
+         "expect_ct_observed": 1572815802.847156,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 1588595802.847142,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815802.847146
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1583702185.50405,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815785.504056
+   },
+   "OQf7znt8uuZAN913+3oddpIl+3rvwMOUXU9mRTyxY9k=": {
+      "expiry": 1604351784.19759,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815784.197593
+   },
+   "U1ba3acdkn6z/es8MQrxO/WOtrisOL+1kjxN2XR7ZAQ=": {
+      "expiry": 1604351783.974941,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815783.974944
+   },
+   "U31fRMrGfWaPZNoXpw4er6MzAboMPQ8OE0ZlI0Mj3O8=": {
+      "expiry": 1572819384.513831,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815784.513833
+   },
+   "bSQ51rOaMWXgewYA9mA/5RMzZP8LiXC1zfU/XBjKAME=": {
+      "expiry": 1604351802.101022,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815802.101024
+   },
+   "e3SziuwfuO2UvuBno+qkR1ObHAzZmSUoJhrc7dbP1Uo=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1573420602.801575,
+         "expect_ct_observed": 1572815802.801575,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 1604351802.801559,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815802.801563
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1583702185.048438,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815785.048443
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1604351802.719399,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815802.719401
+   },
+   "pmT3tj1DKKrEVIEkAnnQdRXL0q/r1xdRRmOx3sEHwrc=": {
+      "expiry": 1604353154.461737,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572817154.461739
+   },
+   "qaDeFdT1UTirY0OQe+c5LKw+zjx6vF/+3vFh7CgrAOY=": {
+      "expiry": 1604351802.712595,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1572815802.7126
+   },
+   "zJGLY/3Sqe78x9wNKpra0F1H40Gv7t6aRMQUPEeU4uM=": {
+      "expiry": 1604351786.181212,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1572815786.181213
+   }
+}
