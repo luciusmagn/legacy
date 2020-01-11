@@ -1,0 +1,10 @@
+set show-hidden true
+set show_hidden true
+open-with kak
+open kak
+open_with kak
+search .config
+search ranger
+delete
+touch category_activate.rs
+touch

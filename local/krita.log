@@ -1,0 +1,586 @@
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.4" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+== log ==
+ Supported renderers: QFlags(0x2|0x4) 
+Surface format preference list: 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    4 
+Probing format... QSurfaceFormat::DefaultColorSpace 2 
+Found format: QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+ 
+== end log == 
+================================================================================
+SESSION: 18 Nov 2019 20:45:06 +0100. Executing krita
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.7.1
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+18 Nov 2019 20:45:23 +0100: Importing image/jpeg to application/x-krita. Location: /root/woamnofculture.jpg. Real location: /root/woamnofculture.jpg. Batchmode: 0
+18 Nov 2019 20:45:23 +0100: Instant Preview Setting: 0
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Enabled simple smoothing.
+18 Nov 2019 20:45:23 +0100: Instant Preview Setting: 0
+18 Nov 2019 20:45:24 +0100: Instant Preview Setting: 0
+18 Nov 2019 20:48:05 +0100: Saving Document /root/woamnofculture.jpg as /root/woamnofculture.jpg (mime: image/jpeg). 1024 * 576 pixels, 3 layers.  101 frames, 24 framerate. Export configuration: No configuration
+18 Nov 2019 20:48:07 +0100: Converting from application/x-krita to image/jpeg. Location: /root/woamnofculture.jpg. Real location: /root/woamnofculture.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">3</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">3</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" b="1" r="1" g="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+18 Nov 2019 20:48:07 +0100: Completed saving /root/woamnofculture.jpg (mime: image/jpeg). Result: OK
+18 Nov 2019 20:48:10 +0100: Closing.
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.4" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+== log ==
+ Supported renderers: QFlags(0x2|0x4) 
+Surface format preference list: 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    4 
+Probing format... QSurfaceFormat::DefaultColorSpace 2 
+Found format: QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+ 
+== end log == 
+================================================================================
+SESSION: 21 Nov 2019 21:43:48 +0100. Executing krita
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.7.1
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+21 Nov 2019 21:44:14 +0100: Created image "Nepojmenované", 1 024 * 1 024 pixels, 100 dpi. Color model: 16-bit integer/kanál RGB/alfa (sRGB-elle-V2-g10.icc). Layers: 2
+21 Nov 2019 21:44:14 +0100: Instant Preview Setting: 0
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Enabled simple smoothing.
+21 Nov 2019 21:44:14 +0100: Instant Preview Setting: 0
+21 Nov 2019 21:44:15 +0100: Instant Preview Setting: 0
+21 Nov 2019 21:59:14 +0100: Converting from application/x-krita to application/x-krita. Location: /root/krita-113583-document_0-autosave.kra. Real location: /root/krita-113583-document_0-autosave.kra. Batchmode: 0. Configuration: none
+21 Nov 2019 21:59:14 +0100: Completed saving /root/krita-113583-document_0-autosave.kra (mime: application/x-krita). Result: OK
+21 Nov 2019 22:02:07 +0100: Closing.
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.4" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+== log ==
+ Supported renderers: QFlags(0x2|0x4) 
+Surface format preference list: 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+* QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    4 
+Probing format... QSurfaceFormat::DefaultColorSpace 2 
+Found format: QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+    2 
+ 
+== end log == 
+================================================================================
+SESSION: 21 Nov 2019 22:36:20 +0100. Executing krita
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.7.1
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+21 Nov 2019 22:36:38 +0100: Created image "Nepojmenované", 2 550 * 3 300 pixels, 300 dpi. Color model: 16-bit integer/kanál RGB/alfa (sRGB-elle-V2-g10.icc). Layers: 2
+21 Nov 2019 22:36:39 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Enabled simple smoothing.
+21 Nov 2019 22:36:39 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:36:40 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:37:09 +0100: Created image "Nepojmenované", 2 480 * 1 754 pixels, 300 dpi. Color model: 16-bit integer/kanál RGB/alfa (sRGB-elle-V2-g10.icc). Layers: 2
+21 Nov 2019 22:37:09 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Enabled simple smoothing.
+21 Nov 2019 22:37:09 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:37:10 +0100: Instant Preview Setting: 0
+21 Nov 2019 22:49:44 +0100: Saving Document  as /root/static.kra (mime: application/x-krita). 2480 * 1754 pixels, 4 layers.  101 frames, 24 framerate. Export configuration: No configuration
+21 Nov 2019 22:49:44 +0100: Converting from application/x-krita to application/x-krita. Location: /root/static.kra. Real location: /root/static.kra. Batchmode: 0. Configuration: none
+21 Nov 2019 22:49:45 +0100: Completed saving /root/static.kra (mime: application/x-krita). Result: OK
+21 Nov 2019 22:52:34 +0100: Closing.
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+SESSION: 30 Nov 2019 18:05:24 +0100. Executing krita
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.8
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.6" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+Current Settings
+
+	Current Swap Location: /tmp
+	Undo Enabled: 1
+	Undo Stack Limit: 30
+	Use OpenGL: 1
+	Use OpenGL Texture Buffer: 1
+	Use AMD Vectorization Workaround: 0
+	Canvas State: OPENGL_SUCCESS
+	Autosave Interval: 900
+	Use Backup Files: 1
+	Number of Backups Kept: 1
+	Backup File Suffix: ~
+	Backup Location: Same Folder as the File
+	Use Win8 Pointer Input: 0
+	Use RightMiddleTabletButton Workaround: 0
+	Levels of Detail Enabled: 0
+	Use Zip64: 0
+
+
+30 Nov 2019 18:05:37 +0100: Importing image/png to application/x-krita. Location: /root/fuckem.webp. Real location: /root/fuckem.webp. Batchmode: 0
+30 Nov 2019 18:05:37 +0100: Loaded image from image/png. Size: 256 * 256 pixels, 1 dpi. Color model: 8-bit integer/kanál RGB/alfa (sRGB built-in). Layers: 2
+30 Nov 2019 18:07:30 +0100: Saving Document /root/fuckem.webp as /root/fuckem.webp (mime: image/png). 256 * 256 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+30 Nov 2019 18:07:30 +0100: Create a simple backup for /root/fuckem.webp in the same location as the file.
+30 Nov 2019 18:07:32 +0100: Converting from application/x-krita to image/png. Location: /root/fuckem.webp. Real location: /root/fuckem.webp. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param type="internal" name="alpha">true</param>
+ <param type="internal" name="compression">1</param>
+ <param type="internal" name="forceSRGB">true</param>
+ <param type="internal" name="indexed">false</param>
+ <param type="internal" name="interlaced">false</param>
+ <param type="internal" name="saveAsHDR">false</param>
+ <param type="internal" name="saveSRGBProfile">false</param>
+ <param type="internal" name="storeAuthor">false</param>
+ <param type="internal" name="storeMetaData">false</param>
+ <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" r="1" b="1" space="sRGB-elle-V2-g10.icc"/>
+</color>
+]]></param>
+</params>
+
+30 Nov 2019 18:07:32 +0100: Completed saving /root/fuckem.webp (mime: image/png). Result: OK. Size: 49325. MD5 Hash: fb5e50c723934052a509cc082dc051cc
+30 Nov 2019 18:56:24 +0100: CLOSING SESSION
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+SESSION: 04 Dec 2019 21:09:34 +0100. Executing krita 2019-12-04-210909_2560x1440_scrot.png
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.8
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.6" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+Current Settings
+
+	Current Swap Location: /tmp
+	Undo Enabled: 1
+	Undo Stack Limit: 30
+	Use OpenGL: 1
+	Use OpenGL Texture Buffer: 1
+	Use AMD Vectorization Workaround: 0
+	Canvas State: OPENGL_SUCCESS
+	Autosave Interval: 900
+	Use Backup Files: 1
+	Number of Backups Kept: 1
+	Backup File Suffix: ~
+	Backup Location: Same Folder as the File
+	Use Win8 Pointer Input: 0
+	Use RightMiddleTabletButton Workaround: 0
+	Levels of Detail Enabled: 0
+	Use Zip64: 0
+
+
+04 Dec 2019 21:09:41 +0100: Importing image/png to application/x-krita. Location: /root/2019-12-04-210909_2560x1440_scrot.png. Real location: /root/2019-12-04-210909_2560x1440_scrot.png. Batchmode: 0
+04 Dec 2019 21:09:41 +0100: Loaded image from image/png. Size: 2560 * 1440 pixels, 1 dpi. Color model: 8-bit integer/kanál RGB/alfa (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+04 Dec 2019 21:23:51 +0100: CLOSING SESSION
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+SESSION: 05 Dec 2019 00:51:30 +0100. Executing krita
+
+WARNING: This file contains information about your system and the
+images you have been working with.
+
+If you have problems with Krita, the Krita developers might ask
+you to share this file with them. The information in this file is
+not shared automatically with the Krita developers in any way. You
+can disable logging to this file in Krita's Configure Krita Dialog.
+
+Please review the contents of this file before sharing this file with
+anyone.
+
+Krita
+
+ Version: 4.2.8
+ Languages: cs
+ Hidpi: true
+
+Qt
+
+  Version (compiled): 5.13.2
+  Version (loaded): 5.13.2
+
+OS Information
+
+  Build ABI: x86_64-little_endian-lp64
+  Build CPU: x86_64
+  CPU: x86_64
+  Kernel Type: linux
+  Kernel Version: 5.2.20-1-ck
+  Pretty Productname: Arch Linux
+  Product Type: arch
+  Product Version: unknown
+
+OpenGL Info
+ 
+  Vendor:  "Intel Open Source Technology Center" 
+  Renderer:  "Mesa DRI Intel(R) Haswell Mobile " 
+  Version:  "3.0 Mesa 19.2.6" 
+  Shading language:  "1.30" 
+  Requested format:  QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::CompatibilityProfile) 
+  Current format:    QSurfaceFormat(version 3.0, options QFlags<QSurfaceFormat::FormatOption>(DeprecatedFunctions), depthBufferSize 24, redBufferSize 8, greenBufferSize 8, blueBufferSize 8, alphaBufferSize 8, stencilBufferSize 8, samples -1, swapBehavior QSurfaceFormat::DoubleBuffer, swapInterval 0, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile) 
+     Version: 3.0
+     Supports deprecated functions true 
+     is OpenGL ES: false 
+
+QPA OpenGL Detection Info 
+  supportsDesktopGL: true 
+  supportsOpenGLES: true 
+  isQtPreferOpenGLES: false 
+
+Hardware Information
+
+  GPU Acceleration: auto
+  Memory: 7638 Mb
+  Number of Cores: 4
+  Swap Location: /tmp
+
+Current Settings
+
+	Current Swap Location: /tmp
+	Undo Enabled: 1
+	Undo Stack Limit: 30
+	Use OpenGL: 1
+	Use OpenGL Texture Buffer: 1
+	Use AMD Vectorization Workaround: 0
+	Canvas State: OPENGL_SUCCESS
+	Autosave Interval: 900
+	Use Backup Files: 1
+	Number of Backups Kept: 1
+	Backup File Suffix: ~
+	Backup Location: Same Folder as the File
+	Use Win8 Pointer Input: 0
+	Use RightMiddleTabletButton Workaround: 0
+	Levels of Detail Enabled: 0
+	Use Zip64: 0
+
+
+05 Dec 2019 00:51:46 +0100: Importing image/png to application/x-krita. Location: /root/2019-12-05-005058_516x340_scrot.png. Real location: /root/2019-12-05-005058_516x340_scrot.png. Batchmode: 0
+05 Dec 2019 00:51:46 +0100: Loaded image from image/png. Size: 516 * 340 pixels, 1 dpi. Color model: 8-bit integer/kanál RGB/alfa (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+05 Dec 2019 00:52:24 +0100: Saving Document /root/2019-12-05-005058_516x340_scrot.png as /root/2019-12-05-005058_516x340_scrot.png (mime: image/png). 516 * 340 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+05 Dec 2019 00:52:24 +0100: Create a simple backup for /root/2019-12-05-005058_516x340_scrot.png in the same location as the file.
+05 Dec 2019 00:52:26 +0100: Converting from application/x-krita to image/png. Location: /root/2019-12-05-005058_516x340_scrot.png. Real location: /root/2019-12-05-005058_516x340_scrot.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param type="internal" name="alpha">true</param>
+ <param type="internal" name="compression">1</param>
+ <param type="internal" name="forceSRGB">true</param>
+ <param type="internal" name="indexed">false</param>
+ <param type="internal" name="interlaced">false</param>
+ <param type="internal" name="saveAsHDR">false</param>
+ <param type="internal" name="saveSRGBProfile">false</param>
+ <param type="internal" name="storeAuthor">false</param>
+ <param type="internal" name="storeMetaData">false</param>
+ <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" r="1" g="1" b="1"/>
+</color>
+]]></param>
+</params>
+
+05 Dec 2019 00:52:26 +0100: Completed saving /root/2019-12-05-005058_516x340_scrot.png (mime: image/png). Result: OK. Size: 32835. MD5 Hash: ebb98cd4a167de216de3b84f9ea479bc
+05 Dec 2019 01:02:29 +0100: CLOSING SESSION
