@@ -1,0 +1,11 @@
+#!/usr/bin/fish
+
+set old_window (xdotool getmouselocation --shell | grep WINDOW | cut -d= -f2)
+
+while true
+ 	set new_window (xdotool getmouselocation --shell | grep WINDOW | cut -d= -f2)
+	if test "$old_window" -ne "$new_window"
+		berryc pointer_focus
+		set old_window $new_window
+	end 	
+end

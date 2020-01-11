@@ -1,0 +1,58 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+alt + Return
+	alacritty
+
+# program launcher
+alt + d
+	dmenu_run -fn "ProFontWindowsCzech:size=9" -nb "#141414" -nf "#ffffff"  -sb "#373737" -sf "#ffffff"
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# berry hotkeys
+#
+
+alt + {h, j, k, l}
+    berryc window_move {-50 0, 0 50, 0 -50, 50 0}
+
+alt+ shift +  {h, j, k, l}
+    berryc window_resize {-50 0, 0 50, 0 -50, 50 0}
+
+alt + {plus,ecaron,scaron,ccaron,rcaron,zcaron,yacute,aacute,iacute,ecute}
+    berryc switch_workspace {1-9,0}
+
+alt + shift + {plus,ecaron,scaron,ccaron,rcaron,zcaron,yacute,aacute,iacute,ecute}
+    berryc send_to_workspace {1-9,0}
+
+alt + m
+    berryc window_monocle
+
+alt + f
+    berryc fullscreen
+
+alt +  p
+    berryc snap_right
+
+alt + o 
+    berryc snap_left
+
+alt + n
+    berryc toggle_decorations
+
+alt + Tab
+    berryc cycle_focus
+
+alt + q
+    berryc window_close
+
+alt + c
+    berryc window_center
+
+~button1
+    berryc pointer_focus
